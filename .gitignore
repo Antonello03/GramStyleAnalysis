@@ -1,0 +1,27 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- LaTeX ---
+*.bcf
+*.run.xml
+*.pdf
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+docs/*.pdf        # ignora il PDF compilato, se non vuoi versionarlo
+
+# --- OS cruft ---
+.DS_Store
+Thumbs.db
+EOF
