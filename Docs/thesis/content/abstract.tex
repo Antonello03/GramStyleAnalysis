@@ -2,9 +2,19 @@
 
 
 \begin{abstract}
-Abstract is a short overview of the content of the work. The main goal of abstract is to give a reader an idea about the work, without the need to read it all. Thus, the abstract should be concise, but at the same time concrete on the content of the work.
+Extracting the style of an image is a challenging task in computer vision.
+Gram matrices, derived from convolutional neural networks feature activations, have been used to represent the style of images.
+This work aims to determine whether Gram matrices encode \emph{art-historical style} well enough to distinguish movements
+such as \emph{Impressionism} and \emph{Baroque} when different distance metrics are applied.
 
-Typically, abstract is not more than one page long, and presents the work in a brief and concise way. Often abstract follows the outline of the work presents a problem, method, and results.
+Gram matrices were computed from five VGG-19 layers for 24 style-labelled paintings in the WikiArt dataset. Similarity between every pair of Gram matrices
+was measured using \emph{RMSE}, \emph{Pearson correlation}, and \emph{cosine similarity}.
+Differences between intra- and inter-style distances were evaluated by averaging across Gram levels and images.
+New images were then synthesized by combining content and style representations extracted with VGG-19 from separate paintings, and their quality was assessed with the LAION Aesthetic Predictor.
+
+Our results indicate that Gram-matrix distances proved to be dominated by global luminance and saturation, yielding minimal separation between conventional styles.
+\emph{Pearson correlation} and \emph{cosine similarity} offered slightly better discrimination between styles than \emph{RMSE}.
+Overall, Gram matrices alone are a weak descriptor for canonical style classification.
 \end{abstract}
 
-\keywords{Template, BSc, Thesis, Artificial Intelligence}
+\keywords{Gram matrices, convolutional features, art-historical style, VGG-19, distance metrics, style classification, image style transfer, aesthetic quality assessment}
