@@ -1,6 +1,6 @@
 import os
 import torch
-from tqdm import tqdm
+import time, datetime
 from torch.autograd import Variable
 from torch import optim
 from torchvision import transforms
@@ -10,8 +10,8 @@ from PIL import Image
 from datasets import load_dataset
 import nest_asyncio; nest_asyncio.apply()
 
-model_dir  = "/home/antonello03/gdrive/Colab Notebooks/UNI/ProjectWork/"
-image_path = "/mnt/e/synthesized-wikiart"
+model_dir  = "./"
+image_path = "out_images/"
 
 class VGG(nn.Module):
     def __init__(self, pool='avg'):
@@ -199,9 +199,6 @@ def synthesizeImage(style_image, content_image, loss_fn, style_weights, content_
             loss = torch.sum(torch.stack(layer_losses))
             loss.backward()
             n_iter[0]+=1
-            if n_iter[0]%show_iter == (show_iter-1):
-                print(f"Iteration {n_iter[0]+1}, loss: {loss.item()}")
-                #print([f"{loss_layers[li]}: {l.item()}" for li, l in enumerate(layer_losses)])
             return loss
 
         optimizer.step(closure)
@@ -220,18 +217,39 @@ cos_content_weights = [1e-3]
 
 i = 0
 max_iter = 500
-type_res = f"512_res"
+type_res = f"512_wikiart"
 
+TOTAL_SAMPLES = 80_000
+start = time.perf_counter()
 
-for sample in tqdm(it):
+def fmt_time(sec):
+    sec = int(max(0, sec))
+    h, r = divmod(sec, 3600)
+    m, s = divmod(r, 60)
+    return f"{h:d}:{m:02d}:{s:02d}" if h else f"{m:02d}:{s:02d}"
+
+for sample in it:
     i += 1
     img = sample["image"]
     img.save(f"{image_path}/{i}_style_{type_res}.jpg")
     img = prep(img)
     img = Variable(img.unsqueeze(0).cuda())
-    rmse_out = synthesizeImage(img, content_img, GramMSELoss, rmse_style_weights, rmse_content_weights, max_iter=max_iter, show_iter=max_iter+1)
+    rmse_out = synthesizeImage(img, content_img, GramMSELoss, rmse_style_weights, rmse_content_weights, max_iter=max_iter, show_iter=max_iter*2)
     rmse_out.save(f"{image_path}/{i}_rmse_{type_res}.jpg")
-    prs_out = synthesizeImage(img, content_img, PearsonCorrelationLoss, prs_style_weights, prs_content_weights, max_iter=max_iter, show_iter=max_iter+1)
+    prs_out = synthesizeImage(img, content_img, PearsonCorrelationLoss, prs_style_weights, prs_content_weights, max_iter=max_iter, show_iter=max_iter*2)
     prs_out.save(f"{image_path}/{i}_prs_{type_res}.jpg")
-    cos_out = synthesizeImage(img, content_img, CosineSimilarityLoss, cos_style_weights, cos_content_weights, max_iter=max_iter, show_iter=max_iter+1)
+    cos_out = synthesizeImage(img, content_img, CosineSimilarityLoss, cos_style_weights, cos_content_weights, max_iter=max_iter, show_iter=max_iter*2)
     cos_out.save(f"{image_path}/{i}_cos_{type_res}.jpg")
+
+    elapsed = time.perf_counter() - start
+    ips = i / elapsed if elapsed > 0 else 0.0  # items/sec
+    remaining = (TOTAL_SAMPLES - i) / ips if ips > 0 else float("inf")
+    pct = min(100.0, i * 100.0 / TOTAL_SAMPLES)
+    eta_clock = (datetime.datetime.now() + datetime.timedelta(seconds=remaining)).strftime("%Y-%m-%d %H:%M:%S") if ips > 0 else "calculating..."
+
+    print(
+        f"[{i}/{TOTAL_SAMPLES}  {pct:5.1f}%] "
+        f"elapsed {fmt_time(elapsed)} | remaining {fmt_time(remaining)} | ETA {eta_clock}",
+        end="\r",
+        flush=True
+    )
