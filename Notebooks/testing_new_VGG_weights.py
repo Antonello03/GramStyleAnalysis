@@ -7,7 +7,6 @@ from torchvision import transforms
 import torch.nn as nn
 import torch.nn.functional as F
 from PIL import Image
-from matplotlib import pyplot as plt
 
 img_size = 512
 prep = transforms.Compose([transforms.Resize(img_size),
@@ -243,7 +242,7 @@ class new_VGG(nn.Module):
 model_dir = './'
 
 vgg_standard = VGG()
-vgg_standard.load_state_dict(torch.load('vgg_conv.pth'))
+vgg_standard.load_state_dict(torch.load('/home/dirita/projectwork/GramStyleAnalysis/style_evaluation/vgg_conv.pth'))
 
 for param in vgg_standard.parameters():
     param.requires_grad = False
@@ -372,11 +371,11 @@ for idx_c, content_img in enumerate(content_imgs):
     for idx_s, style_img in enumerate(style_imgs):
         i += 1
         rmse_out = synthesizeImage_modelpick(vgg_standard, style_img, content_img, GramMSELoss, rmse_style_weights, rmse_content_weights, max_iter=max_iter, show_iter=max_iter//3)
-        rmse_out.save(f"{output_path}/new_model/style{idx_s}_content{idx_c}_rmse.jpg")
+        rmse_out.save(f"{output_path}/old_model/style{idx_s}_content{idx_c}_rmse.jpg")
         prs_out = synthesizeImage_modelpick(vgg_standard, style_img, content_img, PearsonCorrelationLoss, prs_style_weights, prs_content_weights, max_iter=max_iter, show_iter=max_iter//3)
-        prs_out.save(f"{output_path}/new_model/style{idx_s}_content{idx_c}_prs.jpg")
+        prs_out.save(f"{output_path}/old_model/style{idx_s}_content{idx_c}_prs.jpg")
         cos_out = synthesizeImage_modelpick(vgg_standard, style_img, content_img, CosineSimilarityLoss, cos_style_weights, cos_content_weights, max_iter=max_iter, show_iter=max_iter//3)
-        cos_out.save(f"{output_path}/new_model/style{idx_s}_content{idx_c}_cos.jpg")
+        cos_out.save(f"{output_path}/old_model/style{idx_s}_content{idx_c}_cos.jpg")
 
         elapsed = time.perf_counter() - start
         ips = i / elapsed if elapsed > 0 else 0.0  # items/sec
