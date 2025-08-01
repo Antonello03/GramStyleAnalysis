@@ -175,7 +175,7 @@ def postp(tensor): # to clip results in the range [0,1]
     return img
 
 vgg = VGG()
-vgg.load_state_dict(torch.load('vgg_conv.pth'))
+vgg.load_state_dict(torch.load('/home/dirita/projectwork/GramStyleAnalysis/style_evaluation/vgg_conv.pth'))
 
 for param in vgg.parameters():
     param.requires_grad = False
