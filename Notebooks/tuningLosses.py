@@ -1,3 +1,4 @@
+import json
 import os
 import torch
 from torch.autograd import Variable
@@ -9,6 +10,7 @@ from PIL import Image
 import torch
 import random
 import numpy as np
+from statistics import mean
 
 # Imposta il seed per tutti i moduli
 seed = 42
@@ -176,6 +178,7 @@ def postp(tensor): # to clip results in the range [0,1]
 
 vgg = VGG()
 vgg.load_state_dict(torch.load('/home/dirita/projectwork/GramStyleAnalysis/style_evaluation/vgg_conv.pth'))
+#vgg.load_state_dict(torch.load('vgg_conv.pth'))
 
 for param in vgg.parameters():
     param.requires_grad = False
@@ -217,6 +220,7 @@ def synthesizeImage(style_image, content_image, loss_fn, style_weights, content_
             n_iter[0]+=1
             if n_iter[0] % show_iter == 0:
                 print(f"Iteration {n_iter[0]}: Loss = {loss.item()}")
+                print("Layer losses:", [l.item() for l in layer_losses])
             return loss
 
         optimizer.step(closure)
@@ -247,24 +251,28 @@ def compute_coefficients(content_img, style_img, vgg, loss_fn):
 
     coeff_1 = [loss_fns[a](A, targets[a]).item() for a,A in enumerate(out)]
     coeff_rmse = [rmse_style_weights[a] * loss_fns_rmse[a](A, targets[a]).item() for a,A in enumerate(out)]
-    new_coeff = [rmse/one if one != 0 else 0 for rmse, one in zip(coeff_rmse, coeff_1)]
 
+    new_coeff = [rmse/one if one != 0 else 0 for rmse, one in zip(coeff_rmse, coeff_1)]
+    print("new coefficients:", new_coeff)
     return new_coeff
     
 
 output_path = "synthetized_images_dynamic_weights"
 
-coeff_pcc = []
+coeff_pcc = json.load(open("newLossesWeights.json"))["pearson_coeff"]
+coeff_cos = json.load(open("newLossesWeights.json"))["cos_coeff"]
+
 i = 0
 tot = len(content_imgs) * len(style_imgs)
+
 for idx_c, content_img in enumerate(content_imgs):
     for idx_s, style_img in enumerate(style_imgs):
 
-        coeff = compute_coefficients(content_img, style_img, vgg, PearsonCorrelationLoss)
-        prs_out = synthesizeImage(style_img, content_img, PearsonCorrelationLoss, coeff, [1e0], max_iter=600, show_iter=200)
+        prs_out = synthesizeImage(style_img, content_img, PearsonCorrelationLoss, coeff_pcc, [1e0], max_iter=600, show_iter=200)
         prs_out.save(f"{output_path}/style{idx_s}_content{idx_c}_prs.jpg")
-        coeff = compute_coefficients(content_img, style_img, vgg, CosineSimilarityLoss)
-        cos_out = synthesizeImage(style_img, content_img, CosineSimilarityLoss, coeff, [1e0], max_iter=600, show_iter=200)
+
+        cos_out = synthesizeImage(style_img, content_img, CosineSimilarityLoss, coeff_cos, [1e0], max_iter=600, show_iter=200)
         cos_out.save(f"{output_path}/style{idx_s}_content{idx_c}_cos.jpg")
+        
         print(f"Processed {i+1}/{tot} images")
         i += 1
