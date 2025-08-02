@@ -1009,11 +1009,6 @@
     "pearson": 3.953125,
     "rmse": 4.5
   },
-  "style35_content6": {
-    "cosine": null,
-    "pearson": 3.765625,
-    "rmse": 4.0625
-  },
   "style36_content0": {
     "cosine": 4.1875,
     "pearson": 4.40625,
