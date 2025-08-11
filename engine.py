@@ -6,7 +6,7 @@ from preprocessing import postp
 from config import style_layers, content_layers
 from torch import optim
 
-def synthesizeImage(vgg, style_image, content_image, loss_fn, style_weights, content_weights, max_iter=500, show_iter=100):
+def synthesizeImage(vgg, style_image, content_image, loss_fn, style_weights, content_weights, max_iter=500, show_iter=100, lr = 1):
 
     # Image to optimize is a clone of the content image for faster convergence
     opt_img = Variable(content_image.data.clone(), requires_grad=True)
@@ -25,7 +25,7 @@ def synthesizeImage(vgg, style_image, content_image, loss_fn, style_weights, con
     targets = style_targets + content_targets
 
     #run style transfer
-    optimizer = optim.LBFGS([opt_img]) # LBFGS as in the original gatys implementation
+    optimizer = optim.LBFGS([opt_img], lr = lr) # LBFGS as in the original gatys implementation
     n_iter=[0]
 
     while n_iter[0] <= max_iter:

@@ -7,6 +7,9 @@ content_layers = ['r42']
 max_iter = 500 
 img_size = 512
 
+max_iter_alt = 350
+lr_alt = 1.5
+
 
 # As in Gatys et al. 2016
 rmse_style_weights = [1e3/n**2 for n in [64,128,256,512,512]]
@@ -26,7 +29,8 @@ def compute_ratio_style_weights(vgg,
                                 content_layers, 
                                 style_loss_fn,
                                 style_loss_weight = 1/3,  # Peso relativo della style loss rispetto alla content loss
-                                verbose = False):  
+                                verbose = False,
+                                individual_layer_weights_by_loss = False):  
     """
     Calcola i pesi relativi per ciascun livello di stile in una rete di style transfer.
 
@@ -104,13 +108,22 @@ def compute_ratio_style_weights(vgg,
     # Calcolo dei pesi finali per ciascun livello
     scaled_style_weights = []
     tot_style_loss = sum(style_losses)
-    squared_channels = [n**2 for n in layer_channels]
-    # Step 2: Sum of all squared channels
-    total_ch = sum(squared_channels)
+
+    if individual_layer_weights_by_loss:
+        alt_layer_w = [l/tot_style_loss for l in style_losses]
+    else:
+        squared_channels = [n**2 for n in layer_channels]
+        # Step 2: Sum of all squared channels
+        total_ch = sum(squared_channels)
+
 
     for i in range(len(style_losses)):
-        #peso bsato sulla dimensione della feature map rappostato alla loss totale
-        style_loss_i = tot_style_loss*(squared_channels[i])/total_ch
+        if individual_layer_weights_by_loss:
+            style_loss_i = tot_style_loss*alt_layer_w[i]
+        else:
+            #peso basato sulla dimensione della feature map rappostato alla loss totale
+            style_loss_i = tot_style_loss*(squared_channels[i])/total_ch
+
         weight_i = (style_loss_weight * content_loss.item()) / (style_loss_i + eps)
         #scaled_weight_i = weight_i * (1 / (n_i**2 + eps))
         scaled_weight_i = weight_i
