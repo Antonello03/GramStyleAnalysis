@@ -32,7 +32,7 @@ def aesthetic_score(image):
 
 folder = "laion_scores"
 file_names = ["laion_scores_style_loss_0_5.json", "laion_scores_style_loss_1.json", "laion_scores_style_loss_1_5.json", "laion_scores_style_loss_2.json"]
-folder_paths = ["output_alt/0.5", "output_alt/1", "output_alt/1.5", "output_alt/2"]
+folder_paths = ["output/0.5", "output/1", "output/1.5", "output/2"]
 
 for file_name, folder_path in zip(file_names, folder_paths):
 
