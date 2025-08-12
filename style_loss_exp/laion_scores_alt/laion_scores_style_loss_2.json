@@ -1,4 +1,9 @@
 {
+  "Abstract_Expressionism_0_Tuebingens": {
+    "cosine": 4.03125,
+    "pearson": 4.0,
+    "rmse": 4.09375
+  },
   "Abstract_Expressionism_0_baseball-bat": {
     "cosine": 4.03125,
     "pearson": 4.03125,
@@ -14,6 +19,11 @@
     "pearson": 3.875,
     "rmse": 4.0
   },
+  "Abstract_Expressionism_0_carrot": {
+    "cosine": 3.9375,
+    "pearson": 3.640625,
+    "rmse": 3.8125
+  },
   "Abstract_Expressionism_0_chicago": {
     "cosine": 4.1875,
     "pearson": 4.25,
@@ -24,6 +34,11 @@
     "pearson": 4.03125,
     "rmse": 4.25
   },
+  "Abstract_Expressionism_0_cup": {
+    "cosine": 4.25,
+    "pearson": 4.1875,
+    "rmse": 4.0
+  },
   "Abstract_Expressionism_0_spoon": {
     "cosine": 4.46875,
     "pearson": 4.375,
@@ -33,6 +48,11 @@
     "cosine": 4.15625,
     "pearson": 4.09375,
     "rmse": 4.15625
+  },
+  "Art_Nouveau_0_Tuebingens": {
+    "cosine": 3.859375,
+    "pearson": 3.8125,
+    "rmse": 4.09375
   },
   "Art_Nouveau_0_baseball-bat": {
     "cosine": 4.09375,
@@ -49,6 +69,11 @@
     "pearson": 4.125,
     "rmse": 4.34375
   },
+  "Art_Nouveau_0_carrot": {
+    "cosine": 4.1875,
+    "pearson": 4.28125,
+    "rmse": 4.09375
+  },
   "Art_Nouveau_0_chicago": {
     "cosine": 4.53125,
     "pearson": 4.6875,
@@ -59,6 +84,11 @@
     "pearson": 4.46875,
     "rmse": 4.46875
   },
+  "Art_Nouveau_0_cup": {
+    "cosine": 4.28125,
+    "pearson": 4.15625,
+    "rmse": 4.28125
+  },
   "Art_Nouveau_0_spoon": {
     "cosine": 4.46875,
     "pearson": 4.46875,
@@ -68,6 +98,11 @@
     "cosine": 4.34375,
     "pearson": 4.28125,
     "rmse": 4.25
+  },
+  "Baroque_0_Tuebingens": {
+    "cosine": 3.921875,
+    "pearson": 3.796875,
+    "rmse": 3.953125
   },
   "Baroque_0_baseball-bat": {
     "cosine": 4.375,
@@ -84,6 +119,11 @@
     "pearson": 3.9375,
     "rmse": 4.25
   },
+  "Baroque_0_carrot": {
+    "cosine": 4.25,
+    "pearson": 4.0,
+    "rmse": 4.40625
+  },
   "Baroque_0_chicago": {
     "cosine": 4.625,
     "pearson": 4.625,
@@ -94,6 +134,11 @@
     "pearson": 4.09375,
     "rmse": 4.5625
   },
+  "Baroque_0_cup": {
+    "cosine": 3.671875,
+    "pearson": 3.609375,
+    "rmse": 4.28125
+  },
   "Baroque_0_spoon": {
     "cosine": 3.71875,
     "pearson": 4.0625,
@@ -103,6 +148,11 @@
     "cosine": 3.5625,
     "pearson": 3.78125,
     "rmse": 4.0
+  },
+  "Baroque_1_Tuebingens": {
+    "cosine": 4.21875,
+    "pearson": 4.15625,
+    "rmse": 4.1875
   },
   "Baroque_1_baseball-bat": {
     "cosine": 4.4375,
@@ -119,6 +169,11 @@
     "pearson": 4.1875,
     "rmse": 4.40625
   },
+  "Baroque_1_carrot": {
+    "cosine": 4.09375,
+    "pearson": 4.09375,
+    "rmse": 4.375
+  },
   "Baroque_1_chicago": {
     "cosine": 4.65625,
     "pearson": 4.71875,
@@ -129,6 +184,11 @@
     "pearson": 4.34375,
     "rmse": 4.09375
   },
+  "Baroque_1_cup": {
+    "cosine": 4.3125,
+    "pearson": 4.21875,
+    "rmse": 4.3125
+  },
   "Baroque_1_spoon": {
     "cosine": 4.0,
     "pearson": 4.34375,
@@ -138,6 +198,11 @@
     "cosine": 4.28125,
     "pearson": 4.21875,
     "rmse": 4.25
+  },
+  "Baroque_2_Tuebingens": {
+    "cosine": 4.1875,
+    "pearson": 4.28125,
+    "rmse": 4.125
   },
   "Baroque_2_baseball-bat": {
     "cosine": 3.828125,
@@ -154,6 +219,11 @@
     "pearson": 4.09375,
     "rmse": 4.3125
   },
+  "Baroque_2_carrot": {
+    "cosine": 4.3125,
+    "pearson": 4.1875,
+    "rmse": 4.125
+  },
   "Baroque_2_chicago": {
     "cosine": 4.0625,
     "pearson": 4.4375,
@@ -164,6 +234,11 @@
     "pearson": 4.125,
     "rmse": 4.34375
   },
+  "Baroque_2_cup": {
+    "cosine": 4.46875,
+    "pearson": 4.3125,
+    "rmse": 4.46875
+  },
   "Baroque_2_spoon": {
     "cosine": 4.09375,
     "pearson": 4.09375,
@@ -173,6 +248,11 @@
     "cosine": 4.28125,
     "pearson": 4.03125,
     "rmse": 4.125
+  },
+  "Color_Field_Painting_2_Tuebingens": {
+    "cosine": 3.578125,
+    "pearson": 3.5625,
+    "rmse": 3.71875
   },
   "Color_Field_Painting_2_baseball-bat": {
     "cosine": 4.0,
@@ -189,6 +269,11 @@
     "pearson": 3.796875,
     "rmse": 3.90625
   },
+  "Color_Field_Painting_2_carrot": {
+    "cosine": 4.0625,
+    "pearson": 3.84375,
+    "rmse": 3.8125
+  },
   "Color_Field_Painting_2_chicago": {
     "cosine": 3.53125,
     "pearson": 3.703125,
@@ -199,6 +284,11 @@
     "pearson": 3.75,
     "rmse": 3.65625
   },
+  "Color_Field_Painting_2_cup": {
+    "cosine": 3.765625,
+    "pearson": 3.703125,
+    "rmse": 3.765625
+  },
   "Color_Field_Painting_2_spoon": {
     "cosine": 3.671875,
     "pearson": 3.453125,
@@ -208,6 +298,11 @@
     "cosine": 3.640625,
     "pearson": 3.609375,
     "rmse": 3.59375
+  },
+  "Cubism_0_Tuebingens": {
+    "cosine": 4.09375,
+    "pearson": 4.09375,
+    "rmse": 4.3125
   },
   "Cubism_0_baseball-bat": {
     "cosine": 4.125,
@@ -224,6 +319,11 @@
     "pearson": 4.25,
     "rmse": 4.46875
   },
+  "Cubism_0_carrot": {
+    "cosine": 3.484375,
+    "pearson": 3.75,
+    "rmse": 3.75
+  },
   "Cubism_0_chicago": {
     "cosine": 4.59375,
     "pearson": 4.84375,
@@ -234,6 +334,11 @@
     "pearson": 4.28125,
     "rmse": 4.40625
   },
+  "Cubism_0_cup": {
+    "cosine": 4.15625,
+    "pearson": 4.25,
+    "rmse": 4.34375
+  },
   "Cubism_0_spoon": {
     "cosine": 4.5625,
     "pearson": 4.5,
@@ -243,6 +348,11 @@
     "cosine": 4.1875,
     "pearson": 4.34375,
     "rmse": 4.21875
+  },
+  "Early_Renaissance_1_Tuebingens": {
+    "cosine": 4.28125,
+    "pearson": 4.3125,
+    "rmse": 4.4375
   },
   "Early_Renaissance_1_baseball-bat": {
     "cosine": 4.1875,
@@ -259,6 +369,11 @@
     "pearson": 4.3125,
     "rmse": 4.59375
   },
+  "Early_Renaissance_1_carrot": {
+    "cosine": 4.21875,
+    "pearson": 4.21875,
+    "rmse": 4.125
+  },
   "Early_Renaissance_1_chicago": {
     "cosine": 4.46875,
     "pearson": 4.65625,
@@ -269,6 +384,11 @@
     "pearson": 3.96875,
     "rmse": 3.9375
   },
+  "Early_Renaissance_1_cup": {
+    "cosine": 4.21875,
+    "pearson": 4.125,
+    "rmse": 4.25
+  },
   "Early_Renaissance_1_spoon": {
     "cosine": 4.09375,
     "pearson": 4.0625,
@@ -278,6 +398,11 @@
     "cosine": 4.28125,
     "pearson": 4.15625,
     "rmse": 4.28125
+  },
+  "Expressionism_1_Tuebingens": {
+    "cosine": 4.15625,
+    "pearson": 4.40625,
+    "rmse": 4.40625
   },
   "Expressionism_1_baseball-bat": {
     "cosine": 4.375,
@@ -293,6 +418,11 @@
     "cosine": 4.375,
     "pearson": 4.4375,
     "rmse": 4.5
+  },
+  "Expressionism_1_carrot": {
+    "cosine": 4.25,
+    "pearson": 4.21875,
+    "rmse": 4.0625
   },
   "Expressionism_1_chicago": {
     "cosine": 4.875,
@@ -319,6 +449,11 @@
     "pearson": 4.1875,
     "rmse": 4.25
   },
+  "Impressionism_0_Tuebingens": {
+    "cosine": 3.984375,
+    "pearson": 3.96875,
+    "rmse": 4.0
+  },
   "Impressionism_0_baseball-bat": {
     "cosine": 4.25,
     "pearson": 4.03125,
@@ -334,6 +469,11 @@
     "pearson": 4.21875,
     "rmse": 4.21875
   },
+  "Impressionism_0_carrot": {
+    "cosine": 4.125,
+    "pearson": 4.5,
+    "rmse": 4.5
+  },
   "Impressionism_0_chicago": {
     "cosine": 4.8125,
     "pearson": 4.9375,
@@ -344,6 +484,11 @@
     "pearson": 4.5625,
     "rmse": 4.78125
   },
+  "Impressionism_0_cup": {
+    "cosine": 4.03125,
+    "pearson": 4.125,
+    "rmse": 3.796875
+  },
   "Impressionism_0_spoon": {
     "cosine": 4.0,
     "pearson": 4.0625,
@@ -353,6 +498,11 @@
     "cosine": 4.1875,
     "pearson": 4.0625,
     "rmse": 4.0625
+  },
+  "Impressionism_1_Tuebingens": {
+    "cosine": 3.78125,
+    "pearson": 3.890625,
+    "rmse": 3.828125
   },
   "Impressionism_1_baseball-bat": {
     "cosine": 4.125,
@@ -369,6 +519,11 @@
     "pearson": 3.875,
     "rmse": 4.21875
   },
+  "Impressionism_1_carrot": {
+    "cosine": 3.5625,
+    "pearson": 3.40625,
+    "rmse": 3.78125
+  },
   "Impressionism_1_chicago": {
     "cosine": 4.65625,
     "pearson": 4.59375,
@@ -379,6 +534,11 @@
     "pearson": 4.0625,
     "rmse": 4.25
   },
+  "Impressionism_1_cup": {
+    "cosine": 4.15625,
+    "pearson": 4.125,
+    "rmse": 4.21875
+  },
   "Impressionism_1_spoon": {
     "cosine": 3.71875,
     "pearson": 3.859375,
@@ -388,6 +548,11 @@
     "cosine": 3.953125,
     "pearson": 4.0625,
     "rmse": 3.78125
+  },
+  "Impressionism_2_Tuebingens": {
+    "cosine": 3.71875,
+    "pearson": 3.6875,
+    "rmse": 3.8125
   },
   "Impressionism_2_baseball-bat": {
     "cosine": 4.09375,
@@ -404,6 +569,11 @@
     "pearson": 4.25,
     "rmse": 4.375
   },
+  "Impressionism_2_carrot": {
+    "cosine": 4.03125,
+    "pearson": 3.890625,
+    "rmse": 4.0
+  },
   "Impressionism_2_chicago": {
     "cosine": 4.46875,
     "pearson": 4.3125,
@@ -415,7 +585,7 @@
     "rmse": 3.78125
   },
   "Impressionism_2_cup": {
-    "cosine": null,
+    "cosine": 3.921875,
     "pearson": 3.90625,
     "rmse": 4.09375
   },
@@ -428,6 +598,11 @@
     "cosine": 3.65625,
     "pearson": 3.6875,
     "rmse": 3.78125
+  },
+  "Mannerism_Late_Renaissance_1_Tuebingens": {
+    "cosine": 3.8125,
+    "pearson": 4.0,
+    "rmse": 4.0625
   },
   "Mannerism_Late_Renaissance_1_baseball-bat": {
     "cosine": 4.375,
@@ -444,6 +619,11 @@
     "pearson": 4.0,
     "rmse": 4.28125
   },
+  "Mannerism_Late_Renaissance_1_carrot": {
+    "cosine": 4.125,
+    "pearson": 4.15625,
+    "rmse": 4.21875
+  },
   "Mannerism_Late_Renaissance_1_chicago": {
     "cosine": 4.25,
     "pearson": 4.5625,
@@ -454,6 +634,11 @@
     "pearson": 4.125,
     "rmse": 4.03125
   },
+  "Mannerism_Late_Renaissance_1_cup": {
+    "cosine": 4.375,
+    "pearson": 4.34375,
+    "rmse": 4.21875
+  },
   "Mannerism_Late_Renaissance_1_spoon": {
     "cosine": 4.0,
     "pearson": 4.03125,
@@ -463,6 +648,11 @@
     "cosine": 3.96875,
     "pearson": 4.09375,
     "rmse": 4.21875
+  },
+  "Naive_Art_Primitivism_0_Tuebingens": {
+    "cosine": 4.125,
+    "pearson": 4.15625,
+    "rmse": 4.1875
   },
   "Naive_Art_Primitivism_0_baseball-bat": {
     "cosine": 4.34375,
@@ -479,6 +669,11 @@
     "pearson": 4.1875,
     "rmse": 4.3125
   },
+  "Naive_Art_Primitivism_0_carrot": {
+    "cosine": 4.0625,
+    "pearson": 4.125,
+    "rmse": 4.03125
+  },
   "Naive_Art_Primitivism_0_chicago": {
     "cosine": 4.75,
     "pearson": 4.71875,
@@ -489,6 +684,11 @@
     "pearson": 4.25,
     "rmse": 4.3125
   },
+  "Naive_Art_Primitivism_0_cup": {
+    "cosine": 4.0,
+    "pearson": 4.0,
+    "rmse": 4.125
+  },
   "Naive_Art_Primitivism_0_spoon": {
     "cosine": 4.09375,
     "pearson": 4.125,
@@ -498,6 +698,11 @@
     "cosine": 3.671875,
     "pearson": 3.78125,
     "rmse": 3.78125
+  },
+  "Northern_Renaissance_0_Tuebingens": {
+    "cosine": 4.1875,
+    "pearson": 4.3125,
+    "rmse": 3.984375
   },
   "Northern_Renaissance_0_baseball-bat": {
     "cosine": 4.34375,
@@ -514,6 +719,11 @@
     "pearson": 3.828125,
     "rmse": 3.890625
   },
+  "Northern_Renaissance_0_carrot": {
+    "cosine": 4.03125,
+    "pearson": 4.03125,
+    "rmse": 3.875
+  },
   "Northern_Renaissance_0_chicago": {
     "cosine": 4.40625,
     "pearson": 4.375,
@@ -524,6 +734,11 @@
     "pearson": 4.15625,
     "rmse": 3.984375
   },
+  "Northern_Renaissance_0_cup": {
+    "cosine": 4.09375,
+    "pearson": 4.125,
+    "rmse": 4.1875
+  },
   "Northern_Renaissance_0_spoon": {
     "cosine": 4.25,
     "pearson": 4.40625,
@@ -533,6 +748,11 @@
     "cosine": 4.40625,
     "pearson": 4.40625,
     "rmse": 4.21875
+  },
+  "Post_Impressionism_1_Tuebingens": {
+    "cosine": 4.15625,
+    "pearson": 4.25,
+    "rmse": 4.3125
   },
   "Post_Impressionism_1_baseball-bat": {
     "cosine": 4.40625,
@@ -548,6 +768,11 @@
     "cosine": 4.34375,
     "pearson": 4.34375,
     "rmse": 4.3125
+  },
+  "Post_Impressionism_1_carrot": {
+    "cosine": 4.125,
+    "pearson": 4.0625,
+    "rmse": 4.09375
   },
   "Post_Impressionism_1_chicago": {
     "cosine": 4.84375,
@@ -574,6 +799,11 @@
     "pearson": 4.03125,
     "rmse": 4.3125
   },
+  "Realism_0_Tuebingens": {
+    "cosine": 3.796875,
+    "pearson": 3.78125,
+    "rmse": 3.890625
+  },
   "Realism_0_baseball-bat": {
     "cosine": 4.15625,
     "pearson": 4.09375,
@@ -588,6 +818,11 @@
     "cosine": 4.53125,
     "pearson": 4.3125,
     "rmse": 4.15625
+  },
+  "Realism_0_carrot": {
+    "cosine": 4.0,
+    "pearson": 3.90625,
+    "rmse": 4.125
   },
   "Realism_0_chicago": {
     "cosine": 4.40625,
@@ -614,6 +849,11 @@
     "pearson": 3.71875,
     "rmse": 4.0625
   },
+  "Realism_1_Tuebingens": {
+    "cosine": 3.734375,
+    "pearson": 3.75,
+    "rmse": 3.875
+  },
   "Realism_1_baseball-bat": {
     "cosine": 4.34375,
     "pearson": 4.375,
@@ -628,6 +868,11 @@
     "cosine": 3.859375,
     "pearson": 4.03125,
     "rmse": 4.0625
+  },
+  "Realism_1_carrot": {
+    "cosine": 3.8125,
+    "pearson": 4.09375,
+    "rmse": 3.796875
   },
   "Realism_1_chicago": {
     "cosine": 4.375,
@@ -654,6 +899,11 @@
     "pearson": 3.9375,
     "rmse": 3.703125
   },
+  "Realism_2_Tuebingens": {
+    "cosine": 4.09375,
+    "pearson": 3.9375,
+    "rmse": 3.96875
+  },
   "Realism_2_baseball-bat": {
     "cosine": 3.765625,
     "pearson": 3.90625,
@@ -668,6 +918,11 @@
     "cosine": 4.03125,
     "pearson": 4.375,
     "rmse": 4.3125
+  },
+  "Realism_2_carrot": {
+    "cosine": 3.890625,
+    "pearson": 3.8125,
+    "rmse": 3.828125
   },
   "Realism_2_chicago": {
     "cosine": 4.53125,
@@ -694,6 +949,11 @@
     "pearson": 4.3125,
     "rmse": 4.21875
   },
+  "Rococo_1_Tuebingens": {
+    "cosine": 4.3125,
+    "pearson": 4.46875,
+    "rmse": 4.21875
+  },
   "Rococo_1_baseball-bat": {
     "cosine": 4.09375,
     "pearson": 3.984375,
@@ -709,6 +969,11 @@
     "pearson": 4.28125,
     "rmse": 4.34375
   },
+  "Rococo_1_carrot": {
+    "cosine": 4.15625,
+    "pearson": 4.15625,
+    "rmse": 4.4375
+  },
   "Rococo_1_chicago": {
     "cosine": 4.5625,
     "pearson": 4.46875,
@@ -719,6 +984,11 @@
     "pearson": 4.125,
     "rmse": 4.21875
   },
+  "Rococo_1_cup": {
+    "cosine": 4.15625,
+    "pearson": 4.1875,
+    "rmse": 4.125
+  },
   "Rococo_1_spoon": {
     "cosine": 3.875,
     "pearson": 4.03125,
@@ -728,6 +998,11 @@
     "cosine": 4.25,
     "pearson": 4.40625,
     "rmse": 4.40625
+  },
+  "Romanticism_0_Tuebingens": {
+    "cosine": 4.03125,
+    "pearson": 4.15625,
+    "rmse": 4.09375
   },
   "Romanticism_0_baseball-bat": {
     "cosine": 4.40625,
@@ -743,6 +1018,11 @@
     "cosine": 4.15625,
     "pearson": 4.09375,
     "rmse": 4.28125
+  },
+  "Romanticism_0_carrot": {
+    "cosine": 4.125,
+    "pearson": 3.953125,
+    "rmse": 4.15625
   },
   "Romanticism_0_chicago": {
     "cosine": 4.65625,
@@ -769,6 +1049,11 @@
     "pearson": 4.21875,
     "rmse": 4.125
   },
+  "Romanticism_1_Tuebingens": {
+    "cosine": 3.75,
+    "pearson": 3.890625,
+    "rmse": 4.0625
+  },
   "Romanticism_1_baseball-bat": {
     "cosine": 3.953125,
     "pearson": 3.9375,
@@ -784,6 +1069,11 @@
     "pearson": 3.984375,
     "rmse": 3.9375
   },
+  "Romanticism_1_carrot": {
+    "cosine": 3.90625,
+    "pearson": 3.9375,
+    "rmse": 3.859375
+  },
   "Romanticism_1_chicago": {
     "cosine": 4.375,
     "pearson": 4.09375,
@@ -794,6 +1084,11 @@
     "pearson": 4.25,
     "rmse": 4.15625
   },
+  "Romanticism_1_cup": {
+    "cosine": 3.796875,
+    "pearson": 3.546875,
+    "rmse": 4.0625
+  },
   "Romanticism_1_spoon": {
     "cosine": 4.125,
     "pearson": 4.1875,
@@ -803,6 +1098,11 @@
     "cosine": 3.890625,
     "pearson": 3.890625,
     "rmse": 3.953125
+  },
+  "Romanticism_2_Tuebingens": {
+    "cosine": 3.46875,
+    "pearson": 3.484375,
+    "rmse": 3.46875
   },
   "Romanticism_2_baseball-bat": {
     "cosine": 4.03125,
@@ -819,6 +1119,11 @@
     "pearson": 4.15625,
     "rmse": 4.28125
   },
+  "Romanticism_2_carrot": {
+    "cosine": 3.875,
+    "pearson": 3.890625,
+    "rmse": 4.125
+  },
   "Romanticism_2_chicago": {
     "cosine": 4.25,
     "pearson": 4.09375,
@@ -829,6 +1134,11 @@
     "pearson": 3.96875,
     "rmse": 3.90625
   },
+  "Romanticism_2_cup": {
+    "cosine": 4.09375,
+    "pearson": 3.828125,
+    "rmse": 3.953125
+  },
   "Romanticism_2_spoon": {
     "cosine": 3.765625,
     "pearson": 3.515625,
@@ -838,6 +1148,11 @@
     "cosine": 3.671875,
     "pearson": 3.640625,
     "rmse": 3.90625
+  },
+  "Symbolism_2_Tuebingens": {
+    "cosine": 4.21875,
+    "pearson": 4.21875,
+    "rmse": 4.15625
   },
   "Symbolism_2_baseball-bat": {
     "cosine": 4.1875,
@@ -854,6 +1169,11 @@
     "pearson": 4.3125,
     "rmse": 4.375
   },
+  "Symbolism_2_carrot": {
+    "cosine": 3.625,
+    "pearson": 3.59375,
+    "rmse": 3.75
+  },
   "Symbolism_2_chicago": {
     "cosine": 4.625,
     "pearson": 4.84375,
@@ -864,6 +1184,11 @@
     "pearson": 4.0625,
     "rmse": 4.125
   },
+  "Symbolism_2_cup": {
+    "cosine": 4.03125,
+    "pearson": 3.90625,
+    "rmse": 4.3125
+  },
   "Symbolism_2_spoon": {
     "cosine": 4.15625,
     "pearson": 4.21875,
@@ -873,6 +1198,11 @@
     "cosine": 3.890625,
     "pearson": 3.84375,
     "rmse": 4.0
+  },
+  "Ukiyo_e_2_Tuebingens": {
+    "cosine": 4.59375,
+    "pearson": 4.65625,
+    "rmse": 4.71875
   },
   "Ukiyo_e_2_baseball-bat": {
     "cosine": 4.53125,
@@ -888,6 +1218,11 @@
     "cosine": 4.875,
     "pearson": 4.6875,
     "rmse": 4.8125
+  },
+  "Ukiyo_e_2_carrot": {
+    "cosine": 4.46875,
+    "pearson": 4.3125,
+    "rmse": 4.375
   },
   "Ukiyo_e_2_chicago": {
     "cosine": 5.0625,
