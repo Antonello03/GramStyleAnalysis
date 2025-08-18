@@ -1,0 +1,52 @@
+{
+  "style0_content0": {
+    "rmse": 4.375,
+    "cosine": 4.46875,
+    "pearson": 4.5
+  },
+  "style0_content1": {
+    "rmse": 3.921875,
+    "cosine": 3.859375,
+    "pearson": 3.203125
+  },
+  "style1_content0": {
+    "rmse": 3.8125,
+    "cosine": 4.28125,
+    "pearson": 4.53125
+  },
+  "style1_content1": {
+    "rmse": 3.8125,
+    "cosine": 3.75,
+    "pearson": 3.71875
+  },
+  "style2_content0": {
+    "rmse": 3.890625,
+    "cosine": 4.375,
+    "pearson": 4.625
+  },
+  "style2_content1": {
+    "rmse": 3.890625,
+    "cosine": 3.6875,
+    "pearson": 3.6875
+  },
+  "style3_content0": {
+    "rmse": 4.5,
+    "cosine": 4.59375,
+    "pearson": 4.40625
+  },
+  "style3_content1": {
+    "rmse": 3.609375,
+    "cosine": 4.0625,
+    "pearson": 4.03125
+  },
+  "style4_content0": {
+    "rmse": 4.46875,
+    "cosine": 4.46875,
+    "pearson": 4.5625
+  },
+  "style4_content1": {
+    "rmse": 3.8125,
+    "cosine": 3.796875,
+    "pearson": 3.796875
+  }
+}

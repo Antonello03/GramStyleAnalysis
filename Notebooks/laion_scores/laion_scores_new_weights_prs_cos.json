@@ -1,0 +1,42 @@
+{
+  "style0_content0": {
+    "cosine": 4.625,
+    "pearson": 4.75
+  },
+  "style0_content1": {
+    "cosine": 4.28125,
+    "pearson": 4.25
+  },
+  "style1_content0": {
+    "cosine": 4.34375,
+    "pearson": 4.34375
+  },
+  "style1_content1": {
+    "cosine": 3.484375,
+    "pearson": 3.4375
+  },
+  "style2_content0": {
+    "cosine": 4.40625,
+    "pearson": 4.375
+  },
+  "style2_content1": {
+    "cosine": 3.8125,
+    "pearson": 3.703125
+  },
+  "style3_content0": {
+    "cosine": 4.53125,
+    "pearson": 4.6875
+  },
+  "style3_content1": {
+    "cosine": 3.71875,
+    "pearson": 3.921875
+  },
+  "style4_content0": {
+    "cosine": 4.40625,
+    "pearson": 4.53125
+  },
+  "style4_content1": {
+    "cosine": 3.984375,
+    "pearson": 4.0625
+  }
+}
