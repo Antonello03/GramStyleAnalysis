@@ -1,0 +1,16 @@
+Vecchi score (sheet Version2.5 colonna B),style0_content0,style1_content0,style2_content0,style3_content0,style4_content0
+MSE,3.88,3.67,4.03,3.78,4.19
+Cosine,3.92,3.83,4.00,3.91,4.09
+Pearson,3.70,3.80,3.97,3.80,4.13
+style_loss_weight = 1/3,style0_content0,style1_content0,style2_content0,style3_content0,style4_content0
+MSE,3.61,3.25,3.72,3.42,3.58
+Cosine,4.06,3.78,4.09,3.73,3.61
+Pearson,4.09,3.97,4.22,3.84,3.78
+style_loss_weight = ½,style0_content0,style1_content0,style2_content0,style3_content0,style4_content0
+MSE,3.61,3.23,3.97,3.48,3.52
+Cosine,4.16,3.80,4.19,3.91,3.78
+Pearson,4.22,3.92,4.09,3.98,3.92
+style_loss_weight = 1,style0_content0,style1_content0,style2_content0,style3_content0,style4_content0
+MSE,3.94,3.30,4.06,3.41,3.78
+Cosine,4.16,3.84,3.94,3.97,3.89
+Pearson,4.19,4.06,3.88,4.03,4.03
