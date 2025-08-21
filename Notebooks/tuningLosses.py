@@ -251,7 +251,6 @@ def compute_coefficients(content_img, style_img, vgg, loss_fn):
 
     coeff_1 = [loss_fns[a](A, targets[a]).item() for a,A in enumerate(out)]
     coeff_rmse = [rmse_style_weights[a] * loss_fns_rmse[a](A, targets[a]).item() for a,A in enumerate(out)]
-
     new_coeff = [rmse/one if one != 0 else 0 for rmse, one in zip(coeff_rmse, coeff_1)]
     print("new coefficients:", new_coeff)
     return new_coeff
