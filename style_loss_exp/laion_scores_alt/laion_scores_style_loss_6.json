@@ -1,0 +1,1252 @@
+{
+  "Abstract_Expressionism_0_Tuebingens": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.03125
+  },
+  "Abstract_Expressionism_0_baseball-bat": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.734375
+  },
+  "Abstract_Expressionism_0_bear": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.34375
+  },
+  "Abstract_Expressionism_0_bus": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.125
+  },
+  "Abstract_Expressionism_0_carrot": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.734375
+  },
+  "Abstract_Expressionism_0_chicago": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.5
+  },
+  "Abstract_Expressionism_0_cow": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.0625
+  },
+  "Abstract_Expressionism_0_cup": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.921875
+  },
+  "Abstract_Expressionism_0_spoon": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.5
+  },
+  "Abstract_Expressionism_0_vase": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.1875
+  },
+  "Art_Nouveau_0_Tuebingens": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.6875
+  },
+  "Art_Nouveau_0_baseball-bat": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.0
+  },
+  "Art_Nouveau_0_bear": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.125
+  },
+  "Art_Nouveau_0_bus": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.34375
+  },
+  "Art_Nouveau_0_carrot": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.3125
+  },
+  "Art_Nouveau_0_chicago": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.71875
+  },
+  "Art_Nouveau_0_cow": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.59375
+  },
+  "Art_Nouveau_0_cup": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.375
+  },
+  "Art_Nouveau_0_spoon": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.46875
+  },
+  "Art_Nouveau_0_vase": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.25
+  },
+  "Baroque_0_Tuebingens": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.1875
+  },
+  "Baroque_0_baseball-bat": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.71875
+  },
+  "Baroque_0_bear": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.28125
+  },
+  "Baroque_0_bus": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.15625
+  },
+  "Baroque_0_carrot": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.4375
+  },
+  "Baroque_0_chicago": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.65625
+  },
+  "Baroque_0_cow": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.125
+  },
+  "Baroque_0_cup": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.15625
+  },
+  "Baroque_0_spoon": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.4375
+  },
+  "Baroque_0_vase": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.84375
+  },
+  "Baroque_1_Tuebingens": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.3125
+  },
+  "Baroque_1_baseball-bat": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.5
+  },
+  "Baroque_1_bear": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.46875
+  },
+  "Baroque_1_bus": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.53125
+  },
+  "Baroque_1_carrot": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.21875
+  },
+  "Baroque_1_chicago": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.5625
+  },
+  "Baroque_1_cow": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.78125
+  },
+  "Baroque_1_cup": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.375
+  },
+  "Baroque_1_spoon": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.375
+  },
+  "Baroque_1_vase": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.28125
+  },
+  "Baroque_2_Tuebingens": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.0625
+  },
+  "Baroque_2_baseball-bat": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.15625
+  },
+  "Baroque_2_bear": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.1875
+  },
+  "Baroque_2_bus": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.46875
+  },
+  "Baroque_2_carrot": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.28125
+  },
+  "Baroque_2_chicago": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.53125
+  },
+  "Baroque_2_cow": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.59375
+  },
+  "Baroque_2_cup": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.3125
+  },
+  "Baroque_2_spoon": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.21875
+  },
+  "Baroque_2_vase": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.34375
+  },
+  "Color_Field_Painting_2_Tuebingens": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.8125
+  },
+  "Color_Field_Painting_2_baseball-bat": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.515625
+  },
+  "Color_Field_Painting_2_bear": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.75
+  },
+  "Color_Field_Painting_2_bus": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.96875
+  },
+  "Color_Field_Painting_2_carrot": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.9375
+  },
+  "Color_Field_Painting_2_chicago": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.875
+  },
+  "Color_Field_Painting_2_cow": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.640625
+  },
+  "Color_Field_Painting_2_cup": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.765625
+  },
+  "Color_Field_Painting_2_spoon": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.5
+  },
+  "Color_Field_Painting_2_vase": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.75
+  },
+  "Cubism_0_Tuebingens": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.28125
+  },
+  "Cubism_0_baseball-bat": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.375
+  },
+  "Cubism_0_bear": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.34375
+  },
+  "Cubism_0_bus": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.34375
+  },
+  "Cubism_0_carrot": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.75
+  },
+  "Cubism_0_chicago": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.59375
+  },
+  "Cubism_0_cow": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.4375
+  },
+  "Cubism_0_cup": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.09375
+  },
+  "Cubism_0_spoon": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.5625
+  },
+  "Cubism_0_vase": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.375
+  },
+  "Early_Renaissance_1_Tuebingens": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.5
+  },
+  "Early_Renaissance_1_baseball-bat": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.5625
+  },
+  "Early_Renaissance_1_bear": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.1875
+  },
+  "Early_Renaissance_1_bus": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.5625
+  },
+  "Early_Renaissance_1_carrot": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.03125
+  },
+  "Early_Renaissance_1_chicago": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 5.09375
+  },
+  "Early_Renaissance_1_cow": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.3125
+  },
+  "Early_Renaissance_1_cup": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.125
+  },
+  "Early_Renaissance_1_spoon": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.21875
+  },
+  "Early_Renaissance_1_vase": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.625
+  },
+  "Expressionism_1_Tuebingens": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.40625
+  },
+  "Expressionism_1_baseball-bat": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.46875
+  },
+  "Expressionism_1_bear": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.34375
+  },
+  "Expressionism_1_bus": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.5625
+  },
+  "Expressionism_1_carrot": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.0625
+  },
+  "Expressionism_1_chicago": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.90625
+  },
+  "Expressionism_1_cow": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.40625
+  },
+  "Expressionism_1_cup": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.25
+  },
+  "Expressionism_1_spoon": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.5
+  },
+  "Expressionism_1_vase": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.25
+  },
+  "Impressionism_0_Tuebingens": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.953125
+  },
+  "Impressionism_0_baseball-bat": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.0
+  },
+  "Impressionism_0_bear": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.34375
+  },
+  "Impressionism_0_bus": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.28125
+  },
+  "Impressionism_0_carrot": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.53125
+  },
+  "Impressionism_0_chicago": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.71875
+  },
+  "Impressionism_0_cow": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.65625
+  },
+  "Impressionism_0_cup": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.46875
+  },
+  "Impressionism_0_spoon": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.4375
+  },
+  "Impressionism_0_vase": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.03125
+  },
+  "Impressionism_1_Tuebingens": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.9375
+  },
+  "Impressionism_1_baseball-bat": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.03125
+  },
+  "Impressionism_1_bear": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.40625
+  },
+  "Impressionism_1_bus": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.1875
+  },
+  "Impressionism_1_carrot": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.671875
+  },
+  "Impressionism_1_chicago": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.53125
+  },
+  "Impressionism_1_cow": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.25
+  },
+  "Impressionism_1_cup": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.0625
+  },
+  "Impressionism_1_spoon": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.84375
+  },
+  "Impressionism_1_vase": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.78125
+  },
+  "Impressionism_2_Tuebingens": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.03125
+  },
+  "Impressionism_2_baseball-bat": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.578125
+  },
+  "Impressionism_2_bear": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.828125
+  },
+  "Impressionism_2_bus": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.21875
+  },
+  "Impressionism_2_carrot": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.0625
+  },
+  "Impressionism_2_chicago": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.46875
+  },
+  "Impressionism_2_cow": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.15625
+  },
+  "Impressionism_2_cup": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.0625
+  },
+  "Impressionism_2_spoon": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.625
+  },
+  "Impressionism_2_vase": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.0625
+  },
+  "Mannerism_Late_Renaissance_1_Tuebingens": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.03125
+  },
+  "Mannerism_Late_Renaissance_1_baseball-bat": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.5
+  },
+  "Mannerism_Late_Renaissance_1_bear": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.0625
+  },
+  "Mannerism_Late_Renaissance_1_bus": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.1875
+  },
+  "Mannerism_Late_Renaissance_1_carrot": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.96875
+  },
+  "Mannerism_Late_Renaissance_1_chicago": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.5
+  },
+  "Mannerism_Late_Renaissance_1_cow": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.125
+  },
+  "Mannerism_Late_Renaissance_1_cup": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.9375
+  },
+  "Mannerism_Late_Renaissance_1_spoon": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.25
+  },
+  "Mannerism_Late_Renaissance_1_vase": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.03125
+  },
+  "Naive_Art_Primitivism_0_Tuebingens": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.375
+  },
+  "Naive_Art_Primitivism_0_baseball-bat": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.5
+  },
+  "Naive_Art_Primitivism_0_bear": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.1875
+  },
+  "Naive_Art_Primitivism_0_bus": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.1875
+  },
+  "Naive_Art_Primitivism_0_carrot": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.25
+  },
+  "Naive_Art_Primitivism_0_chicago": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.625
+  },
+  "Naive_Art_Primitivism_0_cow": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.1875
+  },
+  "Naive_Art_Primitivism_0_cup": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.09375
+  },
+  "Naive_Art_Primitivism_0_spoon": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.15625
+  },
+  "Naive_Art_Primitivism_0_vase": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.6875
+  },
+  "Northern_Renaissance_0_Tuebingens": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.28125
+  },
+  "Northern_Renaissance_0_baseball-bat": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.28125
+  },
+  "Northern_Renaissance_0_bear": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.96875
+  },
+  "Northern_Renaissance_0_bus": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.875
+  },
+  "Northern_Renaissance_0_carrot": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.859375
+  },
+  "Northern_Renaissance_0_chicago": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.625
+  },
+  "Northern_Renaissance_0_cow": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.28125
+  },
+  "Northern_Renaissance_0_cup": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.40625
+  },
+  "Northern_Renaissance_0_spoon": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.1875
+  },
+  "Northern_Renaissance_0_vase": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.375
+  },
+  "Post_Impressionism_1_Tuebingens": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.46875
+  },
+  "Post_Impressionism_1_baseball-bat": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.5
+  },
+  "Post_Impressionism_1_bear": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.96875
+  },
+  "Post_Impressionism_1_bus": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.71875
+  },
+  "Post_Impressionism_1_carrot": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.34375
+  },
+  "Post_Impressionism_1_chicago": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.6875
+  },
+  "Post_Impressionism_1_cow": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.625
+  },
+  "Post_Impressionism_1_cup": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.625
+  },
+  "Post_Impressionism_1_spoon": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.375
+  },
+  "Post_Impressionism_1_vase": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.09375
+  },
+  "Realism_0_Tuebingens": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.953125
+  },
+  "Realism_0_baseball-bat": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.53125
+  },
+  "Realism_0_bear": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.65625
+  },
+  "Realism_0_bus": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.25
+  },
+  "Realism_0_carrot": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.46875
+  },
+  "Realism_0_chicago": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.28125
+  },
+  "Realism_0_cow": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.6875
+  },
+  "Realism_0_cup": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.34375
+  },
+  "Realism_0_spoon": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.0
+  },
+  "Realism_0_vase": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.890625
+  },
+  "Realism_1_Tuebingens": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.984375
+  },
+  "Realism_1_baseball-bat": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.40625
+  },
+  "Realism_1_bear": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.546875
+  },
+  "Realism_1_bus": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.34375
+  },
+  "Realism_1_carrot": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.09375
+  },
+  "Realism_1_chicago": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.71875
+  },
+  "Realism_1_cow": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.03125
+  },
+  "Realism_1_cup": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.71875
+  },
+  "Realism_1_spoon": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.859375
+  },
+  "Realism_1_vase": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.578125
+  },
+  "Realism_2_Tuebingens": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.03125
+  },
+  "Realism_2_baseball-bat": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.5625
+  },
+  "Realism_2_bear": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.125
+  },
+  "Realism_2_bus": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.375
+  },
+  "Realism_2_carrot": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.703125
+  },
+  "Realism_2_chicago": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.4375
+  },
+  "Realism_2_cow": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.34375
+  },
+  "Realism_2_cup": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.9375
+  },
+  "Realism_2_spoon": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.953125
+  },
+  "Realism_2_vase": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.28125
+  },
+  "Rococo_1_Tuebingens": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.3125
+  },
+  "Rococo_1_baseball-bat": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.25
+  },
+  "Rococo_1_bear": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.0625
+  },
+  "Rococo_1_bus": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.4375
+  },
+  "Rococo_1_carrot": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.4375
+  },
+  "Rococo_1_chicago": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.5625
+  },
+  "Rococo_1_cow": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.1875
+  },
+  "Rococo_1_cup": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.40625
+  },
+  "Rococo_1_spoon": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.15625
+  },
+  "Rococo_1_vase": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.5625
+  },
+  "Romanticism_0_Tuebingens": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.28125
+  },
+  "Romanticism_0_baseball-bat": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.40625
+  },
+  "Romanticism_0_bear": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.5625
+  },
+  "Romanticism_0_bus": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.4375
+  },
+  "Romanticism_0_carrot": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.09375
+  },
+  "Romanticism_0_chicago": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.46875
+  },
+  "Romanticism_0_cow": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.34375
+  },
+  "Romanticism_0_cup": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.125
+  },
+  "Romanticism_0_spoon": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.0625
+  },
+  "Romanticism_0_vase": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.25
+  },
+  "Romanticism_1_Tuebingens": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.703125
+  },
+  "Romanticism_1_baseball-bat": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.21875
+  },
+  "Romanticism_1_bear": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.78125
+  },
+  "Romanticism_1_bus": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.03125
+  },
+  "Romanticism_1_carrot": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.25
+  },
+  "Romanticism_1_chicago": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.78125
+  },
+  "Romanticism_1_cow": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.25
+  },
+  "Romanticism_1_cup": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.0
+  },
+  "Romanticism_1_spoon": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.34375
+  },
+  "Romanticism_1_vase": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.0625
+  },
+  "Romanticism_2_Tuebingens": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.5
+  },
+  "Romanticism_2_baseball-bat": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.890625
+  },
+  "Romanticism_2_bear": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.578125
+  },
+  "Romanticism_2_bus": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.1875
+  },
+  "Romanticism_2_carrot": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.3125
+  },
+  "Romanticism_2_chicago": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.921875
+  },
+  "Romanticism_2_cow": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.28125
+  },
+  "Romanticism_2_cup": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.890625
+  },
+  "Romanticism_2_spoon": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.578125
+  },
+  "Romanticism_2_vase": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.796875
+  },
+  "Symbolism_2_Tuebingens": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.28125
+  },
+  "Symbolism_2_baseball-bat": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.25
+  },
+  "Symbolism_2_bear": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.5625
+  },
+  "Symbolism_2_bus": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.5
+  },
+  "Symbolism_2_carrot": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.765625
+  },
+  "Symbolism_2_chicago": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.78125
+  },
+  "Symbolism_2_cow": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.40625
+  },
+  "Symbolism_2_cup": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.875
+  },
+  "Symbolism_2_spoon": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.09375
+  },
+  "Symbolism_2_vase": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 3.96875
+  },
+  "Ukiyo_e_2_Tuebingens": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.65625
+  },
+  "Ukiyo_e_2_baseball-bat": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.6875
+  },
+  "Ukiyo_e_2_bear": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.1875
+  },
+  "Ukiyo_e_2_bus": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.6875
+  },
+  "Ukiyo_e_2_carrot": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.34375
+  },
+  "Ukiyo_e_2_chicago": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 5.03125
+  },
+  "Ukiyo_e_2_cow": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.5
+  },
+  "Ukiyo_e_2_cup": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.875
+  },
+  "Ukiyo_e_2_spoon": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.625
+  },
+  "Ukiyo_e_2_vase": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": 4.3125
+  }
+}
