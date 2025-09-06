@@ -35,9 +35,9 @@ if torch.cuda.is_available():
     vgg.cuda()
 
 # Content and Style Images, Output Directory
-content_dir = 'style_loss_exp/content/'
-style_dir = 'style_loss_exp/style/'
-output_dir = 'style_loss_exp/output_alt'
+content_dir = 'final_experiment/content/'
+style_dir = 'final_experiment/style/'
+output_dir = 'final_experiment/output_alt'
 
 
 content_imgs = [Image.open(os.path.join(content_dir, f)) for f in os.listdir(content_dir) if f.endswith('.jpg')]
