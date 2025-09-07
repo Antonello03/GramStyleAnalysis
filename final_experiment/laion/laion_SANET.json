@@ -1,0 +1,6002 @@
+{
+  "baseball-bat_Abstract_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.640625
+  },
+  "baseball-bat_Art_Nouveau_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "baseball-bat_Art_Nouveau_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.9375
+  },
+  "baseball-bat_Art_Nouveau_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "baseball-bat_Art_Nouveau_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.8125
+  },
+  "baseball-bat_Art_Nouveau_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "baseball-bat_Baroque_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.734375
+  },
+  "baseball-bat_Baroque_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.515625
+  },
+  "baseball-bat_Baroque_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.84375
+  },
+  "baseball-bat_Baroque_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.78125
+  },
+  "baseball-bat_Baroque_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.953125
+  },
+  "baseball-bat_Cubism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.640625
+  },
+  "baseball-bat_Cubism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "baseball-bat_Cubism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "baseball-bat_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.78125
+  },
+  "baseball-bat_Expressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.375
+  },
+  "baseball-bat_Expressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "baseball-bat_High_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "baseball-bat_High_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.6875
+  },
+  "baseball-bat_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.625
+  },
+  "baseball-bat_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.359375
+  },
+  "baseball-bat_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.375
+  },
+  "baseball-bat_Impressionism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "baseball-bat_Impressionism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0
+  },
+  "baseball-bat_Naive_Art_Primitivism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.71875
+  },
+  "baseball-bat_Naive_Art_Primitivism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.796875
+  },
+  "baseball-bat_Naive_Art_Primitivism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.625
+  },
+  "baseball-bat_Naive_Art_Primitivism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.8125
+  },
+  "baseball-bat_Naive_Art_Primitivism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.640625
+  },
+  "baseball-bat_Northern_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.734375
+  },
+  "baseball-bat_Northern_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.578125
+  },
+  "baseball-bat_Northern_Renaissance_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.84375
+  },
+  "baseball-bat_Northern_Renaissance_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "baseball-bat_Northern_Renaissance_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.84375
+  },
+  "baseball-bat_Post_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.484375
+  },
+  "baseball-bat_Post_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.734375
+  },
+  "baseball-bat_Post_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.796875
+  },
+  "baseball-bat_Realism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.828125
+  },
+  "baseball-bat_Realism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.796875
+  },
+  "baseball-bat_Realism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.796875
+  },
+  "baseball-bat_Realism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.765625
+  },
+  "baseball-bat_Realism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.421875
+  },
+  "baseball-bat_Romanticism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.9375
+  },
+  "baseball-bat_Romanticism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.171875
+  },
+  "baseball-bat_Romanticism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.75
+  },
+  "baseball-bat_Romanticism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "baseball-bat_Romanticism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0
+  },
+  "baseball-bat_Symbolism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.59375
+  },
+  "baseball-bat_Symbolism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.59375
+  },
+  "baseball-bat_Symbolism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.859375
+  },
+  "bear_Abstract_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.71875
+  },
+  "bear_Art_Nouveau_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.984375
+  },
+  "bear_Art_Nouveau_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "bear_Art_Nouveau_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.9375
+  },
+  "bear_Art_Nouveau_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "bear_Art_Nouveau_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.734375
+  },
+  "bear_Baroque_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.984375
+  },
+  "bear_Baroque_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "bear_Baroque_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.21875
+  },
+  "bear_Baroque_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "bear_Baroque_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.703125
+  },
+  "bear_Cubism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.359375
+  },
+  "bear_Cubism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.953125
+  },
+  "bear_Cubism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "bear_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.78125
+  },
+  "bear_Expressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.71875
+  },
+  "bear_Expressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.96875
+  },
+  "bear_High_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.65625
+  },
+  "bear_High_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.6875
+  },
+  "bear_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.96875
+  },
+  "bear_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.5625
+  },
+  "bear_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "bear_Impressionism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "bear_Impressionism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.703125
+  },
+  "bear_Naive_Art_Primitivism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "bear_Naive_Art_Primitivism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.484375
+  },
+  "bear_Naive_Art_Primitivism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.671875
+  },
+  "bear_Naive_Art_Primitivism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "bear_Naive_Art_Primitivism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.8125
+  },
+  "bear_Northern_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.75
+  },
+  "bear_Northern_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.46875
+  },
+  "bear_Northern_Renaissance_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.671875
+  },
+  "bear_Northern_Renaissance_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "bear_Northern_Renaissance_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "bear_Post_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.46875
+  },
+  "bear_Post_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.734375
+  },
+  "bear_Post_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.8125
+  },
+  "bear_Realism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.4375
+  },
+  "bear_Realism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "bear_Realism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.90625
+  },
+  "bear_Realism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.4375
+  },
+  "bear_Realism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.53125
+  },
+  "bear_Romanticism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.25
+  },
+  "bear_Romanticism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.421875
+  },
+  "bear_Romanticism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "bear_Romanticism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.4375
+  },
+  "bear_Romanticism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "bear_Symbolism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.40625
+  },
+  "bear_Symbolism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.84375
+  },
+  "bear_Symbolism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.40625
+  },
+  "bird_Abstract_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.984375
+  },
+  "bird_Art_Nouveau_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.921875
+  },
+  "bird_Art_Nouveau_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "bird_Art_Nouveau_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "bird_Art_Nouveau_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "bird_Art_Nouveau_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "bird_Baroque_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "bird_Baroque_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.96875
+  },
+  "bird_Baroque_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.25
+  },
+  "bird_Baroque_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.25
+  },
+  "bird_Baroque_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "bird_Cubism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.84375
+  },
+  "bird_Cubism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.96875
+  },
+  "bird_Cubism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "bird_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "bird_Expressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.578125
+  },
+  "bird_Expressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.25
+  },
+  "bird_High_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 5.03125
+  },
+  "bird_High_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.546875
+  },
+  "bird_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.703125
+  },
+  "bird_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.75
+  },
+  "bird_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.734375
+  },
+  "bird_Impressionism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "bird_Impressionism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "bird_Naive_Art_Primitivism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "bird_Naive_Art_Primitivism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.484375
+  },
+  "bird_Naive_Art_Primitivism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.78125
+  },
+  "bird_Naive_Art_Primitivism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.90625
+  },
+  "bird_Naive_Art_Primitivism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "bird_Northern_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.875
+  },
+  "bird_Northern_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.703125
+  },
+  "bird_Northern_Renaissance_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.890625
+  },
+  "bird_Northern_Renaissance_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "bird_Northern_Renaissance_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "bird_Post_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.78125
+  },
+  "bird_Post_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.984375
+  },
+  "bird_Post_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.453125
+  },
+  "bird_Realism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0
+  },
+  "bird_Realism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "bird_Realism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "bird_Realism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.953125
+  },
+  "bird_Realism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.265625
+  },
+  "bird_Romanticism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.34375
+  },
+  "bird_Romanticism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.71875
+  },
+  "bird_Romanticism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.921875
+  },
+  "bird_Romanticism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.578125
+  },
+  "bird_Romanticism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.375
+  },
+  "bird_Symbolism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.28125
+  },
+  "bird_Symbolism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "bird_Symbolism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 5.03125
+  },
+  "boat_Abstract_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.671875
+  },
+  "boat_Art_Nouveau_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "boat_Art_Nouveau_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.3125
+  },
+  "boat_Art_Nouveau_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.984375
+  },
+  "boat_Art_Nouveau_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.890625
+  },
+  "boat_Art_Nouveau_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "boat_Baroque_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.3125
+  },
+  "boat_Baroque_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "boat_Baroque_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.21875
+  },
+  "boat_Baroque_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "boat_Baroque_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.828125
+  },
+  "boat_Cubism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.5
+  },
+  "boat_Cubism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.984375
+  },
+  "boat_Cubism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "boat_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.859375
+  },
+  "boat_Expressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.25
+  },
+  "boat_Expressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "boat_High_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.25
+  },
+  "boat_High_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.78125
+  },
+  "boat_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.765625
+  },
+  "boat_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.265625
+  },
+  "boat_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.8125
+  },
+  "boat_Impressionism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.796875
+  },
+  "boat_Impressionism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "boat_Naive_Art_Primitivism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0
+  },
+  "boat_Naive_Art_Primitivism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "boat_Naive_Art_Primitivism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "boat_Naive_Art_Primitivism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.9375
+  },
+  "boat_Naive_Art_Primitivism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.78125
+  },
+  "boat_Northern_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.921875
+  },
+  "boat_Northern_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.453125
+  },
+  "boat_Northern_Renaissance_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.65625
+  },
+  "boat_Northern_Renaissance_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.21875
+  },
+  "boat_Northern_Renaissance_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.96875
+  },
+  "boat_Post_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.921875
+  },
+  "boat_Post_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.765625
+  },
+  "boat_Post_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.578125
+  },
+  "boat_Realism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0
+  },
+  "boat_Realism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.890625
+  },
+  "boat_Realism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.65625
+  },
+  "boat_Realism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.8125
+  },
+  "boat_Realism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.234375
+  },
+  "boat_Romanticism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.375
+  },
+  "boat_Romanticism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.6875
+  },
+  "boat_Romanticism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.25
+  },
+  "boat_Romanticism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0
+  },
+  "boat_Romanticism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.34375
+  },
+  "boat_Symbolism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.890625
+  },
+  "boat_Symbolism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.96875
+  },
+  "boat_Symbolism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.96875
+  },
+  "bus_Abstract_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.28125
+  },
+  "bus_Art_Nouveau_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.65625
+  },
+  "bus_Art_Nouveau_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.765625
+  },
+  "bus_Art_Nouveau_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.71875
+  },
+  "bus_Art_Nouveau_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.65625
+  },
+  "bus_Art_Nouveau_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.890625
+  },
+  "bus_Baroque_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.734375
+  },
+  "bus_Baroque_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.609375
+  },
+  "bus_Baroque_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.609375
+  },
+  "bus_Baroque_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.90625
+  },
+  "bus_Baroque_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.5625
+  },
+  "bus_Cubism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.390625
+  },
+  "bus_Cubism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.859375
+  },
+  "bus_Cubism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.921875
+  },
+  "bus_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.765625
+  },
+  "bus_Expressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.84375
+  },
+  "bus_Expressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.828125
+  },
+  "bus_High_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "bus_High_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.265625
+  },
+  "bus_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.5625
+  },
+  "bus_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.203125
+  },
+  "bus_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.640625
+  },
+  "bus_Impressionism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.765625
+  },
+  "bus_Impressionism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.453125
+  },
+  "bus_Naive_Art_Primitivism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.859375
+  },
+  "bus_Naive_Art_Primitivism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.53125
+  },
+  "bus_Naive_Art_Primitivism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.640625
+  },
+  "bus_Naive_Art_Primitivism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.28125
+  },
+  "bus_Naive_Art_Primitivism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.703125
+  },
+  "bus_Northern_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.34375
+  },
+  "bus_Northern_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.328125
+  },
+  "bus_Northern_Renaissance_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.65625
+  },
+  "bus_Northern_Renaissance_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.90625
+  },
+  "bus_Northern_Renaissance_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.9375
+  },
+  "bus_Post_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.8125
+  },
+  "bus_Post_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.3125
+  },
+  "bus_Post_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.328125
+  },
+  "bus_Realism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.71875
+  },
+  "bus_Realism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.65625
+  },
+  "bus_Realism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.578125
+  },
+  "bus_Realism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.40625
+  },
+  "bus_Realism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.109375
+  },
+  "bus_Romanticism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.53125
+  },
+  "bus_Romanticism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.296875
+  },
+  "bus_Romanticism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.90625
+  },
+  "bus_Romanticism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "bus_Romanticism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.640625
+  },
+  "bus_Symbolism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.84375
+  },
+  "bus_Symbolism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.71875
+  },
+  "bus_Symbolism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.890625
+  },
+  "car_Abstract_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.78125
+  },
+  "car_Art_Nouveau_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "car_Art_Nouveau_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "car_Art_Nouveau_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "car_Art_Nouveau_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "car_Art_Nouveau_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.75
+  },
+  "car_Baroque_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.65625
+  },
+  "car_Baroque_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.34375
+  },
+  "car_Baroque_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "car_Baroque_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "car_Baroque_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.890625
+  },
+  "car_Cubism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.28125
+  },
+  "car_Cubism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.96875
+  },
+  "car_Cubism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.34375
+  },
+  "car_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.703125
+  },
+  "car_Expressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.984375
+  },
+  "car_Expressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.6875
+  },
+  "car_High_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.21875
+  },
+  "car_High_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.84375
+  },
+  "car_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.75
+  },
+  "car_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.8125
+  },
+  "car_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.703125
+  },
+  "car_Impressionism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.921875
+  },
+  "car_Impressionism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.890625
+  },
+  "car_Naive_Art_Primitivism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0
+  },
+  "car_Naive_Art_Primitivism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.984375
+  },
+  "car_Naive_Art_Primitivism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.671875
+  },
+  "car_Naive_Art_Primitivism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.953125
+  },
+  "car_Naive_Art_Primitivism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.71875
+  },
+  "car_Northern_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.671875
+  },
+  "car_Northern_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.5625
+  },
+  "car_Northern_Renaissance_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.421875
+  },
+  "car_Northern_Renaissance_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.3125
+  },
+  "car_Northern_Renaissance_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.21875
+  },
+  "car_Post_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.953125
+  },
+  "car_Post_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.96875
+  },
+  "car_Post_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.59375
+  },
+  "car_Realism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.96875
+  },
+  "car_Realism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.828125
+  },
+  "car_Realism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.75
+  },
+  "car_Realism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.875
+  },
+  "car_Realism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.046875
+  },
+  "car_Romanticism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.734375
+  },
+  "car_Romanticism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.703125
+  },
+  "car_Romanticism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "car_Romanticism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "car_Romanticism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.34375
+  },
+  "car_Symbolism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0
+  },
+  "car_Symbolism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.28125
+  },
+  "car_Symbolism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.40625
+  },
+  "carrot_Abstract_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.96875
+  },
+  "carrot_Art_Nouveau_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "carrot_Art_Nouveau_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.3125
+  },
+  "carrot_Art_Nouveau_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.53125
+  },
+  "carrot_Art_Nouveau_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "carrot_Art_Nouveau_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "carrot_Baroque_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.375
+  },
+  "carrot_Baroque_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0
+  },
+  "carrot_Baroque_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.953125
+  },
+  "carrot_Baroque_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.4375
+  },
+  "carrot_Baroque_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.890625
+  },
+  "carrot_Cubism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.734375
+  },
+  "carrot_Cubism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "carrot_Cubism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.828125
+  },
+  "carrot_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "carrot_Expressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.5625
+  },
+  "carrot_Expressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.375
+  },
+  "carrot_High_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.5625
+  },
+  "carrot_High_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.5
+  },
+  "carrot_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.34375
+  },
+  "carrot_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.734375
+  },
+  "carrot_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.34375
+  },
+  "carrot_Impressionism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.46875
+  },
+  "carrot_Impressionism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "carrot_Naive_Art_Primitivism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "carrot_Naive_Art_Primitivism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "carrot_Naive_Art_Primitivism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.28125
+  },
+  "carrot_Naive_Art_Primitivism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.3125
+  },
+  "carrot_Naive_Art_Primitivism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "carrot_Northern_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.21875
+  },
+  "carrot_Northern_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "carrot_Northern_Renaissance_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.46875
+  },
+  "carrot_Northern_Renaissance_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "carrot_Northern_Renaissance_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.78125
+  },
+  "carrot_Post_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.34375
+  },
+  "carrot_Post_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.34375
+  },
+  "carrot_Post_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "carrot_Realism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.5
+  },
+  "carrot_Realism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "carrot_Realism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.28125
+  },
+  "carrot_Realism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.890625
+  },
+  "carrot_Realism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.25
+  },
+  "carrot_Romanticism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.53125
+  },
+  "carrot_Romanticism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "carrot_Romanticism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.625
+  },
+  "carrot_Romanticism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.59375
+  },
+  "carrot_Romanticism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.25
+  },
+  "carrot_Symbolism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "carrot_Symbolism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.9375
+  },
+  "carrot_Symbolism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "cow_Abstract_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.921875
+  },
+  "cow_Art_Nouveau_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.78125
+  },
+  "cow_Art_Nouveau_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0
+  },
+  "cow_Art_Nouveau_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "cow_Art_Nouveau_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.90625
+  },
+  "cow_Art_Nouveau_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.96875
+  },
+  "cow_Baroque_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "cow_Baroque_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.21875
+  },
+  "cow_Baroque_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "cow_Baroque_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.96875
+  },
+  "cow_Baroque_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.8125
+  },
+  "cow_Cubism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.671875
+  },
+  "cow_Cubism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "cow_Cubism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "cow_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "cow_Expressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.75
+  },
+  "cow_Expressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.796875
+  },
+  "cow_High_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.5
+  },
+  "cow_High_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.65625
+  },
+  "cow_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.703125
+  },
+  "cow_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.34375
+  },
+  "cow_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.546875
+  },
+  "cow_Impressionism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "cow_Impressionism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.4375
+  },
+  "cow_Naive_Art_Primitivism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.609375
+  },
+  "cow_Naive_Art_Primitivism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.828125
+  },
+  "cow_Naive_Art_Primitivism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.546875
+  },
+  "cow_Naive_Art_Primitivism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.96875
+  },
+  "cow_Naive_Art_Primitivism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.75
+  },
+  "cow_Northern_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.546875
+  },
+  "cow_Northern_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.40625
+  },
+  "cow_Northern_Renaissance_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.65625
+  },
+  "cow_Northern_Renaissance_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.96875
+  },
+  "cow_Northern_Renaissance_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.21875
+  },
+  "cow_Post_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.625
+  },
+  "cow_Post_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.765625
+  },
+  "cow_Post_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.75
+  },
+  "cow_Realism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "cow_Realism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.859375
+  },
+  "cow_Realism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.59375
+  },
+  "cow_Realism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.59375
+  },
+  "cow_Realism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.171875
+  },
+  "cow_Romanticism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "cow_Romanticism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.46875
+  },
+  "cow_Romanticism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.375
+  },
+  "cow_Romanticism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "cow_Romanticism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.40625
+  },
+  "cow_Symbolism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "cow_Symbolism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.953125
+  },
+  "cow_Symbolism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "hair-drier_Abstract_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "hair-drier_Art_Nouveau_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "hair-drier_Art_Nouveau_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.5625
+  },
+  "hair-drier_Art_Nouveau_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.5625
+  },
+  "hair-drier_Art_Nouveau_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.34375
+  },
+  "hair-drier_Art_Nouveau_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.9375
+  },
+  "hair-drier_Baroque_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.8125
+  },
+  "hair-drier_Baroque_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.5625
+  },
+  "hair-drier_Baroque_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.34375
+  },
+  "hair-drier_Baroque_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.4375
+  },
+  "hair-drier_Baroque_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.3125
+  },
+  "hair-drier_Cubism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.5
+  },
+  "hair-drier_Cubism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.28125
+  },
+  "hair-drier_Cubism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.5625
+  },
+  "hair-drier_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.25
+  },
+  "hair-drier_Expressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.53125
+  },
+  "hair-drier_Expressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.59375
+  },
+  "hair-drier_High_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.84375
+  },
+  "hair-drier_High_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "hair-drier_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "hair-drier_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.953125
+  },
+  "hair-drier_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.953125
+  },
+  "hair-drier_Impressionism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.40625
+  },
+  "hair-drier_Impressionism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "hair-drier_Naive_Art_Primitivism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.375
+  },
+  "hair-drier_Naive_Art_Primitivism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "hair-drier_Naive_Art_Primitivism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.84375
+  },
+  "hair-drier_Naive_Art_Primitivism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.75
+  },
+  "hair-drier_Naive_Art_Primitivism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.28125
+  },
+  "hair-drier_Northern_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.703125
+  },
+  "hair-drier_Northern_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.515625
+  },
+  "hair-drier_Northern_Renaissance_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.9375
+  },
+  "hair-drier_Northern_Renaissance_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "hair-drier_Northern_Renaissance_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.34375
+  },
+  "hair-drier_Post_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "hair-drier_Post_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.71875
+  },
+  "hair-drier_Post_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.625
+  },
+  "hair-drier_Realism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.40625
+  },
+  "hair-drier_Realism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "hair-drier_Realism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.3125
+  },
+  "hair-drier_Realism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.375
+  },
+  "hair-drier_Realism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.8125
+  },
+  "hair-drier_Romanticism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.4375
+  },
+  "hair-drier_Romanticism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.609375
+  },
+  "hair-drier_Romanticism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.5625
+  },
+  "hair-drier_Romanticism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.96875
+  },
+  "hair-drier_Romanticism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.5625
+  },
+  "hair-drier_Symbolism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "hair-drier_Symbolism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.5
+  },
+  "hair-drier_Symbolism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.84375
+  },
+  "kite_Abstract_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.75
+  },
+  "kite_Art_Nouveau_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "kite_Art_Nouveau_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.34375
+  },
+  "kite_Art_Nouveau_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "kite_Art_Nouveau_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.984375
+  },
+  "kite_Art_Nouveau_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.984375
+  },
+  "kite_Baroque_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "kite_Baroque_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.46875
+  },
+  "kite_Baroque_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.40625
+  },
+  "kite_Baroque_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.28125
+  },
+  "kite_Baroque_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.75
+  },
+  "kite_Cubism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.796875
+  },
+  "kite_Cubism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.375
+  },
+  "kite_Cubism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "kite_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "kite_Expressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "kite_Expressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.25
+  },
+  "kite_High_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.375
+  },
+  "kite_High_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.703125
+  },
+  "kite_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.6875
+  },
+  "kite_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.28125
+  },
+  "kite_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.5625
+  },
+  "kite_Impressionism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.6875
+  },
+  "kite_Impressionism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.75
+  },
+  "kite_Naive_Art_Primitivism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.46875
+  },
+  "kite_Naive_Art_Primitivism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.78125
+  },
+  "kite_Naive_Art_Primitivism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.890625
+  },
+  "kite_Naive_Art_Primitivism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "kite_Naive_Art_Primitivism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.21875
+  },
+  "kite_Northern_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.78125
+  },
+  "kite_Northern_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.59375
+  },
+  "kite_Northern_Renaissance_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.703125
+  },
+  "kite_Northern_Renaissance_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.53125
+  },
+  "kite_Northern_Renaissance_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.96875
+  },
+  "kite_Post_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.890625
+  },
+  "kite_Post_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.65625
+  },
+  "kite_Post_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.78125
+  },
+  "kite_Realism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0
+  },
+  "kite_Realism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.859375
+  },
+  "kite_Realism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.921875
+  },
+  "kite_Realism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.859375
+  },
+  "kite_Realism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.1875
+  },
+  "kite_Romanticism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "kite_Romanticism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.515625
+  },
+  "kite_Romanticism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "kite_Romanticism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "kite_Romanticism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.34375
+  },
+  "kite_Symbolism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "kite_Symbolism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.28125
+  },
+  "kite_Symbolism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.21875
+  },
+  "orange_Abstract_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "orange_Art_Nouveau_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.625
+  },
+  "orange_Art_Nouveau_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "orange_Art_Nouveau_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.59375
+  },
+  "orange_Art_Nouveau_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.6875
+  },
+  "orange_Art_Nouveau_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.640625
+  },
+  "orange_Baroque_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.984375
+  },
+  "orange_Baroque_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "orange_Baroque_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.828125
+  },
+  "orange_Baroque_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.890625
+  },
+  "orange_Baroque_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.703125
+  },
+  "orange_Cubism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.546875
+  },
+  "orange_Cubism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.96875
+  },
+  "orange_Cubism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.734375
+  },
+  "orange_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.65625
+  },
+  "orange_Expressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.234375
+  },
+  "orange_Expressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.953125
+  },
+  "orange_High_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.375
+  },
+  "orange_High_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.3125
+  },
+  "orange_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.625
+  },
+  "orange_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.53125
+  },
+  "orange_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.75
+  },
+  "orange_Impressionism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.421875
+  },
+  "orange_Impressionism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.609375
+  },
+  "orange_Naive_Art_Primitivism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.859375
+  },
+  "orange_Naive_Art_Primitivism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.609375
+  },
+  "orange_Naive_Art_Primitivism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.609375
+  },
+  "orange_Naive_Art_Primitivism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.25
+  },
+  "orange_Naive_Art_Primitivism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.84375
+  },
+  "orange_Northern_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.765625
+  },
+  "orange_Northern_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.53125
+  },
+  "orange_Northern_Renaissance_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.390625
+  },
+  "orange_Northern_Renaissance_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.46875
+  },
+  "orange_Northern_Renaissance_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "orange_Post_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.734375
+  },
+  "orange_Post_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.578125
+  },
+  "orange_Post_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.71875
+  },
+  "orange_Realism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.953125
+  },
+  "orange_Realism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.734375
+  },
+  "orange_Realism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "orange_Realism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "orange_Realism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.53125
+  },
+  "orange_Romanticism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.859375
+  },
+  "orange_Romanticism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.546875
+  },
+  "orange_Romanticism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "orange_Romanticism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.84375
+  },
+  "orange_Romanticism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "orange_Symbolism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.4375
+  },
+  "orange_Symbolism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "orange_Symbolism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.5
+  },
+  "person_Abstract_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.21875
+  },
+  "person_Art_Nouveau_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "person_Art_Nouveau_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.46875
+  },
+  "person_Art_Nouveau_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "person_Art_Nouveau_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.375
+  },
+  "person_Art_Nouveau_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.21875
+  },
+  "person_Baroque_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.40625
+  },
+  "person_Baroque_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "person_Baroque_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.34375
+  },
+  "person_Baroque_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.34375
+  },
+  "person_Baroque_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.953125
+  },
+  "person_Cubism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.75
+  },
+  "person_Cubism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "person_Cubism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.21875
+  },
+  "person_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.28125
+  },
+  "person_Expressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "person_Expressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.46875
+  },
+  "person_High_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.59375
+  },
+  "person_High_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.921875
+  },
+  "person_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "person_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.640625
+  },
+  "person_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "person_Impressionism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.6875
+  },
+  "person_Impressionism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0
+  },
+  "person_Naive_Art_Primitivism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.25
+  },
+  "person_Naive_Art_Primitivism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.640625
+  },
+  "person_Naive_Art_Primitivism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.96875
+  },
+  "person_Naive_Art_Primitivism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.21875
+  },
+  "person_Naive_Art_Primitivism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "person_Northern_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0
+  },
+  "person_Northern_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.9375
+  },
+  "person_Northern_Renaissance_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0
+  },
+  "person_Northern_Renaissance_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.75
+  },
+  "person_Northern_Renaissance_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.3125
+  },
+  "person_Post_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "person_Post_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "person_Post_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.9375
+  },
+  "person_Realism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "person_Realism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.8125
+  },
+  "person_Realism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.921875
+  },
+  "person_Realism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "person_Realism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.703125
+  },
+  "person_Romanticism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.6875
+  },
+  "person_Romanticism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.9375
+  },
+  "person_Romanticism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 5.03125
+  },
+  "person_Romanticism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.34375
+  },
+  "person_Romanticism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.21875
+  },
+  "person_Symbolism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.34375
+  },
+  "person_Symbolism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.40625
+  },
+  "person_Symbolism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.59375
+  },
+  "potted-plant_Abstract_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "potted-plant_Art_Nouveau_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.4375
+  },
+  "potted-plant_Art_Nouveau_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "potted-plant_Art_Nouveau_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.5625
+  },
+  "potted-plant_Art_Nouveau_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "potted-plant_Art_Nouveau_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.4375
+  },
+  "potted-plant_Baroque_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.34375
+  },
+  "potted-plant_Baroque_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.46875
+  },
+  "potted-plant_Baroque_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "potted-plant_Baroque_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.375
+  },
+  "potted-plant_Baroque_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "potted-plant_Cubism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.75
+  },
+  "potted-plant_Cubism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "potted-plant_Cubism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.46875
+  },
+  "potted-plant_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "potted-plant_Expressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.921875
+  },
+  "potted-plant_Expressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "potted-plant_High_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "potted-plant_High_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.6875
+  },
+  "potted-plant_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "potted-plant_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.921875
+  },
+  "potted-plant_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.859375
+  },
+  "potted-plant_Impressionism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.875
+  },
+  "potted-plant_Impressionism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.28125
+  },
+  "potted-plant_Naive_Art_Primitivism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "potted-plant_Naive_Art_Primitivism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.28125
+  },
+  "potted-plant_Naive_Art_Primitivism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.59375
+  },
+  "potted-plant_Naive_Art_Primitivism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.734375
+  },
+  "potted-plant_Naive_Art_Primitivism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.671875
+  },
+  "potted-plant_Northern_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.890625
+  },
+  "potted-plant_Northern_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.609375
+  },
+  "potted-plant_Northern_Renaissance_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.21875
+  },
+  "potted-plant_Northern_Renaissance_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "potted-plant_Northern_Renaissance_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "potted-plant_Post_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "potted-plant_Post_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.296875
+  },
+  "potted-plant_Post_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.8125
+  },
+  "potted-plant_Realism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.21875
+  },
+  "potted-plant_Realism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.40625
+  },
+  "potted-plant_Realism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.21875
+  },
+  "potted-plant_Realism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.6875
+  },
+  "potted-plant_Realism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.515625
+  },
+  "potted-plant_Romanticism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.21875
+  },
+  "potted-plant_Romanticism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.78125
+  },
+  "potted-plant_Romanticism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.5
+  },
+  "potted-plant_Romanticism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.34375
+  },
+  "potted-plant_Romanticism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.3125
+  },
+  "potted-plant_Symbolism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.25
+  },
+  "potted-plant_Symbolism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "potted-plant_Symbolism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "sheep_Abstract_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.34375
+  },
+  "sheep_Art_Nouveau_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.734375
+  },
+  "sheep_Art_Nouveau_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.921875
+  },
+  "sheep_Art_Nouveau_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.25
+  },
+  "sheep_Art_Nouveau_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.90625
+  },
+  "sheep_Art_Nouveau_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "sheep_Baroque_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.921875
+  },
+  "sheep_Baroque_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.34375
+  },
+  "sheep_Baroque_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.828125
+  },
+  "sheep_Baroque_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.75
+  },
+  "sheep_Baroque_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.5
+  },
+  "sheep_Cubism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.703125
+  },
+  "sheep_Cubism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.4375
+  },
+  "sheep_Cubism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.3125
+  },
+  "sheep_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.8125
+  },
+  "sheep_Expressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.890625
+  },
+  "sheep_Expressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "sheep_High_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.28125
+  },
+  "sheep_High_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.4375
+  },
+  "sheep_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.75
+  },
+  "sheep_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.125
+  },
+  "sheep_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.5625
+  },
+  "sheep_Impressionism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.859375
+  },
+  "sheep_Impressionism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.484375
+  },
+  "sheep_Naive_Art_Primitivism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0
+  },
+  "sheep_Naive_Art_Primitivism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.984375
+  },
+  "sheep_Naive_Art_Primitivism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.5625
+  },
+  "sheep_Naive_Art_Primitivism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.984375
+  },
+  "sheep_Naive_Art_Primitivism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.90625
+  },
+  "sheep_Northern_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.4375
+  },
+  "sheep_Northern_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.453125
+  },
+  "sheep_Northern_Renaissance_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.46875
+  },
+  "sheep_Northern_Renaissance_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.84375
+  },
+  "sheep_Northern_Renaissance_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "sheep_Post_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "sheep_Post_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.609375
+  },
+  "sheep_Post_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.71875
+  },
+  "sheep_Realism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.875
+  },
+  "sheep_Realism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.765625
+  },
+  "sheep_Realism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.546875
+  },
+  "sheep_Realism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.8125
+  },
+  "sheep_Realism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.59375
+  },
+  "sheep_Romanticism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.859375
+  },
+  "sheep_Romanticism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.1875
+  },
+  "sheep_Romanticism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.65625
+  },
+  "sheep_Romanticism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.8125
+  },
+  "sheep_Romanticism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "sheep_Symbolism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.59375
+  },
+  "sheep_Symbolism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.671875
+  },
+  "sheep_Symbolism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.984375
+  },
+  "skis_Abstract_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "skis_Art_Nouveau_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.375
+  },
+  "skis_Art_Nouveau_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.40625
+  },
+  "skis_Art_Nouveau_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.3125
+  },
+  "skis_Art_Nouveau_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.34375
+  },
+  "skis_Art_Nouveau_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "skis_Baroque_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.21875
+  },
+  "skis_Baroque_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.53125
+  },
+  "skis_Baroque_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "skis_Baroque_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.3125
+  },
+  "skis_Baroque_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "skis_Cubism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.96875
+  },
+  "skis_Cubism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "skis_Cubism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.34375
+  },
+  "skis_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.703125
+  },
+  "skis_Expressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.25
+  },
+  "skis_Expressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.21875
+  },
+  "skis_High_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.5
+  },
+  "skis_High_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.828125
+  },
+  "skis_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "skis_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.5625
+  },
+  "skis_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.671875
+  },
+  "skis_Impressionism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.9375
+  },
+  "skis_Impressionism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.3125
+  },
+  "skis_Naive_Art_Primitivism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0
+  },
+  "skis_Naive_Art_Primitivism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "skis_Naive_Art_Primitivism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "skis_Naive_Art_Primitivism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.25
+  },
+  "skis_Naive_Art_Primitivism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "skis_Northern_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "skis_Northern_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.828125
+  },
+  "skis_Northern_Renaissance_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.734375
+  },
+  "skis_Northern_Renaissance_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.28125
+  },
+  "skis_Northern_Renaissance_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.28125
+  },
+  "skis_Post_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "skis_Post_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.8125
+  },
+  "skis_Post_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.25
+  },
+  "skis_Realism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.25
+  },
+  "skis_Realism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "skis_Realism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "skis_Realism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.375
+  },
+  "skis_Realism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.8125
+  },
+  "skis_Romanticism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.34375
+  },
+  "skis_Romanticism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.6875
+  },
+  "skis_Romanticism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.953125
+  },
+  "skis_Romanticism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.5
+  },
+  "skis_Romanticism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.5625
+  },
+  "skis_Symbolism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "skis_Symbolism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.71875
+  },
+  "skis_Symbolism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "surfboard_Abstract_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.65625
+  },
+  "surfboard_Art_Nouveau_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.9375
+  },
+  "surfboard_Art_Nouveau_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.59375
+  },
+  "surfboard_Art_Nouveau_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "surfboard_Art_Nouveau_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.8125
+  },
+  "surfboard_Art_Nouveau_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.96875
+  },
+  "surfboard_Baroque_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.859375
+  },
+  "surfboard_Baroque_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0
+  },
+  "surfboard_Baroque_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.65625
+  },
+  "surfboard_Baroque_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "surfboard_Baroque_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.890625
+  },
+  "surfboard_Cubism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.6875
+  },
+  "surfboard_Cubism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.875
+  },
+  "surfboard_Cubism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0
+  },
+  "surfboard_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.921875
+  },
+  "surfboard_Expressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.890625
+  },
+  "surfboard_Expressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.875
+  },
+  "surfboard_High_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.34375
+  },
+  "surfboard_High_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.828125
+  },
+  "surfboard_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.734375
+  },
+  "surfboard_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.328125
+  },
+  "surfboard_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.765625
+  },
+  "surfboard_Impressionism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "surfboard_Impressionism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "surfboard_Naive_Art_Primitivism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "surfboard_Naive_Art_Primitivism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.65625
+  },
+  "surfboard_Naive_Art_Primitivism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.796875
+  },
+  "surfboard_Naive_Art_Primitivism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "surfboard_Naive_Art_Primitivism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0
+  },
+  "surfboard_Northern_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.828125
+  },
+  "surfboard_Northern_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.5
+  },
+  "surfboard_Northern_Renaissance_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.78125
+  },
+  "surfboard_Northern_Renaissance_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.53125
+  },
+  "surfboard_Northern_Renaissance_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.6875
+  },
+  "surfboard_Post_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.921875
+  },
+  "surfboard_Post_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.78125
+  },
+  "surfboard_Post_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.28125
+  },
+  "surfboard_Realism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.828125
+  },
+  "surfboard_Realism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.828125
+  },
+  "surfboard_Realism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.75
+  },
+  "surfboard_Realism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.78125
+  },
+  "surfboard_Realism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.3125
+  },
+  "surfboard_Romanticism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.21875
+  },
+  "surfboard_Romanticism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.984375
+  },
+  "surfboard_Romanticism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.828125
+  },
+  "surfboard_Romanticism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "surfboard_Romanticism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.21875
+  },
+  "surfboard_Symbolism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.6875
+  },
+  "surfboard_Symbolism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "surfboard_Symbolism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.78125
+  },
+  "traffic-light_Abstract_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.71875
+  },
+  "traffic-light_Art_Nouveau_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.734375
+  },
+  "traffic-light_Art_Nouveau_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.25
+  },
+  "traffic-light_Art_Nouveau_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.859375
+  },
+  "traffic-light_Art_Nouveau_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "traffic-light_Art_Nouveau_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "traffic-light_Baroque_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "traffic-light_Baroque_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "traffic-light_Baroque_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.90625
+  },
+  "traffic-light_Baroque_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "traffic-light_Baroque_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.828125
+  },
+  "traffic-light_Cubism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.84375
+  },
+  "traffic-light_Cubism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.96875
+  },
+  "traffic-light_Cubism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "traffic-light_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "traffic-light_Expressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "traffic-light_Expressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.921875
+  },
+  "traffic-light_High_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.921875
+  },
+  "traffic-light_High_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.5
+  },
+  "traffic-light_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "traffic-light_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.890625
+  },
+  "traffic-light_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.859375
+  },
+  "traffic-light_Impressionism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "traffic-light_Impressionism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.4375
+  },
+  "traffic-light_Naive_Art_Primitivism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "traffic-light_Naive_Art_Primitivism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.875
+  },
+  "traffic-light_Naive_Art_Primitivism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.90625
+  },
+  "traffic-light_Naive_Art_Primitivism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.28125
+  },
+  "traffic-light_Naive_Art_Primitivism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.96875
+  },
+  "traffic-light_Northern_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.8125
+  },
+  "traffic-light_Northern_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.53125
+  },
+  "traffic-light_Northern_Renaissance_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.546875
+  },
+  "traffic-light_Northern_Renaissance_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "traffic-light_Northern_Renaissance_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.984375
+  },
+  "traffic-light_Post_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "traffic-light_Post_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.71875
+  },
+  "traffic-light_Post_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.703125
+  },
+  "traffic-light_Realism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.984375
+  },
+  "traffic-light_Realism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "traffic-light_Realism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.8125
+  },
+  "traffic-light_Realism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.890625
+  },
+  "traffic-light_Realism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.71875
+  },
+  "traffic-light_Romanticism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.375
+  },
+  "traffic-light_Romanticism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.640625
+  },
+  "traffic-light_Romanticism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "traffic-light_Romanticism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.40625
+  },
+  "traffic-light_Romanticism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "traffic-light_Symbolism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "traffic-light_Symbolism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "traffic-light_Symbolism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.28125
+  },
+  "truck_Abstract_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.84375
+  },
+  "truck_Art_Nouveau_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "truck_Art_Nouveau_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "truck_Art_Nouveau_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.25
+  },
+  "truck_Art_Nouveau_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "truck_Art_Nouveau_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "truck_Baroque_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "truck_Baroque_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "truck_Baroque_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.4375
+  },
+  "truck_Baroque_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.28125
+  },
+  "truck_Baroque_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.671875
+  },
+  "truck_Cubism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.96875
+  },
+  "truck_Cubism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.984375
+  },
+  "truck_Cubism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.25
+  },
+  "truck_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.796875
+  },
+  "truck_Expressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.4375
+  },
+  "truck_Expressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.953125
+  },
+  "truck_High_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.40625
+  },
+  "truck_High_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.65625
+  },
+  "truck_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.875
+  },
+  "truck_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.40625
+  },
+  "truck_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.921875
+  },
+  "truck_Impressionism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.28125
+  },
+  "truck_Impressionism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "truck_Naive_Art_Primitivism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "truck_Naive_Art_Primitivism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.65625
+  },
+  "truck_Naive_Art_Primitivism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.875
+  },
+  "truck_Naive_Art_Primitivism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "truck_Naive_Art_Primitivism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "truck_Northern_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.875
+  },
+  "truck_Northern_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "truck_Northern_Renaissance_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.609375
+  },
+  "truck_Northern_Renaissance_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.28125
+  },
+  "truck_Northern_Renaissance_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.21875
+  },
+  "truck_Post_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.21875
+  },
+  "truck_Post_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.671875
+  },
+  "truck_Post_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.515625
+  },
+  "truck_Realism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "truck_Realism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.796875
+  },
+  "truck_Realism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "truck_Realism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.828125
+  },
+  "truck_Realism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.78125
+  },
+  "truck_Romanticism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.4375
+  },
+  "truck_Romanticism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.546875
+  },
+  "truck_Romanticism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.25
+  },
+  "truck_Romanticism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.953125
+  },
+  "truck_Romanticism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.46875
+  },
+  "truck_Symbolism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.25
+  },
+  "truck_Symbolism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.375
+  },
+  "truck_Symbolism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.625
+  },
+  "umbrella_Abstract_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.46875
+  },
+  "umbrella_Art_Nouveau_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.71875
+  },
+  "umbrella_Art_Nouveau_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.25
+  },
+  "umbrella_Art_Nouveau_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.59375
+  },
+  "umbrella_Art_Nouveau_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0
+  },
+  "umbrella_Art_Nouveau_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.40625
+  },
+  "umbrella_Baroque_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.40625
+  },
+  "umbrella_Baroque_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.859375
+  },
+  "umbrella_Baroque_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "umbrella_Baroque_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.34375
+  },
+  "umbrella_Baroque_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.9375
+  },
+  "umbrella_Cubism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.25
+  },
+  "umbrella_Cubism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "umbrella_Cubism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.28125
+  },
+  "umbrella_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.28125
+  },
+  "umbrella_Expressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.6875
+  },
+  "umbrella_Expressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "umbrella_High_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.40625
+  },
+  "umbrella_High_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "umbrella_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.625
+  },
+  "umbrella_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.484375
+  },
+  "umbrella_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.3125
+  },
+  "umbrella_Impressionism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.34375
+  },
+  "umbrella_Impressionism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "umbrella_Naive_Art_Primitivism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.40625
+  },
+  "umbrella_Naive_Art_Primitivism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.734375
+  },
+  "umbrella_Naive_Art_Primitivism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "umbrella_Naive_Art_Primitivism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.28125
+  },
+  "umbrella_Naive_Art_Primitivism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.84375
+  },
+  "umbrella_Northern_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0
+  },
+  "umbrella_Northern_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.890625
+  },
+  "umbrella_Northern_Renaissance_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.3125
+  },
+  "umbrella_Northern_Renaissance_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.90625
+  },
+  "umbrella_Northern_Renaissance_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.5625
+  },
+  "umbrella_Post_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.3125
+  },
+  "umbrella_Post_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.765625
+  },
+  "umbrella_Post_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.984375
+  },
+  "umbrella_Realism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.40625
+  },
+  "umbrella_Realism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.75
+  },
+  "umbrella_Realism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.34375
+  },
+  "umbrella_Realism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.921875
+  },
+  "umbrella_Realism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.6875
+  },
+  "umbrella_Romanticism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.4375
+  },
+  "umbrella_Romanticism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.484375
+  },
+  "umbrella_Romanticism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.9375
+  },
+  "umbrella_Romanticism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.5625
+  },
+  "umbrella_Romanticism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.65625
+  },
+  "umbrella_Symbolism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.125
+  },
+  "umbrella_Symbolism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "umbrella_Symbolism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.53125
+  },
+  "zebra_Abstract_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "zebra_Art_Nouveau_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "zebra_Art_Nouveau_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.5
+  },
+  "zebra_Art_Nouveau_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.375
+  },
+  "zebra_Art_Nouveau_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.9375
+  },
+  "zebra_Art_Nouveau_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.375
+  },
+  "zebra_Baroque_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.96875
+  },
+  "zebra_Baroque_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "zebra_Baroque_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.625
+  },
+  "zebra_Baroque_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.5
+  },
+  "zebra_Baroque_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.796875
+  },
+  "zebra_Cubism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.78125
+  },
+  "zebra_Cubism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.28125
+  },
+  "zebra_Cubism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.28125
+  },
+  "zebra_Expressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "zebra_Expressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.984375
+  },
+  "zebra_Expressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "zebra_High_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "zebra_High_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.34375
+  },
+  "zebra_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.953125
+  },
+  "zebra_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.640625
+  },
+  "zebra_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.71875
+  },
+  "zebra_Impressionism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.09375
+  },
+  "zebra_Impressionism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "zebra_Naive_Art_Primitivism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.5625
+  },
+  "zebra_Naive_Art_Primitivism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.34375
+  },
+  "zebra_Naive_Art_Primitivism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.578125
+  },
+  "zebra_Naive_Art_Primitivism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.25
+  },
+  "zebra_Naive_Art_Primitivism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.375
+  },
+  "zebra_Northern_Renaissance_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.640625
+  },
+  "zebra_Northern_Renaissance_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.453125
+  },
+  "zebra_Northern_Renaissance_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.484375
+  },
+  "zebra_Northern_Renaissance_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "zebra_Northern_Renaissance_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "zebra_Post_Impressionism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.1875
+  },
+  "zebra_Post_Impressionism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.640625
+  },
+  "zebra_Post_Impressionism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.671875
+  },
+  "zebra_Realism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.15625
+  },
+  "zebra_Realism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.0625
+  },
+  "zebra_Realism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.03125
+  },
+  "zebra_Realism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.921875
+  },
+  "zebra_Realism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.296875
+  },
+  "zebra_Romanticism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.90625
+  },
+  "zebra_Romanticism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.328125
+  },
+  "zebra_Romanticism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.59375
+  },
+  "zebra_Romanticism_3": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.4375
+  },
+  "zebra_Romanticism_4": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.3125
+  },
+  "zebra_Symbolism_0": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.25
+  },
+  "zebra_Symbolism_1": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 3.75
+  },
+  "zebra_Symbolism_2": {
+    "cosine": null,
+    "pearson": null,
+    "rmse": null,
+    "cs": 4.3125
+  }
+}
