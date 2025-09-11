@@ -10,7 +10,7 @@ import random
 import numpy as np
 from model import VGG
 from losses import GramMSELoss, PearsonCorrelationLoss, CosineSimilarityLoss
-from config import compute_ratio_style_weights, style_layers, content_layers, max_iter_alt as max_iter, lr_alt as lr # Speed Up
+from config import compute_ratio_style_weights, style_layers, content_layers
 from preprocessing import prep
 from engine import synthesizeImage, synthesizeImage3
 
@@ -66,17 +66,25 @@ losses_list = [
    ("cos",  CosineSimilarityLoss, 1.75)
 ]
 
-for idx_c, content_img in enumerate(content_imgs):
-    for idx_s, style_img in enumerate(style_imgs):
+methods = [suffix for suffix, _, _ in losses_list]
+
+method_times = {method: 0.0 for method in methods}
+
+for idx_c, content_img in enumerate(content_imgs[:2]):
+    for idx_s, style_img in enumerate(style_imgs[:2]):
         i += 1
         c_name, s_name = content_names[idx_c], style_names[idx_s]
 
         for suffix, loss_cls, lr in losses_list:
+            start_loss = time.perf_counter()
+
             sw, cw = compute_ratio_style_weights(vgg, content_img, style_img, style_layers, content_layers, loss_cls, style_loss_weight=style_loss_weight, verbose=False, individual_layer_weights_by_loss= True) # different method
             synthesizeImage3(
-                style_img, content_img, loss_cls, sw, cw,
-                max_iter=max_iter, show_iter=max_iter*3, threshold=threshold, lr=lr
+                vgg, style_img, content_img, loss_cls, sw, cw,
+                max_iter=500, show_iter=1000, threshold=threshold, lr=lr
             ).save(f"{output_dir}/{s_name}_{c_name}_{suffix}.jpg")
+
+            method_times[suffix] += time.perf_counter() - start_loss
 
         elapsed = time.perf_counter() - start
         ips = i / elapsed if elapsed > 0 else 0.0
@@ -89,3 +97,12 @@ for idx_c, content_img in enumerate(content_imgs):
             f"elapsed {fmt_time(elapsed)} | remaining {fmt_time(remaining)} | ETA {eta_clock}",
             end="\r", flush=True
         )
+
+avg_times = {
+    method: method_times[method] / i
+    for method in methods
+}
+
+print("\nAverage times per method:")
+for method in methods:
+    print(f"  {method}: {avg_times[method]:.3f} seconds")
