@@ -1,0 +1,5002 @@
+{
+  "Abstract_Expressionism_0_baseball-bat": {
+    "cosine": 3.796875,
+    "pearson": 3.71875,
+    "rmse": 3.9375
+  },
+  "Abstract_Expressionism_0_bear": {
+    "cosine": 4.3125,
+    "pearson": 4.4375,
+    "rmse": 4.5625
+  },
+  "Abstract_Expressionism_0_bird": {
+    "cosine": 4.1875,
+    "pearson": 3.984375,
+    "rmse": 3.828125
+  },
+  "Abstract_Expressionism_0_boat": {
+    "cosine": 3.9375,
+    "pearson": 4.1875,
+    "rmse": 4.375
+  },
+  "Abstract_Expressionism_0_bus": {
+    "cosine": 3.546875,
+    "pearson": 3.40625,
+    "rmse": 3.59375
+  },
+  "Abstract_Expressionism_0_car": {
+    "cosine": 3.890625,
+    "pearson": 3.71875,
+    "rmse": 3.65625
+  },
+  "Abstract_Expressionism_0_carrot": {
+    "cosine": 4.375,
+    "pearson": 4.25,
+    "rmse": 4.46875
+  },
+  "Abstract_Expressionism_0_cow": {
+    "cosine": 3.78125,
+    "pearson": 3.96875,
+    "rmse": 3.8125
+  },
+  "Abstract_Expressionism_0_hair-drier": {
+    "cosine": 4.5625,
+    "pearson": 4.46875,
+    "rmse": 4.625
+  },
+  "Abstract_Expressionism_0_kite": {
+    "cosine": 3.59375,
+    "pearson": 3.703125,
+    "rmse": 3.875
+  },
+  "Abstract_Expressionism_0_orange": {
+    "cosine": 3.75,
+    "pearson": 3.78125,
+    "rmse": 3.796875
+  },
+  "Abstract_Expressionism_0_person": {
+    "cosine": 4.84375,
+    "pearson": 4.75,
+    "rmse": 4.6875
+  },
+  "Abstract_Expressionism_0_potted-plant": {
+    "cosine": 4.09375,
+    "pearson": 4.09375,
+    "rmse": 3.796875
+  },
+  "Abstract_Expressionism_0_sheep": {
+    "cosine": 3.71875,
+    "pearson": 3.65625,
+    "rmse": 3.859375
+  },
+  "Abstract_Expressionism_0_skis": {
+    "cosine": 4.0625,
+    "pearson": 4.21875,
+    "rmse": 4.09375
+  },
+  "Abstract_Expressionism_0_surfboard": {
+    "cosine": 4.09375,
+    "pearson": 3.984375,
+    "rmse": 3.828125
+  },
+  "Abstract_Expressionism_0_traffic-light": {
+    "cosine": 3.890625,
+    "pearson": 3.84375,
+    "rmse": 3.609375
+  },
+  "Abstract_Expressionism_0_truck": {
+    "cosine": 4.3125,
+    "pearson": 4.15625,
+    "rmse": 4.15625
+  },
+  "Abstract_Expressionism_0_umbrella": {
+    "cosine": 4.0625,
+    "pearson": 4.0,
+    "rmse": 3.9375
+  },
+  "Abstract_Expressionism_0_zebra": {
+    "cosine": 4.0625,
+    "pearson": 4.28125,
+    "rmse": 4.1875
+  },
+  "Art_Nouveau_0_baseball-bat": {
+    "cosine": 3.984375,
+    "pearson": 4.0625,
+    "rmse": 4.1875
+  },
+  "Art_Nouveau_0_bear": {
+    "cosine": 4.5625,
+    "pearson": 4.53125,
+    "rmse": 4.5625
+  },
+  "Art_Nouveau_0_bird": {
+    "cosine": 4.375,
+    "pearson": 4.40625,
+    "rmse": 4.4375
+  },
+  "Art_Nouveau_0_boat": {
+    "cosine": 4.5625,
+    "pearson": 4.65625,
+    "rmse": 4.5625
+  },
+  "Art_Nouveau_0_bus": {
+    "cosine": 3.75,
+    "pearson": 3.671875,
+    "rmse": 3.8125
+  },
+  "Art_Nouveau_0_car": {
+    "cosine": 4.5625,
+    "pearson": 4.625,
+    "rmse": 4.6875
+  },
+  "Art_Nouveau_0_carrot": {
+    "cosine": 4.78125,
+    "pearson": 4.65625,
+    "rmse": 4.84375
+  },
+  "Art_Nouveau_0_cow": {
+    "cosine": 4.34375,
+    "pearson": 4.5,
+    "rmse": 4.125
+  },
+  "Art_Nouveau_0_hair-drier": {
+    "cosine": 4.75,
+    "pearson": 4.6875,
+    "rmse": 4.34375
+  },
+  "Art_Nouveau_0_kite": {
+    "cosine": 4.125,
+    "pearson": 4.34375,
+    "rmse": 4.25
+  },
+  "Art_Nouveau_0_orange": {
+    "cosine": 4.46875,
+    "pearson": 4.34375,
+    "rmse": 4.53125
+  },
+  "Art_Nouveau_0_person": {
+    "cosine": 4.5625,
+    "pearson": 4.5625,
+    "rmse": 4.4375
+  },
+  "Art_Nouveau_0_potted-plant": {
+    "cosine": 5.03125,
+    "pearson": 4.875,
+    "rmse": 5.0
+  },
+  "Art_Nouveau_0_sheep": {
+    "cosine": 4.25,
+    "pearson": 4.5625,
+    "rmse": 4.40625
+  },
+  "Art_Nouveau_0_skis": {
+    "cosine": 4.5,
+    "pearson": 4.5625,
+    "rmse": 4.75
+  },
+  "Art_Nouveau_0_surfboard": {
+    "cosine": 4.34375,
+    "pearson": 4.1875,
+    "rmse": 4.46875
+  },
+  "Art_Nouveau_0_traffic-light": {
+    "cosine": 4.5,
+    "pearson": 4.65625,
+    "rmse": 4.5625
+  },
+  "Art_Nouveau_0_truck": {
+    "cosine": 4.65625,
+    "pearson": 4.8125,
+    "rmse": 4.34375
+  },
+  "Art_Nouveau_0_umbrella": {
+    "cosine": 4.8125,
+    "pearson": 4.71875,
+    "rmse": 4.78125
+  },
+  "Art_Nouveau_0_zebra": {
+    "cosine": 4.09375,
+    "pearson": 4.0625,
+    "rmse": 4.03125
+  },
+  "Art_Nouveau_1_baseball-bat": {
+    "cosine": 3.921875,
+    "pearson": 3.984375,
+    "rmse": 3.96875
+  },
+  "Art_Nouveau_1_bear": {
+    "cosine": 4.40625,
+    "pearson": 4.4375,
+    "rmse": 4.4375
+  },
+  "Art_Nouveau_1_bird": {
+    "cosine": 3.8125,
+    "pearson": 3.84375,
+    "rmse": 4.15625
+  },
+  "Art_Nouveau_1_boat": {
+    "cosine": 4.59375,
+    "pearson": 4.40625,
+    "rmse": 4.40625
+  },
+  "Art_Nouveau_1_bus": {
+    "cosine": 3.734375,
+    "pearson": 3.84375,
+    "rmse": 3.875
+  },
+  "Art_Nouveau_1_car": {
+    "cosine": 3.84375,
+    "pearson": 3.984375,
+    "rmse": 4.09375
+  },
+  "Art_Nouveau_1_carrot": {
+    "cosine": 4.65625,
+    "pearson": 4.71875,
+    "rmse": 4.65625
+  },
+  "Art_Nouveau_1_cow": {
+    "cosine": 3.875,
+    "pearson": 3.9375,
+    "rmse": 3.9375
+  },
+  "Art_Nouveau_1_hair-drier": {
+    "cosine": 4.9375,
+    "pearson": 5.09375,
+    "rmse": 4.96875
+  },
+  "Art_Nouveau_1_kite": {
+    "cosine": 4.03125,
+    "pearson": 3.9375,
+    "rmse": 3.890625
+  },
+  "Art_Nouveau_1_orange": {
+    "cosine": 3.859375,
+    "pearson": 3.8125,
+    "rmse": 3.984375
+  },
+  "Art_Nouveau_1_person": {
+    "cosine": 4.40625,
+    "pearson": 4.4375,
+    "rmse": 4.40625
+  },
+  "Art_Nouveau_1_potted-plant": {
+    "cosine": 4.5,
+    "pearson": 4.59375,
+    "rmse": 4.6875
+  },
+  "Art_Nouveau_1_sheep": {
+    "cosine": 4.03125,
+    "pearson": 3.9375,
+    "rmse": 4.125
+  },
+  "Art_Nouveau_1_skis": {
+    "cosine": 4.71875,
+    "pearson": 4.53125,
+    "rmse": 4.5
+  },
+  "Art_Nouveau_1_surfboard": {
+    "cosine": 3.875,
+    "pearson": 4.25,
+    "rmse": 3.9375
+  },
+  "Art_Nouveau_1_traffic-light": {
+    "cosine": 3.921875,
+    "pearson": 4.0625,
+    "rmse": 3.84375
+  },
+  "Art_Nouveau_1_truck": {
+    "cosine": 4.28125,
+    "pearson": 4.25,
+    "rmse": 4.0625
+  },
+  "Art_Nouveau_1_umbrella": {
+    "cosine": 4.875,
+    "pearson": 4.46875,
+    "rmse": 4.84375
+  },
+  "Art_Nouveau_1_zebra": {
+    "cosine": 4.15625,
+    "pearson": 4.125,
+    "rmse": 4.3125
+  },
+  "Art_Nouveau_2_baseball-bat": {
+    "cosine": 3.984375,
+    "pearson": 4.03125,
+    "rmse": 4.25
+  },
+  "Art_Nouveau_2_bear": {
+    "cosine": 4.53125,
+    "pearson": 4.71875,
+    "rmse": 4.625
+  },
+  "Art_Nouveau_2_bird": {
+    "cosine": 3.953125,
+    "pearson": 4.03125,
+    "rmse": 3.96875
+  },
+  "Art_Nouveau_2_boat": {
+    "cosine": 4.40625,
+    "pearson": 4.375,
+    "rmse": 4.71875
+  },
+  "Art_Nouveau_2_bus": {
+    "cosine": 3.765625,
+    "pearson": 3.78125,
+    "rmse": 3.734375
+  },
+  "Art_Nouveau_2_car": {
+    "cosine": 4.0625,
+    "pearson": 4.0625,
+    "rmse": 4.1875
+  },
+  "Art_Nouveau_2_carrot": {
+    "cosine": 4.84375,
+    "pearson": 5.0625,
+    "rmse": 4.96875
+  },
+  "Art_Nouveau_2_cow": {
+    "cosine": 4.09375,
+    "pearson": 3.9375,
+    "rmse": 4.09375
+  },
+  "Art_Nouveau_2_hair-drier": {
+    "cosine": 5.15625,
+    "pearson": 5.25,
+    "rmse": 5.09375
+  },
+  "Art_Nouveau_2_kite": {
+    "cosine": 4.21875,
+    "pearson": 4.28125,
+    "rmse": 4.3125
+  },
+  "Art_Nouveau_2_orange": {
+    "cosine": 4.09375,
+    "pearson": 4.59375,
+    "rmse": 4.09375
+  },
+  "Art_Nouveau_2_person": {
+    "cosine": 4.3125,
+    "pearson": 4.375,
+    "rmse": 4.40625
+  },
+  "Art_Nouveau_2_potted-plant": {
+    "cosine": 5.1875,
+    "pearson": 4.9375,
+    "rmse": 4.96875
+  },
+  "Art_Nouveau_2_sheep": {
+    "cosine": 4.15625,
+    "pearson": 4.28125,
+    "rmse": 4.21875
+  },
+  "Art_Nouveau_2_skis": {
+    "cosine": 4.59375,
+    "pearson": 4.59375,
+    "rmse": 4.71875
+  },
+  "Art_Nouveau_2_surfboard": {
+    "cosine": 4.09375,
+    "pearson": 4.28125,
+    "rmse": 4.4375
+  },
+  "Art_Nouveau_2_traffic-light": {
+    "cosine": 4.5,
+    "pearson": 4.4375,
+    "rmse": 4.40625
+  },
+  "Art_Nouveau_2_truck": {
+    "cosine": 4.21875,
+    "pearson": 4.71875,
+    "rmse": 4.3125
+  },
+  "Art_Nouveau_2_umbrella": {
+    "cosine": 4.65625,
+    "pearson": 4.78125,
+    "rmse": 4.75
+  },
+  "Art_Nouveau_2_zebra": {
+    "cosine": 4.15625,
+    "pearson": 4.25,
+    "rmse": 4.59375
+  },
+  "Art_Nouveau_3_baseball-bat": {
+    "cosine": 3.90625,
+    "pearson": 4.0625,
+    "rmse": 4.125
+  },
+  "Art_Nouveau_3_bear": {
+    "cosine": 3.96875,
+    "pearson": 4.15625,
+    "rmse": 4.34375
+  },
+  "Art_Nouveau_3_bird": {
+    "cosine": 4.0625,
+    "pearson": 4.0625,
+    "rmse": 3.984375
+  },
+  "Art_Nouveau_3_boat": {
+    "cosine": 4.28125,
+    "pearson": 4.15625,
+    "rmse": 4.625
+  },
+  "Art_Nouveau_3_bus": {
+    "cosine": 3.1875,
+    "pearson": 3.46875,
+    "rmse": 3.59375
+  },
+  "Art_Nouveau_3_car": {
+    "cosine": 4.5,
+    "pearson": 4.71875,
+    "rmse": 4.4375
+  },
+  "Art_Nouveau_3_carrot": {
+    "cosine": 4.15625,
+    "pearson": 4.03125,
+    "rmse": 4.21875
+  },
+  "Art_Nouveau_3_cow": {
+    "cosine": 3.734375,
+    "pearson": 3.9375,
+    "rmse": 4.1875
+  },
+  "Art_Nouveau_3_hair-drier": {
+    "cosine": 5.125,
+    "pearson": 5.0625,
+    "rmse": 5.6875
+  },
+  "Art_Nouveau_3_kite": {
+    "cosine": 4.53125,
+    "pearson": 4.71875,
+    "rmse": 4.6875
+  },
+  "Art_Nouveau_3_orange": {
+    "cosine": 4.46875,
+    "pearson": 4.375,
+    "rmse": 4.4375
+  },
+  "Art_Nouveau_3_person": {
+    "cosine": 4.8125,
+    "pearson": 4.75,
+    "rmse": 4.3125
+  },
+  "Art_Nouveau_3_potted-plant": {
+    "cosine": 4.21875,
+    "pearson": 4.03125,
+    "rmse": 4.25
+  },
+  "Art_Nouveau_3_sheep": {
+    "cosine": 4.03125,
+    "pearson": 3.890625,
+    "rmse": 4.28125
+  },
+  "Art_Nouveau_3_skis": {
+    "cosine": 4.1875,
+    "pearson": 4.25,
+    "rmse": 4.40625
+  },
+  "Art_Nouveau_3_surfboard": {
+    "cosine": 4.34375,
+    "pearson": 4.46875,
+    "rmse": 4.375
+  },
+  "Art_Nouveau_3_traffic-light": {
+    "cosine": 3.796875,
+    "pearson": 3.984375,
+    "rmse": 4.125
+  },
+  "Art_Nouveau_3_truck": {
+    "cosine": 4.59375,
+    "pearson": 4.53125,
+    "rmse": 4.625
+  },
+  "Art_Nouveau_3_umbrella": {
+    "cosine": 4.65625,
+    "pearson": 4.6875,
+    "rmse": 4.90625
+  },
+  "Art_Nouveau_3_zebra": {
+    "cosine": 4.0625,
+    "pearson": 4.09375,
+    "rmse": 3.78125
+  },
+  "Art_Nouveau_4_baseball-bat": {
+    "cosine": 4.1875,
+    "pearson": 4.125,
+    "rmse": 4.3125
+  },
+  "Art_Nouveau_4_bear": {
+    "cosine": 4.3125,
+    "pearson": 4.09375,
+    "rmse": 4.0625
+  },
+  "Art_Nouveau_4_bird": {
+    "cosine": 4.21875,
+    "pearson": 4.40625,
+    "rmse": 4.5
+  },
+  "Art_Nouveau_4_boat": {
+    "cosine": 4.125,
+    "pearson": 4.375,
+    "rmse": 4.4375
+  },
+  "Art_Nouveau_4_bus": {
+    "cosine": 3.921875,
+    "pearson": 4.21875,
+    "rmse": 4.0
+  },
+  "Art_Nouveau_4_car": {
+    "cosine": 4.09375,
+    "pearson": 4.46875,
+    "rmse": 4.40625
+  },
+  "Art_Nouveau_4_carrot": {
+    "cosine": 4.625,
+    "pearson": 4.75,
+    "rmse": 4.8125
+  },
+  "Art_Nouveau_4_cow": {
+    "cosine": 3.96875,
+    "pearson": 3.8125,
+    "rmse": 4.1875
+  },
+  "Art_Nouveau_4_hair-drier": {
+    "cosine": 4.9375,
+    "pearson": 4.8125,
+    "rmse": 4.75
+  },
+  "Art_Nouveau_4_kite": {
+    "cosine": 3.890625,
+    "pearson": 4.25,
+    "rmse": 3.921875
+  },
+  "Art_Nouveau_4_orange": {
+    "cosine": 4.21875,
+    "pearson": 4.1875,
+    "rmse": 4.21875
+  },
+  "Art_Nouveau_4_person": {
+    "cosine": 4.625,
+    "pearson": 4.84375,
+    "rmse": 4.53125
+  },
+  "Art_Nouveau_4_potted-plant": {
+    "cosine": 4.75,
+    "pearson": 4.8125,
+    "rmse": 4.625
+  },
+  "Art_Nouveau_4_sheep": {
+    "cosine": 4.125,
+    "pearson": 4.15625,
+    "rmse": 4.28125
+  },
+  "Art_Nouveau_4_skis": {
+    "cosine": 4.28125,
+    "pearson": 4.375,
+    "rmse": 4.59375
+  },
+  "Art_Nouveau_4_surfboard": {
+    "cosine": 4.1875,
+    "pearson": 4.46875,
+    "rmse": 4.46875
+  },
+  "Art_Nouveau_4_traffic-light": {
+    "cosine": 4.40625,
+    "pearson": 4.34375,
+    "rmse": 4.3125
+  },
+  "Art_Nouveau_4_truck": {
+    "cosine": 4.375,
+    "pearson": 4.125,
+    "rmse": 4.125
+  },
+  "Art_Nouveau_4_umbrella": {
+    "cosine": 4.53125,
+    "pearson": 4.5625,
+    "rmse": 4.59375
+  },
+  "Art_Nouveau_4_zebra": {
+    "cosine": 4.375,
+    "pearson": 4.53125,
+    "rmse": 4.375
+  },
+  "Baroque_0_baseball-bat": {
+    "cosine": 3.78125,
+    "pearson": 3.84375,
+    "rmse": 3.671875
+  },
+  "Baroque_0_bear": {
+    "cosine": 4.09375,
+    "pearson": 4.125,
+    "rmse": 4.25
+  },
+  "Baroque_0_bird": {
+    "cosine": 3.578125,
+    "pearson": 3.5,
+    "rmse": 3.59375
+  },
+  "Baroque_0_boat": {
+    "cosine": 4.125,
+    "pearson": 4.03125,
+    "rmse": 4.28125
+  },
+  "Baroque_0_bus": {
+    "cosine": 3.21875,
+    "pearson": 3.40625,
+    "rmse": 3.46875
+  },
+  "Baroque_0_car": {
+    "cosine": 3.875,
+    "pearson": 3.90625,
+    "rmse": 3.734375
+  },
+  "Baroque_0_carrot": {
+    "cosine": 3.703125,
+    "pearson": 3.640625,
+    "rmse": 3.765625
+  },
+  "Baroque_0_cow": {
+    "cosine": 3.171875,
+    "pearson": 3.421875,
+    "rmse": 3.59375
+  },
+  "Baroque_0_hair-drier": {
+    "cosine": 4.75,
+    "pearson": 4.84375,
+    "rmse": 4.71875
+  },
+  "Baroque_0_kite": {
+    "cosine": 3.640625,
+    "pearson": 3.75,
+    "rmse": 3.84375
+  },
+  "Baroque_0_orange": {
+    "cosine": 3.703125,
+    "pearson": 3.609375,
+    "rmse": 3.96875
+  },
+  "Baroque_0_person": {
+    "cosine": 3.953125,
+    "pearson": 3.734375,
+    "rmse": 3.765625
+  },
+  "Baroque_0_potted-plant": {
+    "cosine": 4.125,
+    "pearson": 3.96875,
+    "rmse": 3.890625
+  },
+  "Baroque_0_sheep": {
+    "cosine": 3.390625,
+    "pearson": 3.6875,
+    "rmse": 3.65625
+  },
+  "Baroque_0_skis": {
+    "cosine": 3.859375,
+    "pearson": 3.890625,
+    "rmse": 4.03125
+  },
+  "Baroque_0_surfboard": {
+    "cosine": 3.390625,
+    "pearson": 3.4375,
+    "rmse": 3.5
+  },
+  "Baroque_0_traffic-light": {
+    "cosine": 4.5625,
+    "pearson": 4.5,
+    "rmse": 4.6875
+  },
+  "Baroque_0_truck": {
+    "cosine": 4.03125,
+    "pearson": 3.953125,
+    "rmse": 4.0
+  },
+  "Baroque_0_umbrella": {
+    "cosine": 4.59375,
+    "pearson": 4.65625,
+    "rmse": 4.6875
+  },
+  "Baroque_0_zebra": {
+    "cosine": 3.984375,
+    "pearson": 3.90625,
+    "rmse": 3.890625
+  },
+  "Baroque_1_baseball-bat": {
+    "cosine": 3.515625,
+    "pearson": 3.578125,
+    "rmse": 3.4375
+  },
+  "Baroque_1_bear": {
+    "cosine": 4.28125,
+    "pearson": 4.375,
+    "rmse": 4.375
+  },
+  "Baroque_1_bird": {
+    "cosine": 3.5625,
+    "pearson": 3.6875,
+    "rmse": 3.515625
+  },
+  "Baroque_1_boat": {
+    "cosine": 3.796875,
+    "pearson": 3.84375,
+    "rmse": 3.671875
+  },
+  "Baroque_1_bus": {
+    "cosine": 3.40625,
+    "pearson": 3.6875,
+    "rmse": 3.453125
+  },
+  "Baroque_1_car": {
+    "cosine": 4.0,
+    "pearson": 3.953125,
+    "rmse": 4.0625
+  },
+  "Baroque_1_carrot": {
+    "cosine": 3.828125,
+    "pearson": 3.6875,
+    "rmse": 3.875
+  },
+  "Baroque_1_cow": {
+    "cosine": 3.6875,
+    "pearson": 3.453125,
+    "rmse": 3.4375
+  },
+  "Baroque_1_hair-drier": {
+    "cosine": 4.6875,
+    "pearson": 4.5625,
+    "rmse": 4.625
+  },
+  "Baroque_1_kite": {
+    "cosine": 4.0,
+    "pearson": 4.15625,
+    "rmse": 4.125
+  },
+  "Baroque_1_orange": {
+    "cosine": 4.25,
+    "pearson": 4.0,
+    "rmse": 3.78125
+  },
+  "Baroque_1_person": {
+    "cosine": 3.859375,
+    "pearson": 3.875,
+    "rmse": 3.578125
+  },
+  "Baroque_1_potted-plant": {
+    "cosine": 3.859375,
+    "pearson": 4.21875,
+    "rmse": 4.03125
+  },
+  "Baroque_1_sheep": {
+    "cosine": 3.71875,
+    "pearson": 3.625,
+    "rmse": 3.59375
+  },
+  "Baroque_1_skis": {
+    "cosine": 3.625,
+    "pearson": 3.9375,
+    "rmse": 3.90625
+  },
+  "Baroque_1_surfboard": {
+    "cosine": 3.65625,
+    "pearson": 3.90625,
+    "rmse": 3.828125
+  },
+  "Baroque_1_traffic-light": {
+    "cosine": 3.265625,
+    "pearson": 3.5625,
+    "rmse": 3.609375
+  },
+  "Baroque_1_truck": {
+    "cosine": 4.0,
+    "pearson": 4.0625,
+    "rmse": 4.3125
+  },
+  "Baroque_1_umbrella": {
+    "cosine": 4.0625,
+    "pearson": 3.859375,
+    "rmse": 4.15625
+  },
+  "Baroque_1_zebra": {
+    "cosine": 3.890625,
+    "pearson": 3.796875,
+    "rmse": 3.6875
+  },
+  "Baroque_2_baseball-bat": {
+    "cosine": 3.796875,
+    "pearson": 3.8125,
+    "rmse": 3.9375
+  },
+  "Baroque_2_bear": {
+    "cosine": 4.4375,
+    "pearson": 4.5,
+    "rmse": 4.28125
+  },
+  "Baroque_2_bird": {
+    "cosine": 3.984375,
+    "pearson": 3.671875,
+    "rmse": 3.9375
+  },
+  "Baroque_2_boat": {
+    "cosine": 3.890625,
+    "pearson": 4.0,
+    "rmse": 3.6875
+  },
+  "Baroque_2_bus": {
+    "cosine": 3.546875,
+    "pearson": 3.484375,
+    "rmse": 3.78125
+  },
+  "Baroque_2_car": {
+    "cosine": 3.6875,
+    "pearson": 3.71875,
+    "rmse": 3.78125
+  },
+  "Baroque_2_carrot": {
+    "cosine": 3.96875,
+    "pearson": 3.890625,
+    "rmse": 3.890625
+  },
+  "Baroque_2_cow": {
+    "cosine": 3.5625,
+    "pearson": 3.703125,
+    "rmse": 3.84375
+  },
+  "Baroque_2_hair-drier": {
+    "cosine": 5.0,
+    "pearson": 4.78125,
+    "rmse": 4.9375
+  },
+  "Baroque_2_kite": {
+    "cosine": 4.09375,
+    "pearson": 4.03125,
+    "rmse": 4.09375
+  },
+  "Baroque_2_orange": {
+    "cosine": 4.0,
+    "pearson": 3.890625,
+    "rmse": 3.953125
+  },
+  "Baroque_2_person": {
+    "cosine": 4.0625,
+    "pearson": 3.96875,
+    "rmse": 3.96875
+  },
+  "Baroque_2_potted-plant": {
+    "cosine": 4.46875,
+    "pearson": 4.4375,
+    "rmse": 4.3125
+  },
+  "Baroque_2_sheep": {
+    "cosine": 3.875,
+    "pearson": 3.890625,
+    "rmse": 3.71875
+  },
+  "Baroque_2_skis": {
+    "cosine": 3.84375,
+    "pearson": 3.96875,
+    "rmse": 3.890625
+  },
+  "Baroque_2_surfboard": {
+    "cosine": 3.890625,
+    "pearson": 3.890625,
+    "rmse": 3.984375
+  },
+  "Baroque_2_traffic-light": {
+    "cosine": 3.6875,
+    "pearson": 3.609375,
+    "rmse": 3.796875
+  },
+  "Baroque_2_truck": {
+    "cosine": 4.28125,
+    "pearson": 4.46875,
+    "rmse": 4.34375
+  },
+  "Baroque_2_umbrella": {
+    "cosine": 4.6875,
+    "pearson": 4.46875,
+    "rmse": 4.1875
+  },
+  "Baroque_2_zebra": {
+    "cosine": 3.578125,
+    "pearson": 3.859375,
+    "rmse": 3.875
+  },
+  "Baroque_3_baseball-bat": {
+    "cosine": 4.25,
+    "pearson": 4.125,
+    "rmse": 3.875
+  },
+  "Baroque_3_bear": {
+    "cosine": 4.03125,
+    "pearson": 3.8125,
+    "rmse": 4.0
+  },
+  "Baroque_3_bird": {
+    "cosine": 4.28125,
+    "pearson": 4.3125,
+    "rmse": 4.375
+  },
+  "Baroque_3_boat": {
+    "cosine": 4.59375,
+    "pearson": 4.5625,
+    "rmse": 4.09375
+  },
+  "Baroque_3_bus": {
+    "cosine": 3.640625,
+    "pearson": 4.1875,
+    "rmse": 3.953125
+  },
+  "Baroque_3_car": {
+    "cosine": 4.0625,
+    "pearson": 4.5,
+    "rmse": 4.375
+  },
+  "Baroque_3_carrot": {
+    "cosine": 4.25,
+    "pearson": 4.0625,
+    "rmse": 4.25
+  },
+  "Baroque_3_cow": {
+    "cosine": 3.90625,
+    "pearson": 3.84375,
+    "rmse": 3.75
+  },
+  "Baroque_3_hair-drier": {
+    "cosine": 5.0,
+    "pearson": 5.21875,
+    "rmse": 4.9375
+  },
+  "Baroque_3_kite": {
+    "cosine": 4.25,
+    "pearson": 4.125,
+    "rmse": 4.5
+  },
+  "Baroque_3_orange": {
+    "cosine": 4.21875,
+    "pearson": 4.46875,
+    "rmse": 4.21875
+  },
+  "Baroque_3_person": {
+    "cosine": 4.34375,
+    "pearson": 4.46875,
+    "rmse": 4.15625
+  },
+  "Baroque_3_potted-plant": {
+    "cosine": 4.21875,
+    "pearson": 4.34375,
+    "rmse": 4.125
+  },
+  "Baroque_3_sheep": {
+    "cosine": 3.890625,
+    "pearson": 3.953125,
+    "rmse": 3.984375
+  },
+  "Baroque_3_skis": {
+    "cosine": 4.25,
+    "pearson": 4.46875,
+    "rmse": 4.4375
+  },
+  "Baroque_3_surfboard": {
+    "cosine": 4.03125,
+    "pearson": 4.28125,
+    "rmse": 3.953125
+  },
+  "Baroque_3_traffic-light": {
+    "cosine": 4.15625,
+    "pearson": 4.09375,
+    "rmse": 4.0
+  },
+  "Baroque_3_truck": {
+    "cosine": 4.5625,
+    "pearson": 4.65625,
+    "rmse": 4.3125
+  },
+  "Baroque_3_umbrella": {
+    "cosine": 4.78125,
+    "pearson": 4.4375,
+    "rmse": 4.53125
+  },
+  "Baroque_3_zebra": {
+    "cosine": 4.09375,
+    "pearson": 4.09375,
+    "rmse": 4.09375
+  },
+  "Baroque_4_baseball-bat": {
+    "cosine": 3.140625,
+    "pearson": 3.890625,
+    "rmse": 3.78125
+  },
+  "Baroque_4_bear": {
+    "cosine": 3.890625,
+    "pearson": 3.921875,
+    "rmse": 4.03125
+  },
+  "Baroque_4_bird": {
+    "cosine": 3.859375,
+    "pearson": 3.84375,
+    "rmse": 3.890625
+  },
+  "Baroque_4_boat": {
+    "cosine": 3.921875,
+    "pearson": 3.890625,
+    "rmse": 3.765625
+  },
+  "Baroque_4_bus": {
+    "cosine": 3.328125,
+    "pearson": 3.296875,
+    "rmse": 3.421875
+  },
+  "Baroque_4_car": {
+    "cosine": 4.0,
+    "pearson": 3.828125,
+    "rmse": 3.90625
+  },
+  "Baroque_4_carrot": {
+    "cosine": 4.15625,
+    "pearson": 3.875,
+    "rmse": 3.625
+  },
+  "Baroque_4_cow": {
+    "cosine": 3.21875,
+    "pearson": 3.21875,
+    "rmse": 3.375
+  },
+  "Baroque_4_hair-drier": {
+    "cosine": 4.84375,
+    "pearson": 4.71875,
+    "rmse": 4.4375
+  },
+  "Baroque_4_kite": {
+    "cosine": 3.984375,
+    "pearson": 4.125,
+    "rmse": 4.125
+  },
+  "Baroque_4_orange": {
+    "cosine": 3.421875,
+    "pearson": 3.625,
+    "rmse": 3.75
+  },
+  "Baroque_4_person": {
+    "cosine": 4.125,
+    "pearson": 4.0625,
+    "rmse": 3.84375
+  },
+  "Baroque_4_potted-plant": {
+    "cosine": 4.25,
+    "pearson": 4.3125,
+    "rmse": 4.09375
+  },
+  "Baroque_4_sheep": {
+    "cosine": 3.53125,
+    "pearson": 3.625,
+    "rmse": 3.53125
+  },
+  "Baroque_4_skis": {
+    "cosine": 4.09375,
+    "pearson": 4.09375,
+    "rmse": 4.0625
+  },
+  "Baroque_4_surfboard": {
+    "cosine": 3.421875,
+    "pearson": 3.84375,
+    "rmse": 3.671875
+  },
+  "Baroque_4_traffic-light": {
+    "cosine": 3.9375,
+    "pearson": 4.09375,
+    "rmse": 3.890625
+  },
+  "Baroque_4_truck": {
+    "cosine": 4.25,
+    "pearson": 4.1875,
+    "rmse": 4.3125
+  },
+  "Baroque_4_umbrella": {
+    "cosine": 4.3125,
+    "pearson": 4.25,
+    "rmse": 4.09375
+  },
+  "Baroque_4_zebra": {
+    "cosine": 4.09375,
+    "pearson": 4.3125,
+    "rmse": 4.03125
+  },
+  "Cubism_0_baseball-bat": {
+    "cosine": 3.671875,
+    "pearson": 3.9375,
+    "rmse": 3.9375
+  },
+  "Cubism_0_bear": {
+    "cosine": 4.1875,
+    "pearson": 3.953125,
+    "rmse": 4.21875
+  },
+  "Cubism_0_bird": {
+    "cosine": 4.125,
+    "pearson": 4.1875,
+    "rmse": 4.28125
+  },
+  "Cubism_0_boat": {
+    "cosine": 4.25,
+    "pearson": 4.0625,
+    "rmse": 4.46875
+  },
+  "Cubism_0_bus": {
+    "cosine": 3.5625,
+    "pearson": 3.875,
+    "rmse": 3.875
+  },
+  "Cubism_0_car": {
+    "cosine": 4.125,
+    "pearson": 3.9375,
+    "rmse": 4.40625
+  },
+  "Cubism_0_carrot": {
+    "cosine": 4.75,
+    "pearson": 4.6875,
+    "rmse": 4.5
+  },
+  "Cubism_0_cow": {
+    "cosine": 3.890625,
+    "pearson": 4.0,
+    "rmse": 4.25
+  },
+  "Cubism_0_hair-drier": {
+    "cosine": 4.71875,
+    "pearson": 4.5625,
+    "rmse": 4.625
+  },
+  "Cubism_0_kite": {
+    "cosine": 4.25,
+    "pearson": 4.15625,
+    "rmse": 4.21875
+  },
+  "Cubism_0_orange": {
+    "cosine": 4.03125,
+    "pearson": 4.125,
+    "rmse": 4.25
+  },
+  "Cubism_0_person": {
+    "cosine": 4.34375,
+    "pearson": 4.25,
+    "rmse": 4.25
+  },
+  "Cubism_0_potted-plant": {
+    "cosine": 4.625,
+    "pearson": 4.5,
+    "rmse": 4.5
+  },
+  "Cubism_0_sheep": {
+    "cosine": 3.8125,
+    "pearson": 4.125,
+    "rmse": 4.03125
+  },
+  "Cubism_0_skis": {
+    "cosine": 4.5,
+    "pearson": 4.40625,
+    "rmse": 4.4375
+  },
+  "Cubism_0_surfboard": {
+    "cosine": 3.984375,
+    "pearson": 4.09375,
+    "rmse": 4.0
+  },
+  "Cubism_0_traffic-light": {
+    "cosine": 4.09375,
+    "pearson": 4.09375,
+    "rmse": 4.0625
+  },
+  "Cubism_0_truck": {
+    "cosine": 4.4375,
+    "pearson": 4.375,
+    "rmse": 4.625
+  },
+  "Cubism_0_umbrella": {
+    "cosine": 4.59375,
+    "pearson": 4.53125,
+    "rmse": 4.4375
+  },
+  "Cubism_0_zebra": {
+    "cosine": 4.03125,
+    "pearson": 4.0625,
+    "rmse": 4.1875
+  },
+  "Cubism_1_baseball-bat": {
+    "cosine": 4.0625,
+    "pearson": 4.25,
+    "rmse": 4.03125
+  },
+  "Cubism_1_bear": {
+    "cosine": 4.375,
+    "pearson": 4.25,
+    "rmse": 4.28125
+  },
+  "Cubism_1_bird": {
+    "cosine": 4.0,
+    "pearson": 3.9375,
+    "rmse": 4.1875
+  },
+  "Cubism_1_boat": {
+    "cosine": 4.15625,
+    "pearson": 3.96875,
+    "rmse": 4.09375
+  },
+  "Cubism_1_bus": {
+    "cosine": 3.515625,
+    "pearson": 3.640625,
+    "rmse": 3.53125
+  },
+  "Cubism_1_car": {
+    "cosine": 3.890625,
+    "pearson": 4.03125,
+    "rmse": 4.03125
+  },
+  "Cubism_1_carrot": {
+    "cosine": 4.28125,
+    "pearson": 4.34375,
+    "rmse": 4.125
+  },
+  "Cubism_1_cow": {
+    "cosine": 4.34375,
+    "pearson": 4.53125,
+    "rmse": 4.40625
+  },
+  "Cubism_1_hair-drier": {
+    "cosine": 4.875,
+    "pearson": 4.90625,
+    "rmse": 4.9375
+  },
+  "Cubism_1_kite": {
+    "cosine": 3.953125,
+    "pearson": 4.03125,
+    "rmse": 4.09375
+  },
+  "Cubism_1_orange": {
+    "cosine": 3.8125,
+    "pearson": 4.15625,
+    "rmse": 3.984375
+  },
+  "Cubism_1_person": {
+    "cosine": 4.84375,
+    "pearson": 4.34375,
+    "rmse": 4.59375
+  },
+  "Cubism_1_potted-plant": {
+    "cosine": 4.625,
+    "pearson": 4.75,
+    "rmse": 4.25
+  },
+  "Cubism_1_sheep": {
+    "cosine": 4.1875,
+    "pearson": 4.25,
+    "rmse": 4.28125
+  },
+  "Cubism_1_skis": {
+    "cosine": 4.21875,
+    "pearson": 3.96875,
+    "rmse": 4.25
+  },
+  "Cubism_1_surfboard": {
+    "cosine": 4.09375,
+    "pearson": 3.96875,
+    "rmse": 4.15625
+  },
+  "Cubism_1_traffic-light": {
+    "cosine": 3.90625,
+    "pearson": 3.71875,
+    "rmse": 4.0625
+  },
+  "Cubism_1_truck": {
+    "cosine": 4.25,
+    "pearson": 4.34375,
+    "rmse": 4.5
+  },
+  "Cubism_1_umbrella": {
+    "cosine": 4.625,
+    "pearson": 4.4375,
+    "rmse": 4.34375
+  },
+  "Cubism_1_zebra": {
+    "cosine": 4.53125,
+    "pearson": 4.40625,
+    "rmse": 4.3125
+  },
+  "Cubism_2_baseball-bat": {
+    "cosine": 4.0625,
+    "pearson": 4.21875,
+    "rmse": 4.1875
+  },
+  "Cubism_2_bear": {
+    "cosine": 4.5625,
+    "pearson": 4.3125,
+    "rmse": 4.21875
+  },
+  "Cubism_2_bird": {
+    "cosine": 4.40625,
+    "pearson": 4.84375,
+    "rmse": 4.375
+  },
+  "Cubism_2_boat": {
+    "cosine": 3.921875,
+    "pearson": 4.4375,
+    "rmse": 4.25
+  },
+  "Cubism_2_bus": {
+    "cosine": 3.78125,
+    "pearson": 3.8125,
+    "rmse": 3.921875
+  },
+  "Cubism_2_car": {
+    "cosine": 4.34375,
+    "pearson": 4.5,
+    "rmse": 4.46875
+  },
+  "Cubism_2_carrot": {
+    "cosine": 4.375,
+    "pearson": 4.5,
+    "rmse": 4.625
+  },
+  "Cubism_2_cow": {
+    "cosine": 4.34375,
+    "pearson": 4.375,
+    "rmse": 4.46875
+  },
+  "Cubism_2_hair-drier": {
+    "cosine": 4.625,
+    "pearson": 4.75,
+    "rmse": 4.625
+  },
+  "Cubism_2_kite": {
+    "cosine": 4.21875,
+    "pearson": 4.28125,
+    "rmse": 4.125
+  },
+  "Cubism_2_orange": {
+    "cosine": 4.15625,
+    "pearson": 4.25,
+    "rmse": 4.09375
+  },
+  "Cubism_2_person": {
+    "cosine": 4.46875,
+    "pearson": 4.375,
+    "rmse": 4.125
+  },
+  "Cubism_2_potted-plant": {
+    "cosine": 4.46875,
+    "pearson": 4.40625,
+    "rmse": 4.5625
+  },
+  "Cubism_2_sheep": {
+    "cosine": 4.4375,
+    "pearson": 4.28125,
+    "rmse": 4.34375
+  },
+  "Cubism_2_skis": {
+    "cosine": 4.25,
+    "pearson": 4.59375,
+    "rmse": 4.21875
+  },
+  "Cubism_2_surfboard": {
+    "cosine": 4.5,
+    "pearson": 4.625,
+    "rmse": 4.375
+  },
+  "Cubism_2_traffic-light": {
+    "cosine": 4.34375,
+    "pearson": 4.40625,
+    "rmse": 4.375
+  },
+  "Cubism_2_truck": {
+    "cosine": 4.40625,
+    "pearson": 4.4375,
+    "rmse": 4.3125
+  },
+  "Cubism_2_umbrella": {
+    "cosine": 4.4375,
+    "pearson": 4.375,
+    "rmse": 4.5
+  },
+  "Cubism_2_zebra": {
+    "cosine": 4.46875,
+    "pearson": 4.3125,
+    "rmse": 4.25
+  },
+  "Expressionism_0_baseball-bat": {
+    "cosine": 3.515625,
+    "pearson": 3.515625,
+    "rmse": 3.53125
+  },
+  "Expressionism_0_bear": {
+    "cosine": 4.09375,
+    "pearson": 4.21875,
+    "rmse": 4.125
+  },
+  "Expressionism_0_bird": {
+    "cosine": 3.828125,
+    "pearson": 3.859375,
+    "rmse": 3.734375
+  },
+  "Expressionism_0_boat": {
+    "cosine": 4.0,
+    "pearson": 3.96875,
+    "rmse": 4.0
+  },
+  "Expressionism_0_bus": {
+    "cosine": 3.078125,
+    "pearson": 3.1875,
+    "rmse": 3.09375
+  },
+  "Expressionism_0_car": {
+    "cosine": 3.59375,
+    "pearson": 3.640625,
+    "rmse": 3.453125
+  },
+  "Expressionism_0_carrot": {
+    "cosine": 4.15625,
+    "pearson": 4.3125,
+    "rmse": 4.21875
+  },
+  "Expressionism_0_cow": {
+    "cosine": 3.453125,
+    "pearson": 3.375,
+    "rmse": 3.53125
+  },
+  "Expressionism_0_hair-drier": {
+    "cosine": 4.3125,
+    "pearson": 4.4375,
+    "rmse": 4.4375
+  },
+  "Expressionism_0_kite": {
+    "cosine": 3.765625,
+    "pearson": 3.5625,
+    "rmse": 3.515625
+  },
+  "Expressionism_0_orange": {
+    "cosine": 4.15625,
+    "pearson": 4.1875,
+    "rmse": 3.625
+  },
+  "Expressionism_0_person": {
+    "cosine": 4.625,
+    "pearson": 4.5625,
+    "rmse": 4.65625
+  },
+  "Expressionism_0_potted-plant": {
+    "cosine": 3.96875,
+    "pearson": 4.09375,
+    "rmse": 3.953125
+  },
+  "Expressionism_0_sheep": {
+    "cosine": 3.40625,
+    "pearson": 3.65625,
+    "rmse": 3.5625
+  },
+  "Expressionism_0_skis": {
+    "cosine": 3.78125,
+    "pearson": 3.9375,
+    "rmse": 3.890625
+  },
+  "Expressionism_0_surfboard": {
+    "cosine": 4.09375,
+    "pearson": 3.859375,
+    "rmse": 3.578125
+  },
+  "Expressionism_0_traffic-light": {
+    "cosine": 3.453125,
+    "pearson": 3.40625,
+    "rmse": 3.96875
+  },
+  "Expressionism_0_truck": {
+    "cosine": 3.625,
+    "pearson": 3.625,
+    "rmse": 3.75
+  },
+  "Expressionism_0_umbrella": {
+    "cosine": 3.765625,
+    "pearson": 3.71875,
+    "rmse": 4.15625
+  },
+  "Expressionism_0_zebra": {
+    "cosine": 3.8125,
+    "pearson": 3.75,
+    "rmse": 3.8125
+  },
+  "Expressionism_1_baseball-bat": {
+    "cosine": 4.15625,
+    "pearson": 3.9375,
+    "rmse": 4.15625
+  },
+  "Expressionism_1_bear": {
+    "cosine": 4.4375,
+    "pearson": 4.3125,
+    "rmse": 4.34375
+  },
+  "Expressionism_1_bird": {
+    "cosine": 3.65625,
+    "pearson": 3.96875,
+    "rmse": 3.875
+  },
+  "Expressionism_1_boat": {
+    "cosine": 4.25,
+    "pearson": 4.34375,
+    "rmse": 4.34375
+  },
+  "Expressionism_1_bus": {
+    "cosine": 3.75,
+    "pearson": 4.21875,
+    "rmse": 4.1875
+  },
+  "Expressionism_1_car": {
+    "cosine": 4.3125,
+    "pearson": 4.28125,
+    "rmse": 4.375
+  },
+  "Expressionism_1_carrot": {
+    "cosine": 4.59375,
+    "pearson": 4.53125,
+    "rmse": 4.28125
+  },
+  "Expressionism_1_cow": {
+    "cosine": 4.21875,
+    "pearson": 4.125,
+    "rmse": 4.125
+  },
+  "Expressionism_1_hair-drier": {
+    "cosine": 4.90625,
+    "pearson": 4.9375,
+    "rmse": 4.8125
+  },
+  "Expressionism_1_kite": {
+    "cosine": 4.125,
+    "pearson": 4.03125,
+    "rmse": 4.3125
+  },
+  "Expressionism_1_orange": {
+    "cosine": 4.1875,
+    "pearson": 4.125,
+    "rmse": 4.28125
+  },
+  "Expressionism_1_person": {
+    "cosine": 4.34375,
+    "pearson": 4.4375,
+    "rmse": 3.953125
+  },
+  "Expressionism_1_potted-plant": {
+    "cosine": 4.46875,
+    "pearson": 4.59375,
+    "rmse": 4.6875
+  },
+  "Expressionism_1_sheep": {
+    "cosine": 3.953125,
+    "pearson": 4.03125,
+    "rmse": 3.96875
+  },
+  "Expressionism_1_skis": {
+    "cosine": 4.40625,
+    "pearson": 4.375,
+    "rmse": 4.5625
+  },
+  "Expressionism_1_surfboard": {
+    "cosine": 4.0625,
+    "pearson": 4.25,
+    "rmse": 4.125
+  },
+  "Expressionism_1_traffic-light": {
+    "cosine": 4.21875,
+    "pearson": 4.34375,
+    "rmse": 4.28125
+  },
+  "Expressionism_1_truck": {
+    "cosine": 4.46875,
+    "pearson": 4.5,
+    "rmse": 4.28125
+  },
+  "Expressionism_1_umbrella": {
+    "cosine": 4.59375,
+    "pearson": 4.6875,
+    "rmse": 5.0
+  },
+  "Expressionism_1_zebra": {
+    "cosine": 3.921875,
+    "pearson": 4.09375,
+    "rmse": 3.828125
+  },
+  "Expressionism_2_baseball-bat": {
+    "cosine": 3.875,
+    "pearson": 3.96875,
+    "rmse": 4.09375
+  },
+  "Expressionism_2_bear": {
+    "cosine": 4.1875,
+    "pearson": 4.03125,
+    "rmse": 4.1875
+  },
+  "Expressionism_2_bird": {
+    "cosine": 4.5,
+    "pearson": 4.1875,
+    "rmse": 4.3125
+  },
+  "Expressionism_2_boat": {
+    "cosine": 3.859375,
+    "pearson": 3.671875,
+    "rmse": 3.75
+  },
+  "Expressionism_2_bus": {
+    "cosine": 3.453125,
+    "pearson": 3.453125,
+    "rmse": 3.609375
+  },
+  "Expressionism_2_car": {
+    "cosine": 4.46875,
+    "pearson": 4.5625,
+    "rmse": 4.34375
+  },
+  "Expressionism_2_carrot": {
+    "cosine": 4.34375,
+    "pearson": 4.0625,
+    "rmse": 4.09375
+  },
+  "Expressionism_2_cow": {
+    "cosine": 3.875,
+    "pearson": 3.984375,
+    "rmse": 3.9375
+  },
+  "Expressionism_2_hair-drier": {
+    "cosine": 4.03125,
+    "pearson": 4.28125,
+    "rmse": 4.34375
+  },
+  "Expressionism_2_kite": {
+    "cosine": 4.125,
+    "pearson": 3.96875,
+    "rmse": 4.25
+  },
+  "Expressionism_2_orange": {
+    "cosine": 3.6875,
+    "pearson": 3.859375,
+    "rmse": 3.75
+  },
+  "Expressionism_2_person": {
+    "cosine": 4.4375,
+    "pearson": 4.21875,
+    "rmse": 4.15625
+  },
+  "Expressionism_2_potted-plant": {
+    "cosine": 4.21875,
+    "pearson": 4.34375,
+    "rmse": 4.21875
+  },
+  "Expressionism_2_sheep": {
+    "cosine": 3.9375,
+    "pearson": 3.875,
+    "rmse": 4.0625
+  },
+  "Expressionism_2_skis": {
+    "cosine": 4.46875,
+    "pearson": 4.34375,
+    "rmse": 4.34375
+  },
+  "Expressionism_2_surfboard": {
+    "cosine": 3.71875,
+    "pearson": 4.53125,
+    "rmse": 4.3125
+  },
+  "Expressionism_2_traffic-light": {
+    "cosine": 4.1875,
+    "pearson": 3.9375,
+    "rmse": 3.84375
+  },
+  "Expressionism_2_truck": {
+    "cosine": 4.40625,
+    "pearson": 4.53125,
+    "rmse": 4.4375
+  },
+  "Expressionism_2_umbrella": {
+    "cosine": 4.0,
+    "pearson": 4.0625,
+    "rmse": 3.875
+  },
+  "Expressionism_2_zebra": {
+    "cosine": 4.46875,
+    "pearson": 4.15625,
+    "rmse": 4.1875
+  },
+  "High_Renaissance_0_baseball-bat": {
+    "cosine": 4.03125,
+    "pearson": 4.21875,
+    "rmse": 4.21875
+  },
+  "High_Renaissance_0_bear": {
+    "cosine": 4.5625,
+    "pearson": 4.46875,
+    "rmse": 4.5625
+  },
+  "High_Renaissance_0_bird": {
+    "cosine": 4.1875,
+    "pearson": 4.09375,
+    "rmse": 4.3125
+  },
+  "High_Renaissance_0_boat": {
+    "cosine": 4.25,
+    "pearson": 4.3125,
+    "rmse": 4.21875
+  },
+  "High_Renaissance_0_bus": {
+    "cosine": 3.96875,
+    "pearson": 4.15625,
+    "rmse": 4.0
+  },
+  "High_Renaissance_0_car": {
+    "cosine": 3.984375,
+    "pearson": 3.9375,
+    "rmse": 3.9375
+  },
+  "High_Renaissance_0_carrot": {
+    "cosine": 4.53125,
+    "pearson": 4.75,
+    "rmse": 4.46875
+  },
+  "High_Renaissance_0_cow": {
+    "cosine": 3.78125,
+    "pearson": 3.859375,
+    "rmse": 3.734375
+  },
+  "High_Renaissance_0_hair-drier": {
+    "cosine": 5.03125,
+    "pearson": 5.21875,
+    "rmse": 4.71875
+  },
+  "High_Renaissance_0_kite": {
+    "cosine": 3.921875,
+    "pearson": 3.953125,
+    "rmse": 4.09375
+  },
+  "High_Renaissance_0_orange": {
+    "cosine": 3.984375,
+    "pearson": 3.890625,
+    "rmse": 3.84375
+  },
+  "High_Renaissance_0_person": {
+    "cosine": 4.96875,
+    "pearson": 5.03125,
+    "rmse": 5.0
+  },
+  "High_Renaissance_0_potted-plant": {
+    "cosine": 4.28125,
+    "pearson": 4.15625,
+    "rmse": 4.3125
+  },
+  "High_Renaissance_0_sheep": {
+    "cosine": 4.21875,
+    "pearson": 3.921875,
+    "rmse": 4.3125
+  },
+  "High_Renaissance_0_skis": {
+    "cosine": 4.0625,
+    "pearson": 4.125,
+    "rmse": 4.0
+  },
+  "High_Renaissance_0_surfboard": {
+    "cosine": 4.1875,
+    "pearson": 4.59375,
+    "rmse": 4.3125
+  },
+  "High_Renaissance_0_traffic-light": {
+    "cosine": 3.546875,
+    "pearson": 3.9375,
+    "rmse": 4.15625
+  },
+  "High_Renaissance_0_truck": {
+    "cosine": 4.875,
+    "pearson": 5.03125,
+    "rmse": 4.875
+  },
+  "High_Renaissance_0_umbrella": {
+    "cosine": 4.09375,
+    "pearson": 4.375,
+    "rmse": 4.0625
+  },
+  "High_Renaissance_0_zebra": {
+    "cosine": 4.53125,
+    "pearson": 4.46875,
+    "rmse": 4.65625
+  },
+  "High_Renaissance_1_baseball-bat": {
+    "cosine": 3.828125,
+    "pearson": 3.90625,
+    "rmse": 3.984375
+  },
+  "High_Renaissance_1_bear": {
+    "cosine": 3.71875,
+    "pearson": 3.859375,
+    "rmse": 4.09375
+  },
+  "High_Renaissance_1_bird": {
+    "cosine": 4.03125,
+    "pearson": 3.8125,
+    "rmse": 3.890625
+  },
+  "High_Renaissance_1_boat": {
+    "cosine": 4.15625,
+    "pearson": 4.125,
+    "rmse": 4.375
+  },
+  "High_Renaissance_1_bus": {
+    "cosine": 2.953125,
+    "pearson": 3.15625,
+    "rmse": 3.71875
+  },
+  "High_Renaissance_1_car": {
+    "cosine": 3.96875,
+    "pearson": 3.765625,
+    "rmse": 3.671875
+  },
+  "High_Renaissance_1_carrot": {
+    "cosine": 4.3125,
+    "pearson": 4.0625,
+    "rmse": 3.53125
+  },
+  "High_Renaissance_1_cow": {
+    "cosine": 3.5625,
+    "pearson": 3.53125,
+    "rmse": 3.9375
+  },
+  "High_Renaissance_1_hair-drier": {
+    "cosine": 4.53125,
+    "pearson": 4.53125,
+    "rmse": 4.6875
+  },
+  "High_Renaissance_1_kite": {
+    "cosine": 3.578125,
+    "pearson": 4.0625,
+    "rmse": 4.09375
+  },
+  "High_Renaissance_1_orange": {
+    "cosine": 4.0625,
+    "pearson": 3.953125,
+    "rmse": 4.21875
+  },
+  "High_Renaissance_1_person": {
+    "cosine": 4.3125,
+    "pearson": 4.1875,
+    "rmse": 4.03125
+  },
+  "High_Renaissance_1_potted-plant": {
+    "cosine": 3.875,
+    "pearson": 4.09375,
+    "rmse": 3.609375
+  },
+  "High_Renaissance_1_sheep": {
+    "cosine": 3.546875,
+    "pearson": 3.609375,
+    "rmse": 3.984375
+  },
+  "High_Renaissance_1_skis": {
+    "cosine": 4.09375,
+    "pearson": 4.125,
+    "rmse": 4.34375
+  },
+  "High_Renaissance_1_surfboard": {
+    "cosine": 3.53125,
+    "pearson": 3.484375,
+    "rmse": 3.75
+  },
+  "High_Renaissance_1_traffic-light": {
+    "cosine": 4.09375,
+    "pearson": 4.34375,
+    "rmse": 4.09375
+  },
+  "High_Renaissance_1_truck": {
+    "cosine": 4.4375,
+    "pearson": 4.53125,
+    "rmse": 4.0
+  },
+  "High_Renaissance_1_umbrella": {
+    "cosine": 3.890625,
+    "pearson": 3.984375,
+    "rmse": 4.03125
+  },
+  "High_Renaissance_1_zebra": {
+    "cosine": 3.71875,
+    "pearson": 3.328125,
+    "rmse": 3.875
+  },
+  "Impressionism_0_baseball-bat": {
+    "cosine": 3.625,
+    "pearson": 3.984375,
+    "rmse": 4.0625
+  },
+  "Impressionism_0_bear": {
+    "cosine": 4.21875,
+    "pearson": 4.09375,
+    "rmse": 4.0625
+  },
+  "Impressionism_0_bird": {
+    "cosine": 4.09375,
+    "pearson": 3.890625,
+    "rmse": 3.84375
+  },
+  "Impressionism_0_boat": {
+    "cosine": 4.21875,
+    "pearson": 4.5,
+    "rmse": 4.21875
+  },
+  "Impressionism_0_bus": {
+    "cosine": 3.640625,
+    "pearson": 3.609375,
+    "rmse": 3.59375
+  },
+  "Impressionism_0_car": {
+    "cosine": 4.21875,
+    "pearson": 4.125,
+    "rmse": 4.15625
+  },
+  "Impressionism_0_carrot": {
+    "cosine": 4.28125,
+    "pearson": 4.21875,
+    "rmse": 4.0625
+  },
+  "Impressionism_0_cow": {
+    "cosine": 4.0625,
+    "pearson": 4.0625,
+    "rmse": 4.1875
+  },
+  "Impressionism_0_hair-drier": {
+    "cosine": 5.125,
+    "pearson": 4.90625,
+    "rmse": 5.0
+  },
+  "Impressionism_0_kite": {
+    "cosine": 4.65625,
+    "pearson": 4.5625,
+    "rmse": 4.3125
+  },
+  "Impressionism_0_orange": {
+    "cosine": 4.03125,
+    "pearson": 3.921875,
+    "rmse": 4.03125
+  },
+  "Impressionism_0_person": {
+    "cosine": 4.1875,
+    "pearson": 4.375,
+    "rmse": 4.09375
+  },
+  "Impressionism_0_potted-plant": {
+    "cosine": 4.75,
+    "pearson": 4.6875,
+    "rmse": 4.53125
+  },
+  "Impressionism_0_sheep": {
+    "cosine": 4.03125,
+    "pearson": 4.0,
+    "rmse": 4.09375
+  },
+  "Impressionism_0_skis": {
+    "cosine": 4.625,
+    "pearson": 4.84375,
+    "rmse": 4.75
+  },
+  "Impressionism_0_surfboard": {
+    "cosine": 4.15625,
+    "pearson": 4.09375,
+    "rmse": 3.890625
+  },
+  "Impressionism_0_traffic-light": {
+    "cosine": 3.953125,
+    "pearson": 4.28125,
+    "rmse": 4.15625
+  },
+  "Impressionism_0_truck": {
+    "cosine": 4.40625,
+    "pearson": 4.25,
+    "rmse": 4.0
+  },
+  "Impressionism_0_umbrella": {
+    "cosine": 5.0625,
+    "pearson": 4.625,
+    "rmse": 4.78125
+  },
+  "Impressionism_0_zebra": {
+    "cosine": 4.4375,
+    "pearson": 4.21875,
+    "rmse": 4.09375
+  },
+  "Impressionism_1_baseball-bat": {
+    "cosine": 3.421875,
+    "pearson": 3.203125,
+    "rmse": 3.796875
+  },
+  "Impressionism_1_bear": {
+    "cosine": 4.0,
+    "pearson": 4.0,
+    "rmse": 4.09375
+  },
+  "Impressionism_1_bird": {
+    "cosine": 4.53125,
+    "pearson": 4.375,
+    "rmse": 4.0625
+  },
+  "Impressionism_1_boat": {
+    "cosine": 3.875,
+    "pearson": 4.03125,
+    "rmse": 3.84375
+  },
+  "Impressionism_1_bus": {
+    "cosine": 3.421875,
+    "pearson": 3.296875,
+    "rmse": 3.640625
+  },
+  "Impressionism_1_car": {
+    "cosine": 3.890625,
+    "pearson": 4.03125,
+    "rmse": 4.1875
+  },
+  "Impressionism_1_carrot": {
+    "cosine": 4.21875,
+    "pearson": 4.15625,
+    "rmse": 4.15625
+  },
+  "Impressionism_1_cow": {
+    "cosine": 3.65625,
+    "pearson": 3.53125,
+    "rmse": 3.71875
+  },
+  "Impressionism_1_hair-drier": {
+    "cosine": 4.53125,
+    "pearson": 4.4375,
+    "rmse": 4.8125
+  },
+  "Impressionism_1_kite": {
+    "cosine": 3.96875,
+    "pearson": 4.1875,
+    "rmse": 3.859375
+  },
+  "Impressionism_1_orange": {
+    "cosine": 3.78125,
+    "pearson": 3.8125,
+    "rmse": 3.890625
+  },
+  "Impressionism_1_person": {
+    "cosine": 3.796875,
+    "pearson": 3.78125,
+    "rmse": 4.03125
+  },
+  "Impressionism_1_potted-plant": {
+    "cosine": 4.53125,
+    "pearson": 4.46875,
+    "rmse": 4.375
+  },
+  "Impressionism_1_sheep": {
+    "cosine": 3.65625,
+    "pearson": 3.953125,
+    "rmse": 3.65625
+  },
+  "Impressionism_1_skis": {
+    "cosine": 4.1875,
+    "pearson": 4.09375,
+    "rmse": 4.34375
+  },
+  "Impressionism_1_surfboard": {
+    "cosine": 3.78125,
+    "pearson": 3.671875,
+    "rmse": 3.953125
+  },
+  "Impressionism_1_traffic-light": {
+    "cosine": 4.09375,
+    "pearson": 4.0625,
+    "rmse": 3.96875
+  },
+  "Impressionism_1_truck": {
+    "cosine": 4.59375,
+    "pearson": 4.59375,
+    "rmse": 4.34375
+  },
+  "Impressionism_1_umbrella": {
+    "cosine": 4.75,
+    "pearson": 4.75,
+    "rmse": 4.53125
+  },
+  "Impressionism_1_zebra": {
+    "cosine": 3.640625,
+    "pearson": 3.859375,
+    "rmse": 4.0625
+  },
+  "Impressionism_2_baseball-bat": {
+    "cosine": 3.53125,
+    "pearson": 3.234375,
+    "rmse": 3.4375
+  },
+  "Impressionism_2_bear": {
+    "cosine": 4.25,
+    "pearson": 4.25,
+    "rmse": 4.09375
+  },
+  "Impressionism_2_bird": {
+    "cosine": 3.59375,
+    "pearson": 3.71875,
+    "rmse": 3.65625
+  },
+  "Impressionism_2_boat": {
+    "cosine": 3.984375,
+    "pearson": 3.828125,
+    "rmse": 4.03125
+  },
+  "Impressionism_2_bus": {
+    "cosine": 3.34375,
+    "pearson": 3.375,
+    "rmse": 3.359375
+  },
+  "Impressionism_2_car": {
+    "cosine": 3.21875,
+    "pearson": 3.375,
+    "rmse": 3.25
+  },
+  "Impressionism_2_carrot": {
+    "cosine": 4.0,
+    "pearson": 3.90625,
+    "rmse": 3.609375
+  },
+  "Impressionism_2_cow": {
+    "cosine": 3.484375,
+    "pearson": 3.703125,
+    "rmse": 3.5625
+  },
+  "Impressionism_2_hair-drier": {
+    "cosine": 4.65625,
+    "pearson": 4.65625,
+    "rmse": 4.65625
+  },
+  "Impressionism_2_kite": {
+    "cosine": 4.125,
+    "pearson": 3.890625,
+    "rmse": 3.71875
+  },
+  "Impressionism_2_orange": {
+    "cosine": 4.03125,
+    "pearson": 3.671875,
+    "rmse": 3.65625
+  },
+  "Impressionism_2_person": {
+    "cosine": 4.03125,
+    "pearson": 4.1875,
+    "rmse": 3.96875
+  },
+  "Impressionism_2_potted-plant": {
+    "cosine": 3.921875,
+    "pearson": 3.9375,
+    "rmse": 3.84375
+  },
+  "Impressionism_2_sheep": {
+    "cosine": 3.453125,
+    "pearson": 3.40625,
+    "rmse": 3.46875
+  },
+  "Impressionism_2_skis": {
+    "cosine": 3.75,
+    "pearson": 3.8125,
+    "rmse": 4.125
+  },
+  "Impressionism_2_surfboard": {
+    "cosine": 3.515625,
+    "pearson": 3.53125,
+    "rmse": 3.5625
+  },
+  "Impressionism_2_traffic-light": {
+    "cosine": 3.71875,
+    "pearson": 3.8125,
+    "rmse": 3.6875
+  },
+  "Impressionism_2_truck": {
+    "cosine": 4.59375,
+    "pearson": 4.5,
+    "rmse": 4.03125
+  },
+  "Impressionism_2_umbrella": {
+    "cosine": 4.0625,
+    "pearson": 3.625,
+    "rmse": 4.0
+  },
+  "Impressionism_2_zebra": {
+    "cosine": 3.609375,
+    "pearson": 3.46875,
+    "rmse": 3.34375
+  },
+  "Impressionism_3_baseball-bat": {
+    "cosine": 3.3125,
+    "pearson": 3.234375,
+    "rmse": 3.78125
+  },
+  "Impressionism_3_bear": {
+    "cosine": 3.84375,
+    "pearson": 3.953125,
+    "rmse": 4.28125
+  },
+  "Impressionism_3_bird": {
+    "cosine": 3.984375,
+    "pearson": 3.859375,
+    "rmse": 4.1875
+  },
+  "Impressionism_3_boat": {
+    "cosine": 4.1875,
+    "pearson": 4.125,
+    "rmse": 4.375
+  },
+  "Impressionism_3_bus": {
+    "cosine": 3.328125,
+    "pearson": 3.34375,
+    "rmse": 3.53125
+  },
+  "Impressionism_3_car": {
+    "cosine": 3.625,
+    "pearson": 3.890625,
+    "rmse": 3.875
+  },
+  "Impressionism_3_carrot": {
+    "cosine": 4.3125,
+    "pearson": 4.21875,
+    "rmse": 3.6875
+  },
+  "Impressionism_3_cow": {
+    "cosine": 3.671875,
+    "pearson": 3.640625,
+    "rmse": 3.921875
+  },
+  "Impressionism_3_hair-drier": {
+    "cosine": 4.78125,
+    "pearson": 4.65625,
+    "rmse": 5.03125
+  },
+  "Impressionism_3_kite": {
+    "cosine": 3.953125,
+    "pearson": 3.921875,
+    "rmse": 3.9375
+  },
+  "Impressionism_3_orange": {
+    "cosine": 3.671875,
+    "pearson": 3.609375,
+    "rmse": 3.671875
+  },
+  "Impressionism_3_person": {
+    "cosine": 4.75,
+    "pearson": 4.8125,
+    "rmse": 4.46875
+  },
+  "Impressionism_3_potted-plant": {
+    "cosine": 4.375,
+    "pearson": 4.34375,
+    "rmse": 4.21875
+  },
+  "Impressionism_3_sheep": {
+    "cosine": 3.875,
+    "pearson": 3.90625,
+    "rmse": 3.9375
+  },
+  "Impressionism_3_skis": {
+    "cosine": 3.953125,
+    "pearson": 4.0625,
+    "rmse": 4.1875
+  },
+  "Impressionism_3_surfboard": {
+    "cosine": 4.25,
+    "pearson": 4.3125,
+    "rmse": 4.15625
+  },
+  "Impressionism_3_traffic-light": {
+    "cosine": 3.453125,
+    "pearson": 3.40625,
+    "rmse": 3.5625
+  },
+  "Impressionism_3_truck": {
+    "cosine": 4.53125,
+    "pearson": 4.4375,
+    "rmse": 4.625
+  },
+  "Impressionism_3_umbrella": {
+    "cosine": 4.1875,
+    "pearson": 4.21875,
+    "rmse": 3.890625
+  },
+  "Impressionism_3_zebra": {
+    "cosine": 4.0,
+    "pearson": 4.15625,
+    "rmse": 3.828125
+  },
+  "Impressionism_4_baseball-bat": {
+    "cosine": 3.9375,
+    "pearson": 4.0,
+    "rmse": 4.0
+  },
+  "Impressionism_4_bear": {
+    "cosine": 4.1875,
+    "pearson": 4.03125,
+    "rmse": 4.03125
+  },
+  "Impressionism_4_bird": {
+    "cosine": 4.21875,
+    "pearson": 4.125,
+    "rmse": 4.40625
+  },
+  "Impressionism_4_boat": {
+    "cosine": 4.46875,
+    "pearson": 4.3125,
+    "rmse": 4.71875
+  },
+  "Impressionism_4_bus": {
+    "cosine": 3.78125,
+    "pearson": 3.75,
+    "rmse": 3.75
+  },
+  "Impressionism_4_car": {
+    "cosine": 4.0625,
+    "pearson": 3.953125,
+    "rmse": 4.125
+  },
+  "Impressionism_4_carrot": {
+    "cosine": 4.46875,
+    "pearson": 4.40625,
+    "rmse": 4.625
+  },
+  "Impressionism_4_cow": {
+    "cosine": 4.0625,
+    "pearson": 4.09375,
+    "rmse": 4.1875
+  },
+  "Impressionism_4_hair-drier": {
+    "cosine": 4.65625,
+    "pearson": 4.90625,
+    "rmse": 5.09375
+  },
+  "Impressionism_4_kite": {
+    "cosine": 4.0625,
+    "pearson": 4.28125,
+    "rmse": 4.5
+  },
+  "Impressionism_4_orange": {
+    "cosine": 4.28125,
+    "pearson": 4.25,
+    "rmse": 4.25
+  },
+  "Impressionism_4_person": {
+    "cosine": 4.5625,
+    "pearson": 4.4375,
+    "rmse": 4.625
+  },
+  "Impressionism_4_potted-plant": {
+    "cosine": 4.4375,
+    "pearson": 4.40625,
+    "rmse": 4.53125
+  },
+  "Impressionism_4_sheep": {
+    "cosine": 4.125,
+    "pearson": 4.09375,
+    "rmse": 4.5
+  },
+  "Impressionism_4_skis": {
+    "cosine": 3.96875,
+    "pearson": 4.15625,
+    "rmse": 4.28125
+  },
+  "Impressionism_4_surfboard": {
+    "cosine": 4.375,
+    "pearson": 4.40625,
+    "rmse": 4.65625
+  },
+  "Impressionism_4_traffic-light": {
+    "cosine": 3.84375,
+    "pearson": 4.15625,
+    "rmse": 4.25
+  },
+  "Impressionism_4_truck": {
+    "cosine": 4.09375,
+    "pearson": 4.25,
+    "rmse": 4.5625
+  },
+  "Impressionism_4_umbrella": {
+    "cosine": 4.5,
+    "pearson": 4.6875,
+    "rmse": 4.5625
+  },
+  "Impressionism_4_zebra": {
+    "cosine": 4.34375,
+    "pearson": 4.21875,
+    "rmse": 4.15625
+  },
+  "Naive_Art_Primitivism_0_baseball-bat": {
+    "cosine": 4.0,
+    "pearson": 3.953125,
+    "rmse": 4.0
+  },
+  "Naive_Art_Primitivism_0_bear": {
+    "cosine": 4.46875,
+    "pearson": 4.5,
+    "rmse": 4.59375
+  },
+  "Naive_Art_Primitivism_0_bird": {
+    "cosine": 4.25,
+    "pearson": 4.28125,
+    "rmse": 4.28125
+  },
+  "Naive_Art_Primitivism_0_boat": {
+    "cosine": 4.28125,
+    "pearson": 4.25,
+    "rmse": 4.34375
+  },
+  "Naive_Art_Primitivism_0_bus": {
+    "cosine": 3.859375,
+    "pearson": 3.75,
+    "rmse": 4.15625
+  },
+  "Naive_Art_Primitivism_0_car": {
+    "cosine": 3.84375,
+    "pearson": 4.0625,
+    "rmse": 4.5
+  },
+  "Naive_Art_Primitivism_0_carrot": {
+    "cosine": 4.34375,
+    "pearson": 4.625,
+    "rmse": 4.5625
+  },
+  "Naive_Art_Primitivism_0_cow": {
+    "cosine": 4.1875,
+    "pearson": 4.125,
+    "rmse": 4.1875
+  },
+  "Naive_Art_Primitivism_0_hair-drier": {
+    "cosine": 4.96875,
+    "pearson": 5.0625,
+    "rmse": 4.65625
+  },
+  "Naive_Art_Primitivism_0_kite": {
+    "cosine": 3.9375,
+    "pearson": 4.0625,
+    "rmse": 4.34375
+  },
+  "Naive_Art_Primitivism_0_orange": {
+    "cosine": 3.828125,
+    "pearson": 3.953125,
+    "rmse": 4.125
+  },
+  "Naive_Art_Primitivism_0_person": {
+    "cosine": 4.6875,
+    "pearson": 4.5,
+    "rmse": 4.5625
+  },
+  "Naive_Art_Primitivism_0_potted-plant": {
+    "cosine": 4.59375,
+    "pearson": 4.9375,
+    "rmse": 4.6875
+  },
+  "Naive_Art_Primitivism_0_sheep": {
+    "cosine": 4.09375,
+    "pearson": 4.09375,
+    "rmse": 4.34375
+  },
+  "Naive_Art_Primitivism_0_skis": {
+    "cosine": 4.4375,
+    "pearson": 4.4375,
+    "rmse": 4.46875
+  },
+  "Naive_Art_Primitivism_0_surfboard": {
+    "cosine": 4.25,
+    "pearson": 4.34375,
+    "rmse": 4.125
+  },
+  "Naive_Art_Primitivism_0_traffic-light": {
+    "cosine": 4.03125,
+    "pearson": 4.09375,
+    "rmse": 4.25
+  },
+  "Naive_Art_Primitivism_0_truck": {
+    "cosine": 4.40625,
+    "pearson": 4.21875,
+    "rmse": 4.34375
+  },
+  "Naive_Art_Primitivism_0_umbrella": {
+    "cosine": 4.5,
+    "pearson": 4.375,
+    "rmse": 4.375
+  },
+  "Naive_Art_Primitivism_0_zebra": {
+    "cosine": 4.5625,
+    "pearson": 4.4375,
+    "rmse": 4.5625
+  },
+  "Naive_Art_Primitivism_1_baseball-bat": {
+    "cosine": 4.0,
+    "pearson": 4.0625,
+    "rmse": 4.0
+  },
+  "Naive_Art_Primitivism_1_bear": {
+    "cosine": 4.0,
+    "pearson": 3.75,
+    "rmse": 3.765625
+  },
+  "Naive_Art_Primitivism_1_bird": {
+    "cosine": 4.03125,
+    "pearson": 3.75,
+    "rmse": 3.65625
+  },
+  "Naive_Art_Primitivism_1_boat": {
+    "cosine": 3.796875,
+    "pearson": 4.125,
+    "rmse": 4.15625
+  },
+  "Naive_Art_Primitivism_1_bus": {
+    "cosine": 3.5,
+    "pearson": 3.453125,
+    "rmse": 3.5
+  },
+  "Naive_Art_Primitivism_1_car": {
+    "cosine": 4.09375,
+    "pearson": 4.0,
+    "rmse": 4.125
+  },
+  "Naive_Art_Primitivism_1_carrot": {
+    "cosine": 4.0625,
+    "pearson": 4.09375,
+    "rmse": 3.890625
+  },
+  "Naive_Art_Primitivism_1_cow": {
+    "cosine": 3.546875,
+    "pearson": 3.53125,
+    "rmse": 3.6875
+  },
+  "Naive_Art_Primitivism_1_hair-drier": {
+    "cosine": 4.375,
+    "pearson": 4.5625,
+    "rmse": 4.59375
+  },
+  "Naive_Art_Primitivism_1_kite": {
+    "cosine": 3.609375,
+    "pearson": 3.75,
+    "rmse": 3.90625
+  },
+  "Naive_Art_Primitivism_1_orange": {
+    "cosine": 3.921875,
+    "pearson": 3.71875,
+    "rmse": 3.984375
+  },
+  "Naive_Art_Primitivism_1_person": {
+    "cosine": 3.609375,
+    "pearson": 3.8125,
+    "rmse": 3.859375
+  },
+  "Naive_Art_Primitivism_1_potted-plant": {
+    "cosine": 4.1875,
+    "pearson": 3.984375,
+    "rmse": 4.3125
+  },
+  "Naive_Art_Primitivism_1_sheep": {
+    "cosine": 3.921875,
+    "pearson": 3.75,
+    "rmse": 4.1875
+  },
+  "Naive_Art_Primitivism_1_skis": {
+    "cosine": 3.9375,
+    "pearson": 3.90625,
+    "rmse": 4.03125
+  },
+  "Naive_Art_Primitivism_1_surfboard": {
+    "cosine": 3.84375,
+    "pearson": 3.859375,
+    "rmse": 3.859375
+  },
+  "Naive_Art_Primitivism_1_traffic-light": {
+    "cosine": 3.8125,
+    "pearson": 3.515625,
+    "rmse": 3.90625
+  },
+  "Naive_Art_Primitivism_1_truck": {
+    "cosine": 4.15625,
+    "pearson": 3.828125,
+    "rmse": 3.875
+  },
+  "Naive_Art_Primitivism_1_umbrella": {
+    "cosine": 4.25,
+    "pearson": 3.859375,
+    "rmse": 4.0625
+  },
+  "Naive_Art_Primitivism_1_zebra": {
+    "cosine": 4.15625,
+    "pearson": 4.0,
+    "rmse": 4.21875
+  },
+  "Naive_Art_Primitivism_2_baseball-bat": {
+    "cosine": 3.53125,
+    "pearson": 3.359375,
+    "rmse": 3.453125
+  },
+  "Naive_Art_Primitivism_2_bear": {
+    "cosine": 3.671875,
+    "pearson": 3.5625,
+    "rmse": 3.53125
+  },
+  "Naive_Art_Primitivism_2_bird": {
+    "cosine": 3.609375,
+    "pearson": 3.703125,
+    "rmse": 3.671875
+  },
+  "Naive_Art_Primitivism_2_boat": {
+    "cosine": 3.9375,
+    "pearson": 3.671875,
+    "rmse": 3.65625
+  },
+  "Naive_Art_Primitivism_2_bus": {
+    "cosine": 3.0,
+    "pearson": 3.15625,
+    "rmse": 3.296875
+  },
+  "Naive_Art_Primitivism_2_car": {
+    "cosine": 3.375,
+    "pearson": 3.484375,
+    "rmse": 3.578125
+  },
+  "Naive_Art_Primitivism_2_carrot": {
+    "cosine": 4.125,
+    "pearson": 3.890625,
+    "rmse": 3.84375
+  },
+  "Naive_Art_Primitivism_2_cow": {
+    "cosine": 3.578125,
+    "pearson": 3.40625,
+    "rmse": 3.46875
+  },
+  "Naive_Art_Primitivism_2_hair-drier": {
+    "cosine": 4.3125,
+    "pearson": 4.09375,
+    "rmse": 4.09375
+  },
+  "Naive_Art_Primitivism_2_kite": {
+    "cosine": 3.734375,
+    "pearson": 3.78125,
+    "rmse": 3.875
+  },
+  "Naive_Art_Primitivism_2_orange": {
+    "cosine": 3.640625,
+    "pearson": 3.609375,
+    "rmse": 3.484375
+  },
+  "Naive_Art_Primitivism_2_person": {
+    "cosine": 4.28125,
+    "pearson": 4.125,
+    "rmse": 4.125
+  },
+  "Naive_Art_Primitivism_2_potted-plant": {
+    "cosine": 3.609375,
+    "pearson": 3.734375,
+    "rmse": 3.609375
+  },
+  "Naive_Art_Primitivism_2_sheep": {
+    "cosine": 3.359375,
+    "pearson": 3.390625,
+    "rmse": 3.40625
+  },
+  "Naive_Art_Primitivism_2_skis": {
+    "cosine": 3.4375,
+    "pearson": 3.296875,
+    "rmse": 3.375
+  },
+  "Naive_Art_Primitivism_2_surfboard": {
+    "cosine": 3.78125,
+    "pearson": 3.796875,
+    "rmse": 3.796875
+  },
+  "Naive_Art_Primitivism_2_traffic-light": {
+    "cosine": 3.453125,
+    "pearson": 3.28125,
+    "rmse": 3.859375
+  },
+  "Naive_Art_Primitivism_2_truck": {
+    "cosine": 3.296875,
+    "pearson": 3.515625,
+    "rmse": 3.40625
+  },
+  "Naive_Art_Primitivism_2_umbrella": {
+    "cosine": 3.84375,
+    "pearson": 3.859375,
+    "rmse": 3.8125
+  },
+  "Naive_Art_Primitivism_2_zebra": {
+    "cosine": 3.453125,
+    "pearson": 3.40625,
+    "rmse": 3.328125
+  },
+  "Naive_Art_Primitivism_3_baseball-bat": {
+    "cosine": 3.90625,
+    "pearson": 3.984375,
+    "rmse": 3.921875
+  },
+  "Naive_Art_Primitivism_3_bear": {
+    "cosine": 4.3125,
+    "pearson": 4.3125,
+    "rmse": 4.09375
+  },
+  "Naive_Art_Primitivism_3_bird": {
+    "cosine": 4.0625,
+    "pearson": 4.09375,
+    "rmse": 4.34375
+  },
+  "Naive_Art_Primitivism_3_boat": {
+    "cosine": 4.1875,
+    "pearson": 4.3125,
+    "rmse": 4.3125
+  },
+  "Naive_Art_Primitivism_3_bus": {
+    "cosine": 3.828125,
+    "pearson": 3.78125,
+    "rmse": 3.625
+  },
+  "Naive_Art_Primitivism_3_car": {
+    "cosine": 3.71875,
+    "pearson": 4.03125,
+    "rmse": 4.0
+  },
+  "Naive_Art_Primitivism_3_carrot": {
+    "cosine": 4.375,
+    "pearson": 4.34375,
+    "rmse": 4.46875
+  },
+  "Naive_Art_Primitivism_3_cow": {
+    "cosine": 3.671875,
+    "pearson": 3.84375,
+    "rmse": 4.0625
+  },
+  "Naive_Art_Primitivism_3_hair-drier": {
+    "cosine": 5.0,
+    "pearson": 5.125,
+    "rmse": 5.09375
+  },
+  "Naive_Art_Primitivism_3_kite": {
+    "cosine": 3.78125,
+    "pearson": 3.921875,
+    "rmse": 4.0625
+  },
+  "Naive_Art_Primitivism_3_orange": {
+    "cosine": 4.0,
+    "pearson": 4.15625,
+    "rmse": 3.96875
+  },
+  "Naive_Art_Primitivism_3_person": {
+    "cosine": 4.75,
+    "pearson": 4.78125,
+    "rmse": 4.6875
+  },
+  "Naive_Art_Primitivism_3_potted-plant": {
+    "cosine": 4.59375,
+    "pearson": 4.375,
+    "rmse": 4.59375
+  },
+  "Naive_Art_Primitivism_3_sheep": {
+    "cosine": 3.765625,
+    "pearson": 3.953125,
+    "rmse": 3.890625
+  },
+  "Naive_Art_Primitivism_3_skis": {
+    "cosine": 4.125,
+    "pearson": 4.25,
+    "rmse": 4.1875
+  },
+  "Naive_Art_Primitivism_3_surfboard": {
+    "cosine": 4.375,
+    "pearson": 4.09375,
+    "rmse": 4.125
+  },
+  "Naive_Art_Primitivism_3_traffic-light": {
+    "cosine": 3.703125,
+    "pearson": 3.671875,
+    "rmse": 3.890625
+  },
+  "Naive_Art_Primitivism_3_truck": {
+    "cosine": 4.28125,
+    "pearson": 4.3125,
+    "rmse": 4.59375
+  },
+  "Naive_Art_Primitivism_3_umbrella": {
+    "cosine": 4.46875,
+    "pearson": 4.34375,
+    "rmse": 4.21875
+  },
+  "Naive_Art_Primitivism_3_zebra": {
+    "cosine": 4.1875,
+    "pearson": 4.125,
+    "rmse": 4.28125
+  },
+  "Naive_Art_Primitivism_4_baseball-bat": {
+    "cosine": 4.09375,
+    "pearson": 4.09375,
+    "rmse": 4.15625
+  },
+  "Naive_Art_Primitivism_4_bear": {
+    "cosine": 4.40625,
+    "pearson": 4.3125,
+    "rmse": 3.90625
+  },
+  "Naive_Art_Primitivism_4_bird": {
+    "cosine": 4.25,
+    "pearson": 4.21875,
+    "rmse": 4.0625
+  },
+  "Naive_Art_Primitivism_4_boat": {
+    "cosine": 4.0625,
+    "pearson": 4.09375,
+    "rmse": 4.0625
+  },
+  "Naive_Art_Primitivism_4_bus": {
+    "cosine": 3.546875,
+    "pearson": 3.625,
+    "rmse": 3.75
+  },
+  "Naive_Art_Primitivism_4_car": {
+    "cosine": 3.96875,
+    "pearson": 4.25,
+    "rmse": 3.859375
+  },
+  "Naive_Art_Primitivism_4_carrot": {
+    "cosine": 4.75,
+    "pearson": 4.8125,
+    "rmse": 4.5625
+  },
+  "Naive_Art_Primitivism_4_cow": {
+    "cosine": 4.1875,
+    "pearson": 4.1875,
+    "rmse": 4.1875
+  },
+  "Naive_Art_Primitivism_4_hair-drier": {
+    "cosine": 4.9375,
+    "pearson": 4.9375,
+    "rmse": 5.03125
+  },
+  "Naive_Art_Primitivism_4_kite": {
+    "cosine": 4.15625,
+    "pearson": 4.28125,
+    "rmse": 4.1875
+  },
+  "Naive_Art_Primitivism_4_orange": {
+    "cosine": 3.78125,
+    "pearson": 4.03125,
+    "rmse": 3.703125
+  },
+  "Naive_Art_Primitivism_4_person": {
+    "cosine": 4.5625,
+    "pearson": 4.28125,
+    "rmse": 4.46875
+  },
+  "Naive_Art_Primitivism_4_potted-plant": {
+    "cosine": 4.09375,
+    "pearson": 4.4375,
+    "rmse": 4.71875
+  },
+  "Naive_Art_Primitivism_4_sheep": {
+    "cosine": 4.03125,
+    "pearson": 4.15625,
+    "rmse": 3.90625
+  },
+  "Naive_Art_Primitivism_4_skis": {
+    "cosine": 4.4375,
+    "pearson": 4.59375,
+    "rmse": 4.59375
+  },
+  "Naive_Art_Primitivism_4_surfboard": {
+    "cosine": 4.15625,
+    "pearson": 4.1875,
+    "rmse": 4.1875
+  },
+  "Naive_Art_Primitivism_4_traffic-light": {
+    "cosine": 4.1875,
+    "pearson": 4.4375,
+    "rmse": 4.125
+  },
+  "Naive_Art_Primitivism_4_truck": {
+    "cosine": 4.375,
+    "pearson": 4.3125,
+    "rmse": 4.3125
+  },
+  "Naive_Art_Primitivism_4_umbrella": {
+    "cosine": 4.46875,
+    "pearson": 4.4375,
+    "rmse": 4.21875
+  },
+  "Naive_Art_Primitivism_4_zebra": {
+    "cosine": 4.25,
+    "pearson": 4.21875,
+    "rmse": 4.5
+  },
+  "Northern_Renaissance_0_baseball-bat": {
+    "cosine": 3.9375,
+    "pearson": 4.03125,
+    "rmse": 4.03125
+  },
+  "Northern_Renaissance_0_bear": {
+    "cosine": 4.375,
+    "pearson": 4.625,
+    "rmse": 4.15625
+  },
+  "Northern_Renaissance_0_bird": {
+    "cosine": 4.0,
+    "pearson": 3.96875,
+    "rmse": 3.765625
+  },
+  "Northern_Renaissance_0_boat": {
+    "cosine": 4.03125,
+    "pearson": 4.34375,
+    "rmse": 4.125
+  },
+  "Northern_Renaissance_0_bus": {
+    "cosine": 3.546875,
+    "pearson": 3.5625,
+    "rmse": 3.6875
+  },
+  "Northern_Renaissance_0_car": {
+    "cosine": 3.90625,
+    "pearson": 3.859375,
+    "rmse": 3.984375
+  },
+  "Northern_Renaissance_0_carrot": {
+    "cosine": 4.90625,
+    "pearson": 4.5625,
+    "rmse": 4.53125
+  },
+  "Northern_Renaissance_0_cow": {
+    "cosine": 4.1875,
+    "pearson": 4.03125,
+    "rmse": 4.1875
+  },
+  "Northern_Renaissance_0_hair-drier": {
+    "cosine": 4.65625,
+    "pearson": 4.25,
+    "rmse": 4.5
+  },
+  "Northern_Renaissance_0_kite": {
+    "cosine": 3.625,
+    "pearson": 3.671875,
+    "rmse": 3.828125
+  },
+  "Northern_Renaissance_0_orange": {
+    "cosine": 4.21875,
+    "pearson": 4.125,
+    "rmse": 4.03125
+  },
+  "Northern_Renaissance_0_person": {
+    "cosine": 4.71875,
+    "pearson": 4.6875,
+    "rmse": 4.34375
+  },
+  "Northern_Renaissance_0_potted-plant": {
+    "cosine": 4.09375,
+    "pearson": 4.09375,
+    "rmse": 3.984375
+  },
+  "Northern_Renaissance_0_sheep": {
+    "cosine": 4.1875,
+    "pearson": 4.03125,
+    "rmse": 4.09375
+  },
+  "Northern_Renaissance_0_skis": {
+    "cosine": 4.15625,
+    "pearson": 4.28125,
+    "rmse": 4.21875
+  },
+  "Northern_Renaissance_0_surfboard": {
+    "cosine": 4.0625,
+    "pearson": 4.09375,
+    "rmse": 3.859375
+  },
+  "Northern_Renaissance_0_traffic-light": {
+    "cosine": 3.78125,
+    "pearson": 3.875,
+    "rmse": 4.1875
+  },
+  "Northern_Renaissance_0_truck": {
+    "cosine": 4.5625,
+    "pearson": 4.625,
+    "rmse": 4.5
+  },
+  "Northern_Renaissance_0_umbrella": {
+    "cosine": 4.34375,
+    "pearson": 4.125,
+    "rmse": 4.46875
+  },
+  "Northern_Renaissance_0_zebra": {
+    "cosine": 3.96875,
+    "pearson": 4.0,
+    "rmse": 3.9375
+  },
+  "Northern_Renaissance_1_baseball-bat": {
+    "cosine": 3.890625,
+    "pearson": 4.0625,
+    "rmse": 4.1875
+  },
+  "Northern_Renaissance_1_bear": {
+    "cosine": 4.375,
+    "pearson": 4.3125,
+    "rmse": 4.09375
+  },
+  "Northern_Renaissance_1_bird": {
+    "cosine": 4.1875,
+    "pearson": 4.125,
+    "rmse": 3.65625
+  },
+  "Northern_Renaissance_1_boat": {
+    "cosine": 4.1875,
+    "pearson": 4.28125,
+    "rmse": 4.15625
+  },
+  "Northern_Renaissance_1_bus": {
+    "cosine": 3.875,
+    "pearson": 3.734375,
+    "rmse": 3.890625
+  },
+  "Northern_Renaissance_1_car": {
+    "cosine": 3.8125,
+    "pearson": 3.71875,
+    "rmse": 3.625
+  },
+  "Northern_Renaissance_1_carrot": {
+    "cosine": 4.4375,
+    "pearson": 4.4375,
+    "rmse": 4.09375
+  },
+  "Northern_Renaissance_1_cow": {
+    "cosine": 3.875,
+    "pearson": 3.875,
+    "rmse": 4.125
+  },
+  "Northern_Renaissance_1_hair-drier": {
+    "cosine": 4.59375,
+    "pearson": 4.4375,
+    "rmse": 4.75
+  },
+  "Northern_Renaissance_1_kite": {
+    "cosine": 4.15625,
+    "pearson": 4.0625,
+    "rmse": 4.0625
+  },
+  "Northern_Renaissance_1_orange": {
+    "cosine": 4.28125,
+    "pearson": 4.0625,
+    "rmse": 4.0625
+  },
+  "Northern_Renaissance_1_person": {
+    "cosine": 4.59375,
+    "pearson": 4.59375,
+    "rmse": 4.34375
+  },
+  "Northern_Renaissance_1_potted-plant": {
+    "cosine": 4.1875,
+    "pearson": 4.53125,
+    "rmse": 3.921875
+  },
+  "Northern_Renaissance_1_sheep": {
+    "cosine": 3.9375,
+    "pearson": 3.9375,
+    "rmse": 3.921875
+  },
+  "Northern_Renaissance_1_skis": {
+    "cosine": 4.3125,
+    "pearson": 4.34375,
+    "rmse": 4.59375
+  },
+  "Northern_Renaissance_1_surfboard": {
+    "cosine": 4.09375,
+    "pearson": 4.1875,
+    "rmse": 3.71875
+  },
+  "Northern_Renaissance_1_traffic-light": {
+    "cosine": 3.671875,
+    "pearson": 3.84375,
+    "rmse": 3.703125
+  },
+  "Northern_Renaissance_1_truck": {
+    "cosine": 4.34375,
+    "pearson": 4.25,
+    "rmse": 4.3125
+  },
+  "Northern_Renaissance_1_umbrella": {
+    "cosine": 4.3125,
+    "pearson": 4.3125,
+    "rmse": 4.28125
+  },
+  "Northern_Renaissance_1_zebra": {
+    "cosine": 3.9375,
+    "pearson": 3.96875,
+    "rmse": 3.78125
+  },
+  "Northern_Renaissance_2_baseball-bat": {
+    "cosine": 4.28125,
+    "pearson": 4.4375,
+    "rmse": 4.34375
+  },
+  "Northern_Renaissance_2_bear": {
+    "cosine": 4.15625,
+    "pearson": 4.03125,
+    "rmse": 3.96875
+  },
+  "Northern_Renaissance_2_bird": {
+    "cosine": 3.5625,
+    "pearson": 3.90625,
+    "rmse": 3.984375
+  },
+  "Northern_Renaissance_2_boat": {
+    "cosine": 4.3125,
+    "pearson": 4.46875,
+    "rmse": 4.40625
+  },
+  "Northern_Renaissance_2_bus": {
+    "cosine": 3.703125,
+    "pearson": 3.625,
+    "rmse": 3.734375
+  },
+  "Northern_Renaissance_2_car": {
+    "cosine": 4.03125,
+    "pearson": 4.15625,
+    "rmse": 3.953125
+  },
+  "Northern_Renaissance_2_carrot": {
+    "cosine": 4.15625,
+    "pearson": 4.34375,
+    "rmse": 4.25
+  },
+  "Northern_Renaissance_2_cow": {
+    "cosine": 4.15625,
+    "pearson": 4.15625,
+    "rmse": 4.15625
+  },
+  "Northern_Renaissance_2_hair-drier": {
+    "cosine": 4.59375,
+    "pearson": 4.75,
+    "rmse": 4.5
+  },
+  "Northern_Renaissance_2_kite": {
+    "cosine": 3.703125,
+    "pearson": 3.921875,
+    "rmse": 4.09375
+  },
+  "Northern_Renaissance_2_orange": {
+    "cosine": 3.96875,
+    "pearson": 3.890625,
+    "rmse": 4.09375
+  },
+  "Northern_Renaissance_2_person": {
+    "cosine": 4.53125,
+    "pearson": 4.46875,
+    "rmse": 4.46875
+  },
+  "Northern_Renaissance_2_potted-plant": {
+    "cosine": 4.3125,
+    "pearson": 4.46875,
+    "rmse": 4.25
+  },
+  "Northern_Renaissance_2_sheep": {
+    "cosine": 4.03125,
+    "pearson": 4.03125,
+    "rmse": 4.15625
+  },
+  "Northern_Renaissance_2_skis": {
+    "cosine": 4.5,
+    "pearson": 4.5,
+    "rmse": 4.59375
+  },
+  "Northern_Renaissance_2_surfboard": {
+    "cosine": 4.0625,
+    "pearson": 3.984375,
+    "rmse": 4.0625
+  },
+  "Northern_Renaissance_2_traffic-light": {
+    "cosine": 3.671875,
+    "pearson": 4.0625,
+    "rmse": 4.03125
+  },
+  "Northern_Renaissance_2_truck": {
+    "cosine": 4.34375,
+    "pearson": 4.28125,
+    "rmse": 4.375
+  },
+  "Northern_Renaissance_2_umbrella": {
+    "cosine": 4.46875,
+    "pearson": 4.5,
+    "rmse": 4.34375
+  },
+  "Northern_Renaissance_2_zebra": {
+    "cosine": 4.03125,
+    "pearson": 3.90625,
+    "rmse": 4.09375
+  },
+  "Northern_Renaissance_3_baseball-bat": {
+    "cosine": 4.0,
+    "pearson": 4.0,
+    "rmse": 3.9375
+  },
+  "Northern_Renaissance_3_bear": {
+    "cosine": 4.4375,
+    "pearson": 4.25,
+    "rmse": 4.4375
+  },
+  "Northern_Renaissance_3_bird": {
+    "cosine": 4.0625,
+    "pearson": 4.0625,
+    "rmse": 4.15625
+  },
+  "Northern_Renaissance_3_boat": {
+    "cosine": 3.921875,
+    "pearson": 3.8125,
+    "rmse": 3.859375
+  },
+  "Northern_Renaissance_3_bus": {
+    "cosine": 3.71875,
+    "pearson": 3.625,
+    "rmse": 3.65625
+  },
+  "Northern_Renaissance_3_car": {
+    "cosine": 3.9375,
+    "pearson": 3.71875,
+    "rmse": 4.03125
+  },
+  "Northern_Renaissance_3_carrot": {
+    "cosine": 4.375,
+    "pearson": 4.46875,
+    "rmse": 4.03125
+  },
+  "Northern_Renaissance_3_cow": {
+    "cosine": 3.734375,
+    "pearson": 3.859375,
+    "rmse": 4.0
+  },
+  "Northern_Renaissance_3_hair-drier": {
+    "cosine": 5.03125,
+    "pearson": 4.8125,
+    "rmse": 4.96875
+  },
+  "Northern_Renaissance_3_kite": {
+    "cosine": 3.828125,
+    "pearson": 4.0,
+    "rmse": 4.03125
+  },
+  "Northern_Renaissance_3_orange": {
+    "cosine": 3.953125,
+    "pearson": 3.609375,
+    "rmse": 3.59375
+  },
+  "Northern_Renaissance_3_person": {
+    "cosine": 4.78125,
+    "pearson": 4.84375,
+    "rmse": 4.59375
+  },
+  "Northern_Renaissance_3_potted-plant": {
+    "cosine": 4.3125,
+    "pearson": 4.34375,
+    "rmse": 4.53125
+  },
+  "Northern_Renaissance_3_sheep": {
+    "cosine": 4.125,
+    "pearson": 3.96875,
+    "rmse": 3.890625
+  },
+  "Northern_Renaissance_3_skis": {
+    "cosine": 4.28125,
+    "pearson": 4.03125,
+    "rmse": 4.15625
+  },
+  "Northern_Renaissance_3_surfboard": {
+    "cosine": 4.0625,
+    "pearson": 4.03125,
+    "rmse": 4.25
+  },
+  "Northern_Renaissance_3_traffic-light": {
+    "cosine": 3.84375,
+    "pearson": 3.953125,
+    "rmse": 4.15625
+  },
+  "Northern_Renaissance_3_truck": {
+    "cosine": 4.9375,
+    "pearson": 4.5,
+    "rmse": 4.71875
+  },
+  "Northern_Renaissance_3_umbrella": {
+    "cosine": 4.25,
+    "pearson": 4.25,
+    "rmse": 4.15625
+  },
+  "Northern_Renaissance_3_zebra": {
+    "cosine": 4.21875,
+    "pearson": 4.125,
+    "rmse": 4.28125
+  },
+  "Northern_Renaissance_4_baseball-bat": {
+    "cosine": 3.796875,
+    "pearson": 3.859375,
+    "rmse": 3.796875
+  },
+  "Northern_Renaissance_4_bear": {
+    "cosine": 4.15625,
+    "pearson": 4.375,
+    "rmse": 3.859375
+  },
+  "Northern_Renaissance_4_bird": {
+    "cosine": 4.09375,
+    "pearson": 4.3125,
+    "rmse": 4.1875
+  },
+  "Northern_Renaissance_4_boat": {
+    "cosine": 4.0625,
+    "pearson": 4.09375,
+    "rmse": 4.1875
+  },
+  "Northern_Renaissance_4_bus": {
+    "cosine": 3.609375,
+    "pearson": 3.75,
+    "rmse": 3.84375
+  },
+  "Northern_Renaissance_4_car": {
+    "cosine": 3.96875,
+    "pearson": 4.21875,
+    "rmse": 4.03125
+  },
+  "Northern_Renaissance_4_carrot": {
+    "cosine": 4.4375,
+    "pearson": 4.28125,
+    "rmse": 4.375
+  },
+  "Northern_Renaissance_4_cow": {
+    "cosine": 3.96875,
+    "pearson": 3.890625,
+    "rmse": 4.0
+  },
+  "Northern_Renaissance_4_hair-drier": {
+    "cosine": 5.09375,
+    "pearson": 5.34375,
+    "rmse": 5.3125
+  },
+  "Northern_Renaissance_4_kite": {
+    "cosine": 4.15625,
+    "pearson": 4.28125,
+    "rmse": 4.25
+  },
+  "Northern_Renaissance_4_orange": {
+    "cosine": 4.15625,
+    "pearson": 4.34375,
+    "rmse": 4.3125
+  },
+  "Northern_Renaissance_4_person": {
+    "cosine": 4.375,
+    "pearson": 4.4375,
+    "rmse": 4.09375
+  },
+  "Northern_Renaissance_4_potted-plant": {
+    "cosine": 4.15625,
+    "pearson": 4.5,
+    "rmse": 4.53125
+  },
+  "Northern_Renaissance_4_sheep": {
+    "cosine": 3.84375,
+    "pearson": 3.671875,
+    "rmse": 3.765625
+  },
+  "Northern_Renaissance_4_skis": {
+    "cosine": 4.15625,
+    "pearson": 4.25,
+    "rmse": 4.25
+  },
+  "Northern_Renaissance_4_surfboard": {
+    "cosine": 4.25,
+    "pearson": 4.3125,
+    "rmse": 3.96875
+  },
+  "Northern_Renaissance_4_traffic-light": {
+    "cosine": 4.03125,
+    "pearson": 4.3125,
+    "rmse": 3.953125
+  },
+  "Northern_Renaissance_4_truck": {
+    "cosine": 4.59375,
+    "pearson": 4.65625,
+    "rmse": 4.40625
+  },
+  "Northern_Renaissance_4_umbrella": {
+    "cosine": 4.75,
+    "pearson": 4.78125,
+    "rmse": 4.8125
+  },
+  "Northern_Renaissance_4_zebra": {
+    "cosine": 4.25,
+    "pearson": 4.03125,
+    "rmse": 4.3125
+  },
+  "Post_Impressionism_0_baseball-bat": {
+    "cosine": 4.09375,
+    "pearson": 4.125,
+    "rmse": 4.15625
+  },
+  "Post_Impressionism_0_bear": {
+    "cosine": 4.34375,
+    "pearson": 4.3125,
+    "rmse": 4.375
+  },
+  "Post_Impressionism_0_bird": {
+    "cosine": 4.40625,
+    "pearson": 4.4375,
+    "rmse": 4.5
+  },
+  "Post_Impressionism_0_boat": {
+    "cosine": 4.1875,
+    "pearson": 4.15625,
+    "rmse": 4.28125
+  },
+  "Post_Impressionism_0_bus": {
+    "cosine": 3.78125,
+    "pearson": 3.640625,
+    "rmse": 3.90625
+  },
+  "Post_Impressionism_0_car": {
+    "cosine": 4.0625,
+    "pearson": 4.34375,
+    "rmse": 4.3125
+  },
+  "Post_Impressionism_0_carrot": {
+    "cosine": 4.5,
+    "pearson": 4.65625,
+    "rmse": 4.84375
+  },
+  "Post_Impressionism_0_cow": {
+    "cosine": 3.96875,
+    "pearson": 3.984375,
+    "rmse": 4.1875
+  },
+  "Post_Impressionism_0_hair-drier": {
+    "cosine": 4.5,
+    "pearson": 4.28125,
+    "rmse": 4.625
+  },
+  "Post_Impressionism_0_kite": {
+    "cosine": 4.3125,
+    "pearson": 4.375,
+    "rmse": 4.53125
+  },
+  "Post_Impressionism_0_orange": {
+    "cosine": 3.984375,
+    "pearson": 3.984375,
+    "rmse": 3.875
+  },
+  "Post_Impressionism_0_person": {
+    "cosine": 4.71875,
+    "pearson": 4.6875,
+    "rmse": 4.6875
+  },
+  "Post_Impressionism_0_potted-plant": {
+    "cosine": 4.65625,
+    "pearson": 4.8125,
+    "rmse": 5.0625
+  },
+  "Post_Impressionism_0_sheep": {
+    "cosine": 3.96875,
+    "pearson": 4.03125,
+    "rmse": 3.96875
+  },
+  "Post_Impressionism_0_skis": {
+    "cosine": 4.28125,
+    "pearson": 4.28125,
+    "rmse": 4.5625
+  },
+  "Post_Impressionism_0_surfboard": {
+    "cosine": 4.3125,
+    "pearson": 4.28125,
+    "rmse": 4.3125
+  },
+  "Post_Impressionism_0_traffic-light": {
+    "cosine": 4.125,
+    "pearson": 4.09375,
+    "rmse": 4.34375
+  },
+  "Post_Impressionism_0_truck": {
+    "cosine": 4.65625,
+    "pearson": 4.59375,
+    "rmse": 4.625
+  },
+  "Post_Impressionism_0_umbrella": {
+    "cosine": 4.65625,
+    "pearson": 4.65625,
+    "rmse": 4.84375
+  },
+  "Post_Impressionism_0_zebra": {
+    "cosine": 4.09375,
+    "pearson": 4.03125,
+    "rmse": 4.1875
+  },
+  "Post_Impressionism_1_baseball-bat": {
+    "cosine": 3.953125,
+    "pearson": 4.0625,
+    "rmse": 4.15625
+  },
+  "Post_Impressionism_1_bear": {
+    "cosine": 3.96875,
+    "pearson": 4.1875,
+    "rmse": 3.953125
+  },
+  "Post_Impressionism_1_bird": {
+    "cosine": 4.03125,
+    "pearson": 3.90625,
+    "rmse": 3.78125
+  },
+  "Post_Impressionism_1_boat": {
+    "cosine": 4.09375,
+    "pearson": 4.09375,
+    "rmse": 4.21875
+  },
+  "Post_Impressionism_1_bus": {
+    "cosine": 3.40625,
+    "pearson": 3.65625,
+    "rmse": 3.25
+  },
+  "Post_Impressionism_1_car": {
+    "cosine": 3.796875,
+    "pearson": 3.828125,
+    "rmse": 3.875
+  },
+  "Post_Impressionism_1_carrot": {
+    "cosine": 4.65625,
+    "pearson": 4.59375,
+    "rmse": 4.4375
+  },
+  "Post_Impressionism_1_cow": {
+    "cosine": 3.765625,
+    "pearson": 3.890625,
+    "rmse": 4.0625
+  },
+  "Post_Impressionism_1_hair-drier": {
+    "cosine": 3.984375,
+    "pearson": 4.09375,
+    "rmse": 4.25
+  },
+  "Post_Impressionism_1_kite": {
+    "cosine": 3.734375,
+    "pearson": 3.921875,
+    "rmse": 4.1875
+  },
+  "Post_Impressionism_1_orange": {
+    "cosine": 3.9375,
+    "pearson": 3.9375,
+    "rmse": 3.984375
+  },
+  "Post_Impressionism_1_person": {
+    "cosine": 4.25,
+    "pearson": 4.34375,
+    "rmse": 4.40625
+  },
+  "Post_Impressionism_1_potted-plant": {
+    "cosine": 4.21875,
+    "pearson": 4.0,
+    "rmse": 3.96875
+  },
+  "Post_Impressionism_1_sheep": {
+    "cosine": 4.0625,
+    "pearson": 4.21875,
+    "rmse": 4.15625
+  },
+  "Post_Impressionism_1_skis": {
+    "cosine": 4.25,
+    "pearson": 4.21875,
+    "rmse": 4.375
+  },
+  "Post_Impressionism_1_surfboard": {
+    "cosine": 4.125,
+    "pearson": 3.828125,
+    "rmse": 4.0625
+  },
+  "Post_Impressionism_1_traffic-light": {
+    "cosine": 3.421875,
+    "pearson": 3.65625,
+    "rmse": 3.71875
+  },
+  "Post_Impressionism_1_truck": {
+    "cosine": 3.9375,
+    "pearson": 3.921875,
+    "rmse": 3.78125
+  },
+  "Post_Impressionism_1_umbrella": {
+    "cosine": 4.4375,
+    "pearson": 3.890625,
+    "rmse": 4.21875
+  },
+  "Post_Impressionism_1_zebra": {
+    "cosine": 3.859375,
+    "pearson": 3.859375,
+    "rmse": 3.640625
+  },
+  "Post_Impressionism_2_baseball-bat": {
+    "cosine": 4.0625,
+    "pearson": 3.84375,
+    "rmse": 4.03125
+  },
+  "Post_Impressionism_2_bear": {
+    "cosine": 4.5,
+    "pearson": 4.09375,
+    "rmse": 3.953125
+  },
+  "Post_Impressionism_2_bird": {
+    "cosine": 3.796875,
+    "pearson": 3.75,
+    "rmse": 3.8125
+  },
+  "Post_Impressionism_2_boat": {
+    "cosine": 4.0625,
+    "pearson": 4.15625,
+    "rmse": 3.96875
+  },
+  "Post_Impressionism_2_bus": {
+    "cosine": 3.625,
+    "pearson": 3.734375,
+    "rmse": 3.765625
+  },
+  "Post_Impressionism_2_car": {
+    "cosine": 3.78125,
+    "pearson": 3.8125,
+    "rmse": 3.828125
+  },
+  "Post_Impressionism_2_carrot": {
+    "cosine": 4.0625,
+    "pearson": 4.28125,
+    "rmse": 4.46875
+  },
+  "Post_Impressionism_2_cow": {
+    "cosine": 4.0625,
+    "pearson": 4.0625,
+    "rmse": 3.8125
+  },
+  "Post_Impressionism_2_hair-drier": {
+    "cosine": 4.25,
+    "pearson": 4.40625,
+    "rmse": 4.625
+  },
+  "Post_Impressionism_2_kite": {
+    "cosine": 3.46875,
+    "pearson": 3.484375,
+    "rmse": 3.65625
+  },
+  "Post_Impressionism_2_orange": {
+    "cosine": 4.03125,
+    "pearson": 4.03125,
+    "rmse": 3.46875
+  },
+  "Post_Impressionism_2_person": {
+    "cosine": 4.71875,
+    "pearson": 4.71875,
+    "rmse": 4.21875
+  },
+  "Post_Impressionism_2_potted-plant": {
+    "cosine": 3.984375,
+    "pearson": 4.09375,
+    "rmse": 3.921875
+  },
+  "Post_Impressionism_2_sheep": {
+    "cosine": 4.03125,
+    "pearson": 4.0625,
+    "rmse": 3.96875
+  },
+  "Post_Impressionism_2_skis": {
+    "cosine": 4.125,
+    "pearson": 3.90625,
+    "rmse": 4.125
+  },
+  "Post_Impressionism_2_surfboard": {
+    "cosine": 4.0625,
+    "pearson": 4.09375,
+    "rmse": 3.5625
+  },
+  "Post_Impressionism_2_traffic-light": {
+    "cosine": 3.859375,
+    "pearson": 3.546875,
+    "rmse": 3.734375
+  },
+  "Post_Impressionism_2_truck": {
+    "cosine": 4.21875,
+    "pearson": 4.25,
+    "rmse": 4.3125
+  },
+  "Post_Impressionism_2_umbrella": {
+    "cosine": 3.984375,
+    "pearson": 4.09375,
+    "rmse": 4.25
+  },
+  "Post_Impressionism_2_zebra": {
+    "cosine": 4.21875,
+    "pearson": 4.125,
+    "rmse": 4.03125
+  },
+  "Realism_0_baseball-bat": {
+    "cosine": 3.828125,
+    "pearson": 3.703125,
+    "rmse": 4.1875
+  },
+  "Realism_0_bear": {
+    "cosine": 4.28125,
+    "pearson": 4.09375,
+    "rmse": 4.25
+  },
+  "Realism_0_bird": {
+    "cosine": 3.953125,
+    "pearson": 4.28125,
+    "rmse": 3.90625
+  },
+  "Realism_0_boat": {
+    "cosine": 4.4375,
+    "pearson": 4.53125,
+    "rmse": 4.5
+  },
+  "Realism_0_bus": {
+    "cosine": 3.296875,
+    "pearson": 3.421875,
+    "rmse": 3.625
+  },
+  "Realism_0_car": {
+    "cosine": 4.03125,
+    "pearson": 4.34375,
+    "rmse": 4.375
+  },
+  "Realism_0_carrot": {
+    "cosine": 4.21875,
+    "pearson": 4.5,
+    "rmse": 4.25
+  },
+  "Realism_0_cow": {
+    "cosine": 3.765625,
+    "pearson": 3.84375,
+    "rmse": 3.953125
+  },
+  "Realism_0_hair-drier": {
+    "cosine": 5.03125,
+    "pearson": 5.09375,
+    "rmse": 5.09375
+  },
+  "Realism_0_kite": {
+    "cosine": 4.375,
+    "pearson": 4.59375,
+    "rmse": 4.5625
+  },
+  "Realism_0_orange": {
+    "cosine": 3.875,
+    "pearson": 3.984375,
+    "rmse": 3.96875
+  },
+  "Realism_0_person": {
+    "cosine": 4.09375,
+    "pearson": 4.34375,
+    "rmse": 4.3125
+  },
+  "Realism_0_potted-plant": {
+    "cosine": 4.59375,
+    "pearson": 4.15625,
+    "rmse": 4.3125
+  },
+  "Realism_0_sheep": {
+    "cosine": 3.953125,
+    "pearson": 3.921875,
+    "rmse": 3.9375
+  },
+  "Realism_0_skis": {
+    "cosine": 4.25,
+    "pearson": 4.25,
+    "rmse": 4.0625
+  },
+  "Realism_0_surfboard": {
+    "cosine": 4.09375,
+    "pearson": 3.921875,
+    "rmse": 4.09375
+  },
+  "Realism_0_traffic-light": {
+    "cosine": 4.125,
+    "pearson": 3.703125,
+    "rmse": 4.03125
+  },
+  "Realism_0_truck": {
+    "cosine": 4.6875,
+    "pearson": 4.65625,
+    "rmse": 4.53125
+  },
+  "Realism_0_umbrella": {
+    "cosine": 4.5625,
+    "pearson": 4.84375,
+    "rmse": 4.75
+  },
+  "Realism_0_zebra": {
+    "cosine": 4.0,
+    "pearson": 4.25,
+    "rmse": 3.921875
+  },
+  "Realism_1_baseball-bat": {
+    "cosine": 3.5,
+    "pearson": 3.828125,
+    "rmse": 3.65625
+  },
+  "Realism_1_bear": {
+    "cosine": 3.671875,
+    "pearson": 3.671875,
+    "rmse": 3.484375
+  },
+  "Realism_1_bird": {
+    "cosine": 3.46875,
+    "pearson": 3.890625,
+    "rmse": 3.921875
+  },
+  "Realism_1_boat": {
+    "cosine": 3.90625,
+    "pearson": 3.765625,
+    "rmse": 3.859375
+  },
+  "Realism_1_bus": {
+    "cosine": 3.46875,
+    "pearson": 3.625,
+    "rmse": 3.59375
+  },
+  "Realism_1_car": {
+    "cosine": 3.609375,
+    "pearson": 3.859375,
+    "rmse": 4.09375
+  },
+  "Realism_1_carrot": {
+    "cosine": 4.0,
+    "pearson": 3.96875,
+    "rmse": 4.0625
+  },
+  "Realism_1_cow": {
+    "cosine": 3.171875,
+    "pearson": 3.34375,
+    "rmse": 3.296875
+  },
+  "Realism_1_hair-drier": {
+    "cosine": 4.6875,
+    "pearson": 4.65625,
+    "rmse": 4.65625
+  },
+  "Realism_1_kite": {
+    "cosine": 4.0,
+    "pearson": 4.0625,
+    "rmse": 3.875
+  },
+  "Realism_1_orange": {
+    "cosine": 3.34375,
+    "pearson": 3.578125,
+    "rmse": 3.515625
+  },
+  "Realism_1_person": {
+    "cosine": 3.3125,
+    "pearson": 3.21875,
+    "rmse": 3.890625
+  },
+  "Realism_1_potted-plant": {
+    "cosine": 3.6875,
+    "pearson": 3.828125,
+    "rmse": 4.09375
+  },
+  "Realism_1_sheep": {
+    "cosine": 3.265625,
+    "pearson": 3.40625,
+    "rmse": 3.421875
+  },
+  "Realism_1_skis": {
+    "cosine": 3.0625,
+    "pearson": 3.40625,
+    "rmse": 3.53125
+  },
+  "Realism_1_surfboard": {
+    "cosine": 3.25,
+    "pearson": 3.21875,
+    "rmse": 3.59375
+  },
+  "Realism_1_traffic-light": {
+    "cosine": 3.953125,
+    "pearson": 3.921875,
+    "rmse": 4.03125
+  },
+  "Realism_1_truck": {
+    "cosine": 4.03125,
+    "pearson": 3.75,
+    "rmse": 4.3125
+  },
+  "Realism_1_umbrella": {
+    "cosine": 4.21875,
+    "pearson": 4.375,
+    "rmse": 4.1875
+  },
+  "Realism_1_zebra": {
+    "cosine": 3.53125,
+    "pearson": 3.53125,
+    "rmse": 3.703125
+  },
+  "Realism_2_baseball-bat": {
+    "cosine": 3.890625,
+    "pearson": 3.875,
+    "rmse": 3.78125
+  },
+  "Realism_2_bear": {
+    "cosine": 4.0,
+    "pearson": 3.859375,
+    "rmse": 3.875
+  },
+  "Realism_2_bird": {
+    "cosine": 3.703125,
+    "pearson": 3.890625,
+    "rmse": 4.09375
+  },
+  "Realism_2_boat": {
+    "cosine": 3.90625,
+    "pearson": 3.859375,
+    "rmse": 3.890625
+  },
+  "Realism_2_bus": {
+    "cosine": 3.5625,
+    "pearson": 3.5,
+    "rmse": 3.890625
+  },
+  "Realism_2_car": {
+    "cosine": 3.828125,
+    "pearson": 4.0,
+    "rmse": 4.1875
+  },
+  "Realism_2_carrot": {
+    "cosine": 4.4375,
+    "pearson": 4.125,
+    "rmse": 4.46875
+  },
+  "Realism_2_cow": {
+    "cosine": 3.59375,
+    "pearson": 3.515625,
+    "rmse": 3.578125
+  },
+  "Realism_2_hair-drier": {
+    "cosine": 4.71875,
+    "pearson": 4.6875,
+    "rmse": 4.625
+  },
+  "Realism_2_kite": {
+    "cosine": 3.96875,
+    "pearson": 3.953125,
+    "rmse": 4.21875
+  },
+  "Realism_2_orange": {
+    "cosine": 3.4375,
+    "pearson": 3.6875,
+    "rmse": 4.0
+  },
+  "Realism_2_person": {
+    "cosine": 4.03125,
+    "pearson": 3.90625,
+    "rmse": 3.9375
+  },
+  "Realism_2_potted-plant": {
+    "cosine": 4.3125,
+    "pearson": 4.375,
+    "rmse": 4.21875
+  },
+  "Realism_2_sheep": {
+    "cosine": 3.59375,
+    "pearson": 3.5625,
+    "rmse": 3.859375
+  },
+  "Realism_2_skis": {
+    "cosine": 3.859375,
+    "pearson": 3.859375,
+    "rmse": 3.65625
+  },
+  "Realism_2_surfboard": {
+    "cosine": 4.0,
+    "pearson": 3.625,
+    "rmse": 4.125
+  },
+  "Realism_2_traffic-light": {
+    "cosine": 4.03125,
+    "pearson": 4.0,
+    "rmse": 4.0
+  },
+  "Realism_2_truck": {
+    "cosine": 4.34375,
+    "pearson": 4.40625,
+    "rmse": 4.0625
+  },
+  "Realism_2_umbrella": {
+    "cosine": 4.375,
+    "pearson": 4.5625,
+    "rmse": 4.3125
+  },
+  "Realism_2_zebra": {
+    "cosine": 3.53125,
+    "pearson": 3.703125,
+    "rmse": 3.703125
+  },
+  "Realism_3_baseball-bat": {
+    "cosine": 3.875,
+    "pearson": 3.765625,
+    "rmse": 3.75
+  },
+  "Realism_3_bear": {
+    "cosine": 3.828125,
+    "pearson": 3.875,
+    "rmse": 3.78125
+  },
+  "Realism_3_bird": {
+    "cosine": 3.796875,
+    "pearson": 3.65625,
+    "rmse": 3.5
+  },
+  "Realism_3_boat": {
+    "cosine": 3.09375,
+    "pearson": 3.375,
+    "rmse": 3.421875
+  },
+  "Realism_3_bus": {
+    "cosine": 3.5625,
+    "pearson": 3.421875,
+    "rmse": 3.75
+  },
+  "Realism_3_car": {
+    "cosine": 4.0625,
+    "pearson": 3.96875,
+    "rmse": 3.8125
+  },
+  "Realism_3_carrot": {
+    "cosine": 3.703125,
+    "pearson": 3.734375,
+    "rmse": 4.0625
+  },
+  "Realism_3_cow": {
+    "cosine": 3.265625,
+    "pearson": 3.234375,
+    "rmse": 3.328125
+  },
+  "Realism_3_hair-drier": {
+    "cosine": 4.46875,
+    "pearson": 4.375,
+    "rmse": 4.4375
+  },
+  "Realism_3_kite": {
+    "cosine": 3.75,
+    "pearson": 4.03125,
+    "rmse": 3.828125
+  },
+  "Realism_3_orange": {
+    "cosine": 3.765625,
+    "pearson": 3.265625,
+    "rmse": 3.25
+  },
+  "Realism_3_person": {
+    "cosine": 3.359375,
+    "pearson": 3.3125,
+    "rmse": 3.453125
+  },
+  "Realism_3_potted-plant": {
+    "cosine": 4.09375,
+    "pearson": 4.21875,
+    "rmse": 4.46875
+  },
+  "Realism_3_sheep": {
+    "cosine": 3.25,
+    "pearson": 3.21875,
+    "rmse": 3.328125
+  },
+  "Realism_3_skis": {
+    "cosine": 3.203125,
+    "pearson": 3.5625,
+    "rmse": 3.71875
+  },
+  "Realism_3_surfboard": {
+    "cosine": 3.40625,
+    "pearson": 3.4375,
+    "rmse": 3.890625
+  },
+  "Realism_3_traffic-light": {
+    "cosine": 4.25,
+    "pearson": 4.3125,
+    "rmse": 4.21875
+  },
+  "Realism_3_truck": {
+    "cosine": 4.03125,
+    "pearson": 3.9375,
+    "rmse": 3.890625
+  },
+  "Realism_3_umbrella": {
+    "cosine": 4.28125,
+    "pearson": 4.1875,
+    "rmse": 4.1875
+  },
+  "Realism_3_zebra": {
+    "cosine": 3.5625,
+    "pearson": 3.390625,
+    "rmse": 3.390625
+  },
+  "Realism_4_baseball-bat": {
+    "cosine": 3.59375,
+    "pearson": 3.609375,
+    "rmse": 3.75
+  },
+  "Realism_4_bear": {
+    "cosine": 4.09375,
+    "pearson": 3.921875,
+    "rmse": 3.953125
+  },
+  "Realism_4_bird": {
+    "cosine": 3.53125,
+    "pearson": 3.140625,
+    "rmse": 3.421875
+  },
+  "Realism_4_boat": {
+    "cosine": 4.21875,
+    "pearson": 4.09375,
+    "rmse": 4.09375
+  },
+  "Realism_4_bus": {
+    "cosine": 3.265625,
+    "pearson": 3.15625,
+    "rmse": 3.015625
+  },
+  "Realism_4_car": {
+    "cosine": 3.703125,
+    "pearson": 3.8125,
+    "rmse": 3.625
+  },
+  "Realism_4_carrot": {
+    "cosine": 4.0625,
+    "pearson": 3.96875,
+    "rmse": 3.9375
+  },
+  "Realism_4_cow": {
+    "cosine": 3.484375,
+    "pearson": 3.515625,
+    "rmse": 3.375
+  },
+  "Realism_4_hair-drier": {
+    "cosine": 4.84375,
+    "pearson": 4.75,
+    "rmse": 4.625
+  },
+  "Realism_4_kite": {
+    "cosine": 3.46875,
+    "pearson": 3.515625,
+    "rmse": 3.671875
+  },
+  "Realism_4_orange": {
+    "cosine": 3.859375,
+    "pearson": 3.96875,
+    "rmse": 4.03125
+  },
+  "Realism_4_person": {
+    "cosine": 4.4375,
+    "pearson": 4.1875,
+    "rmse": 4.25
+  },
+  "Realism_4_potted-plant": {
+    "cosine": 3.640625,
+    "pearson": 3.53125,
+    "rmse": 3.171875
+  },
+  "Realism_4_sheep": {
+    "cosine": 3.6875,
+    "pearson": 3.6875,
+    "rmse": 3.65625
+  },
+  "Realism_4_skis": {
+    "cosine": 3.609375,
+    "pearson": 3.578125,
+    "rmse": 3.953125
+  },
+  "Realism_4_surfboard": {
+    "cosine": 3.703125,
+    "pearson": 3.703125,
+    "rmse": 3.4375
+  },
+  "Realism_4_traffic-light": {
+    "cosine": 3.65625,
+    "pearson": 3.515625,
+    "rmse": 3.625
+  },
+  "Realism_4_truck": {
+    "cosine": 4.0,
+    "pearson": 3.921875,
+    "rmse": 3.6875
+  },
+  "Realism_4_umbrella": {
+    "cosine": 4.09375,
+    "pearson": 3.78125,
+    "rmse": 3.5625
+  },
+  "Realism_4_zebra": {
+    "cosine": 3.609375,
+    "pearson": 3.3125,
+    "rmse": 3.515625
+  },
+  "Romanticism_0_baseball-bat": {
+    "cosine": 3.3125,
+    "pearson": 2.953125,
+    "rmse": 3.234375
+  },
+  "Romanticism_0_bear": {
+    "cosine": 3.765625,
+    "pearson": 4.0,
+    "rmse": 3.78125
+  },
+  "Romanticism_0_bird": {
+    "cosine": 3.59375,
+    "pearson": 3.671875,
+    "rmse": 3.390625
+  },
+  "Romanticism_0_boat": {
+    "cosine": 3.09375,
+    "pearson": 3.28125,
+    "rmse": 3.53125
+  },
+  "Romanticism_0_bus": {
+    "cosine": 3.109375,
+    "pearson": 3.25,
+    "rmse": 2.828125
+  },
+  "Romanticism_0_car": {
+    "cosine": 2.921875,
+    "pearson": 3.15625,
+    "rmse": 3.09375
+  },
+  "Romanticism_0_carrot": {
+    "cosine": 4.1875,
+    "pearson": 3.890625,
+    "rmse": 4.0625
+  },
+  "Romanticism_0_cow": {
+    "cosine": 3.390625,
+    "pearson": 3.59375,
+    "rmse": 3.328125
+  },
+  "Romanticism_0_hair-drier": {
+    "cosine": 4.28125,
+    "pearson": 4.3125,
+    "rmse": 4.21875
+  },
+  "Romanticism_0_kite": {
+    "cosine": 2.96875,
+    "pearson": 3.109375,
+    "rmse": 3.109375
+  },
+  "Romanticism_0_orange": {
+    "cosine": 3.28125,
+    "pearson": 3.234375,
+    "rmse": 3.15625
+  },
+  "Romanticism_0_person": {
+    "cosine": 4.59375,
+    "pearson": 4.53125,
+    "rmse": 4.21875
+  },
+  "Romanticism_0_potted-plant": {
+    "cosine": 4.03125,
+    "pearson": 4.125,
+    "rmse": 4.15625
+  },
+  "Romanticism_0_sheep": {
+    "cosine": 3.140625,
+    "pearson": 3.265625,
+    "rmse": 3.15625
+  },
+  "Romanticism_0_skis": {
+    "cosine": 3.375,
+    "pearson": 3.640625,
+    "rmse": 3.515625
+  },
+  "Romanticism_0_surfboard": {
+    "cosine": 3.953125,
+    "pearson": 3.75,
+    "rmse": 4.0625
+  },
+  "Romanticism_0_traffic-light": {
+    "cosine": 3.265625,
+    "pearson": 3.171875,
+    "rmse": 3.65625
+  },
+  "Romanticism_0_truck": {
+    "cosine": 3.984375,
+    "pearson": 4.03125,
+    "rmse": 3.78125
+  },
+  "Romanticism_0_umbrella": {
+    "cosine": 3.484375,
+    "pearson": 3.375,
+    "rmse": 3.53125
+  },
+  "Romanticism_0_zebra": {
+    "cosine": 3.828125,
+    "pearson": 3.046875,
+    "rmse": 3.671875
+  },
+  "Romanticism_1_baseball-bat": {
+    "cosine": 3.8125,
+    "pearson": 3.71875,
+    "rmse": 3.984375
+  },
+  "Romanticism_1_bear": {
+    "cosine": 3.859375,
+    "pearson": 3.71875,
+    "rmse": 3.625
+  },
+  "Romanticism_1_bird": {
+    "cosine": 4.03125,
+    "pearson": 4.09375,
+    "rmse": 3.96875
+  },
+  "Romanticism_1_boat": {
+    "cosine": 4.03125,
+    "pearson": 4.1875,
+    "rmse": 3.984375
+  },
+  "Romanticism_1_bus": {
+    "cosine": 3.40625,
+    "pearson": 3.421875,
+    "rmse": 3.3125
+  },
+  "Romanticism_1_car": {
+    "cosine": 3.921875,
+    "pearson": 3.765625,
+    "rmse": 4.0
+  },
+  "Romanticism_1_carrot": {
+    "cosine": 4.375,
+    "pearson": 4.40625,
+    "rmse": 4.125
+  },
+  "Romanticism_1_cow": {
+    "cosine": 3.890625,
+    "pearson": 3.765625,
+    "rmse": 4.03125
+  },
+  "Romanticism_1_hair-drier": {
+    "cosine": 4.46875,
+    "pearson": 4.375,
+    "rmse": 4.65625
+  },
+  "Romanticism_1_kite": {
+    "cosine": 3.78125,
+    "pearson": 3.609375,
+    "rmse": 3.8125
+  },
+  "Romanticism_1_orange": {
+    "cosine": 3.5,
+    "pearson": 3.703125,
+    "rmse": 3.59375
+  },
+  "Romanticism_1_person": {
+    "cosine": 4.46875,
+    "pearson": 4.59375,
+    "rmse": 4.34375
+  },
+  "Romanticism_1_potted-plant": {
+    "cosine": 4.09375,
+    "pearson": 3.828125,
+    "rmse": 3.96875
+  },
+  "Romanticism_1_sheep": {
+    "cosine": 3.671875,
+    "pearson": 3.671875,
+    "rmse": 3.859375
+  },
+  "Romanticism_1_skis": {
+    "cosine": 4.03125,
+    "pearson": 4.25,
+    "rmse": 3.796875
+  },
+  "Romanticism_1_surfboard": {
+    "cosine": 4.0,
+    "pearson": 4.09375,
+    "rmse": 3.921875
+  },
+  "Romanticism_1_traffic-light": {
+    "cosine": 3.671875,
+    "pearson": 3.6875,
+    "rmse": 3.875
+  },
+  "Romanticism_1_truck": {
+    "cosine": 3.828125,
+    "pearson": 4.0625,
+    "rmse": 4.1875
+  },
+  "Romanticism_1_umbrella": {
+    "cosine": 4.21875,
+    "pearson": 4.0625,
+    "rmse": 3.78125
+  },
+  "Romanticism_1_zebra": {
+    "cosine": 3.90625,
+    "pearson": 3.625,
+    "rmse": 4.0
+  },
+  "Romanticism_2_baseball-bat": {
+    "cosine": 3.359375,
+    "pearson": 3.328125,
+    "rmse": 3.375
+  },
+  "Romanticism_2_bear": {
+    "cosine": 4.0625,
+    "pearson": 4.25,
+    "rmse": 3.921875
+  },
+  "Romanticism_2_bird": {
+    "cosine": 3.5625,
+    "pearson": 3.28125,
+    "rmse": 3.515625
+  },
+  "Romanticism_2_boat": {
+    "cosine": 3.53125,
+    "pearson": 3.875,
+    "rmse": 3.65625
+  },
+  "Romanticism_2_bus": {
+    "cosine": 2.984375,
+    "pearson": 3.359375,
+    "rmse": 3.25
+  },
+  "Romanticism_2_car": {
+    "cosine": 3.203125,
+    "pearson": 3.125,
+    "rmse": 3.140625
+  },
+  "Romanticism_2_carrot": {
+    "cosine": 4.1875,
+    "pearson": 4.1875,
+    "rmse": 4.09375
+  },
+  "Romanticism_2_cow": {
+    "cosine": 3.484375,
+    "pearson": 3.703125,
+    "rmse": 3.40625
+  },
+  "Romanticism_2_hair-drier": {
+    "cosine": 4.03125,
+    "pearson": 4.09375,
+    "rmse": 4.0
+  },
+  "Romanticism_2_kite": {
+    "cosine": 3.359375,
+    "pearson": 3.53125,
+    "rmse": 3.421875
+  },
+  "Romanticism_2_orange": {
+    "cosine": 3.125,
+    "pearson": 3.046875,
+    "rmse": 3.03125
+  },
+  "Romanticism_2_person": {
+    "cosine": 4.40625,
+    "pearson": 4.4375,
+    "rmse": 4.15625
+  },
+  "Romanticism_2_potted-plant": {
+    "cosine": 3.921875,
+    "pearson": 4.3125,
+    "rmse": 4.03125
+  },
+  "Romanticism_2_sheep": {
+    "cosine": 3.3125,
+    "pearson": 3.375,
+    "rmse": 3.140625
+  },
+  "Romanticism_2_skis": {
+    "cosine": 3.46875,
+    "pearson": 3.640625,
+    "rmse": 3.78125
+  },
+  "Romanticism_2_surfboard": {
+    "cosine": 3.765625,
+    "pearson": 3.984375,
+    "rmse": 3.953125
+  },
+  "Romanticism_2_traffic-light": {
+    "cosine": 3.21875,
+    "pearson": 3.0,
+    "rmse": 3.25
+  },
+  "Romanticism_2_truck": {
+    "cosine": 4.1875,
+    "pearson": 4.25,
+    "rmse": 4.25
+  },
+  "Romanticism_2_umbrella": {
+    "cosine": 3.625,
+    "pearson": 3.875,
+    "rmse": 4.125
+  },
+  "Romanticism_2_zebra": {
+    "cosine": 3.96875,
+    "pearson": 3.71875,
+    "rmse": 3.84375
+  },
+  "Romanticism_3_baseball-bat": {
+    "cosine": 3.671875,
+    "pearson": 3.5625,
+    "rmse": 3.78125
+  },
+  "Romanticism_3_bear": {
+    "cosine": 3.984375,
+    "pearson": 4.125,
+    "rmse": 4.0625
+  },
+  "Romanticism_3_bird": {
+    "cosine": 4.0625,
+    "pearson": 4.375,
+    "rmse": 4.125
+  },
+  "Romanticism_3_boat": {
+    "cosine": 3.796875,
+    "pearson": 3.984375,
+    "rmse": 3.65625
+  },
+  "Romanticism_3_bus": {
+    "cosine": 3.375,
+    "pearson": 3.625,
+    "rmse": 3.703125
+  },
+  "Romanticism_3_car": {
+    "cosine": 4.09375,
+    "pearson": 4.125,
+    "rmse": 4.03125
+  },
+  "Romanticism_3_carrot": {
+    "cosine": 3.96875,
+    "pearson": 3.90625,
+    "rmse": 3.78125
+  },
+  "Romanticism_3_cow": {
+    "cosine": 3.484375,
+    "pearson": 3.390625,
+    "rmse": 3.625
+  },
+  "Romanticism_3_hair-drier": {
+    "cosine": 4.6875,
+    "pearson": 4.5625,
+    "rmse": 4.53125
+  },
+  "Romanticism_3_kite": {
+    "cosine": 4.125,
+    "pearson": 4.28125,
+    "rmse": 4.25
+  },
+  "Romanticism_3_orange": {
+    "cosine": 3.40625,
+    "pearson": 3.59375,
+    "rmse": 3.765625
+  },
+  "Romanticism_3_person": {
+    "cosine": 4.15625,
+    "pearson": 3.96875,
+    "rmse": 4.1875
+  },
+  "Romanticism_3_potted-plant": {
+    "cosine": 4.28125,
+    "pearson": 4.0,
+    "rmse": 4.0
+  },
+  "Romanticism_3_sheep": {
+    "cosine": 3.875,
+    "pearson": 3.75,
+    "rmse": 4.03125
+  },
+  "Romanticism_3_skis": {
+    "cosine": 3.75,
+    "pearson": 3.71875,
+    "rmse": 3.765625
+  },
+  "Romanticism_3_surfboard": {
+    "cosine": 4.03125,
+    "pearson": 4.03125,
+    "rmse": 4.03125
+  },
+  "Romanticism_3_traffic-light": {
+    "cosine": 4.25,
+    "pearson": 4.5,
+    "rmse": 4.6875
+  },
+  "Romanticism_3_truck": {
+    "cosine": 4.03125,
+    "pearson": 3.828125,
+    "rmse": 4.375
+  },
+  "Romanticism_3_umbrella": {
+    "cosine": 4.53125,
+    "pearson": 4.375,
+    "rmse": 4.5625
+  },
+  "Romanticism_3_zebra": {
+    "cosine": 4.09375,
+    "pearson": 3.71875,
+    "rmse": 3.96875
+  },
+  "Romanticism_4_baseball-bat": {
+    "cosine": 3.90625,
+    "pearson": 4.1875,
+    "rmse": 4.125
+  },
+  "Romanticism_4_bear": {
+    "cosine": 4.46875,
+    "pearson": 4.40625,
+    "rmse": 4.5
+  },
+  "Romanticism_4_bird": {
+    "cosine": 4.3125,
+    "pearson": 4.3125,
+    "rmse": 4.28125
+  },
+  "Romanticism_4_boat": {
+    "cosine": 4.53125,
+    "pearson": 4.5625,
+    "rmse": 4.6875
+  },
+  "Romanticism_4_bus": {
+    "cosine": 3.796875,
+    "pearson": 4.03125,
+    "rmse": 4.0
+  },
+  "Romanticism_4_car": {
+    "cosine": 4.4375,
+    "pearson": 4.40625,
+    "rmse": 4.34375
+  },
+  "Romanticism_4_carrot": {
+    "cosine": 5.0,
+    "pearson": 4.875,
+    "rmse": 4.90625
+  },
+  "Romanticism_4_cow": {
+    "cosine": 3.90625,
+    "pearson": 4.09375,
+    "rmse": 4.40625
+  },
+  "Romanticism_4_hair-drier": {
+    "cosine": 5.25,
+    "pearson": 5.3125,
+    "rmse": 5.1875
+  },
+  "Romanticism_4_kite": {
+    "cosine": 4.625,
+    "pearson": 4.40625,
+    "rmse": 4.71875
+  },
+  "Romanticism_4_orange": {
+    "cosine": 4.3125,
+    "pearson": 4.59375,
+    "rmse": 4.53125
+  },
+  "Romanticism_4_person": {
+    "cosine": 4.40625,
+    "pearson": 4.59375,
+    "rmse": 4.40625
+  },
+  "Romanticism_4_potted-plant": {
+    "cosine": 4.40625,
+    "pearson": 4.5625,
+    "rmse": 4.59375
+  },
+  "Romanticism_4_sheep": {
+    "cosine": 4.15625,
+    "pearson": 4.03125,
+    "rmse": 4.25
+  },
+  "Romanticism_4_skis": {
+    "cosine": 4.09375,
+    "pearson": 4.5,
+    "rmse": 4.40625
+  },
+  "Romanticism_4_surfboard": {
+    "cosine": 4.34375,
+    "pearson": 4.4375,
+    "rmse": 4.21875
+  },
+  "Romanticism_4_traffic-light": {
+    "cosine": 4.21875,
+    "pearson": 4.1875,
+    "rmse": 4.125
+  },
+  "Romanticism_4_truck": {
+    "cosine": 4.5,
+    "pearson": 4.4375,
+    "rmse": 4.46875
+  },
+  "Romanticism_4_umbrella": {
+    "cosine": 4.875,
+    "pearson": 4.8125,
+    "rmse": 4.59375
+  },
+  "Romanticism_4_zebra": {
+    "cosine": 4.375,
+    "pearson": 4.1875,
+    "rmse": 4.375
+  },
+  "Symbolism_0_baseball-bat": {
+    "cosine": 3.703125,
+    "pearson": 3.765625,
+    "rmse": 3.625
+  },
+  "Symbolism_0_bear": {
+    "cosine": 4.0,
+    "pearson": 3.921875,
+    "rmse": 3.984375
+  },
+  "Symbolism_0_bird": {
+    "cosine": 4.375,
+    "pearson": 3.9375,
+    "rmse": 4.0625
+  },
+  "Symbolism_0_boat": {
+    "cosine": 3.671875,
+    "pearson": 3.59375,
+    "rmse": 3.765625
+  },
+  "Symbolism_0_bus": {
+    "cosine": 3.328125,
+    "pearson": 3.515625,
+    "rmse": 3.6875
+  },
+  "Symbolism_0_car": {
+    "cosine": 3.34375,
+    "pearson": 3.34375,
+    "rmse": 3.28125
+  },
+  "Symbolism_0_carrot": {
+    "cosine": 3.703125,
+    "pearson": 3.4375,
+    "rmse": 3.984375
+  },
+  "Symbolism_0_cow": {
+    "cosine": 3.5625,
+    "pearson": 3.375,
+    "rmse": 3.4375
+  },
+  "Symbolism_0_hair-drier": {
+    "cosine": 4.5625,
+    "pearson": 4.4375,
+    "rmse": 4.34375
+  },
+  "Symbolism_0_kite": {
+    "cosine": 3.65625,
+    "pearson": 3.671875,
+    "rmse": 3.828125
+  },
+  "Symbolism_0_orange": {
+    "cosine": 3.9375,
+    "pearson": 3.9375,
+    "rmse": 3.765625
+  },
+  "Symbolism_0_person": {
+    "cosine": 4.625,
+    "pearson": 4.71875,
+    "rmse": 4.65625
+  },
+  "Symbolism_0_potted-plant": {
+    "cosine": 4.15625,
+    "pearson": 4.15625,
+    "rmse": 4.09375
+  },
+  "Symbolism_0_sheep": {
+    "cosine": 3.59375,
+    "pearson": 3.75,
+    "rmse": 3.859375
+  },
+  "Symbolism_0_skis": {
+    "cosine": 3.890625,
+    "pearson": 4.15625,
+    "rmse": 4.0
+  },
+  "Symbolism_0_surfboard": {
+    "cosine": 3.828125,
+    "pearson": 3.9375,
+    "rmse": 4.0
+  },
+  "Symbolism_0_traffic-light": {
+    "cosine": 3.578125,
+    "pearson": 3.8125,
+    "rmse": 3.859375
+  },
+  "Symbolism_0_truck": {
+    "cosine": 4.15625,
+    "pearson": 4.46875,
+    "rmse": 4.375
+  },
+  "Symbolism_0_umbrella": {
+    "cosine": 3.828125,
+    "pearson": 3.828125,
+    "rmse": 3.984375
+  },
+  "Symbolism_0_zebra": {
+    "cosine": 3.8125,
+    "pearson": 3.3125,
+    "rmse": 3.859375
+  },
+  "Symbolism_1_baseball-bat": {
+    "cosine": 3.234375,
+    "pearson": 3.625,
+    "rmse": 3.75
+  },
+  "Symbolism_1_bear": {
+    "cosine": 4.46875,
+    "pearson": 4.53125,
+    "rmse": 4.46875
+  },
+  "Symbolism_1_bird": {
+    "cosine": 3.671875,
+    "pearson": 3.78125,
+    "rmse": 3.796875
+  },
+  "Symbolism_1_boat": {
+    "cosine": 3.84375,
+    "pearson": 4.0,
+    "rmse": 3.921875
+  },
+  "Symbolism_1_bus": {
+    "cosine": 3.453125,
+    "pearson": 3.4375,
+    "rmse": 3.53125
+  },
+  "Symbolism_1_car": {
+    "cosine": 3.921875,
+    "pearson": 3.828125,
+    "rmse": 3.75
+  },
+  "Symbolism_1_carrot": {
+    "cosine": 4.15625,
+    "pearson": 4.09375,
+    "rmse": 4.125
+  },
+  "Symbolism_1_cow": {
+    "cosine": 3.578125,
+    "pearson": 3.640625,
+    "rmse": 3.515625
+  },
+  "Symbolism_1_hair-drier": {
+    "cosine": 4.75,
+    "pearson": 4.84375,
+    "rmse": 4.90625
+  },
+  "Symbolism_1_kite": {
+    "cosine": 3.90625,
+    "pearson": 4.1875,
+    "rmse": 4.21875
+  },
+  "Symbolism_1_orange": {
+    "cosine": 3.546875,
+    "pearson": 3.703125,
+    "rmse": 3.71875
+  },
+  "Symbolism_1_person": {
+    "cosine": 4.625,
+    "pearson": 4.40625,
+    "rmse": 4.78125
+  },
+  "Symbolism_1_potted-plant": {
+    "cosine": 4.21875,
+    "pearson": 4.03125,
+    "rmse": 4.3125
+  },
+  "Symbolism_1_sheep": {
+    "cosine": 3.703125,
+    "pearson": 3.703125,
+    "rmse": 3.875
+  },
+  "Symbolism_1_skis": {
+    "cosine": 3.828125,
+    "pearson": 3.84375,
+    "rmse": 4.0
+  },
+  "Symbolism_1_surfboard": {
+    "cosine": 4.15625,
+    "pearson": 4.125,
+    "rmse": 4.1875
+  },
+  "Symbolism_1_traffic-light": {
+    "cosine": 3.703125,
+    "pearson": 3.75,
+    "rmse": 3.484375
+  },
+  "Symbolism_1_truck": {
+    "cosine": 4.3125,
+    "pearson": 4.3125,
+    "rmse": 4.6875
+  },
+  "Symbolism_1_umbrella": {
+    "cosine": 3.953125,
+    "pearson": 4.0625,
+    "rmse": 4.53125
+  },
+  "Symbolism_1_zebra": {
+    "cosine": 3.84375,
+    "pearson": 3.828125,
+    "rmse": 3.703125
+  },
+  "Symbolism_2_baseball-bat": {
+    "cosine": 4.1875,
+    "pearson": 4.125,
+    "rmse": 4.15625
+  },
+  "Symbolism_2_bear": {
+    "cosine": 4.4375,
+    "pearson": 4.375,
+    "rmse": 4.5
+  },
+  "Symbolism_2_bird": {
+    "cosine": 4.625,
+    "pearson": 4.53125,
+    "rmse": 4.21875
+  },
+  "Symbolism_2_boat": {
+    "cosine": 4.5,
+    "pearson": 4.34375,
+    "rmse": 3.9375
+  },
+  "Symbolism_2_bus": {
+    "cosine": 3.765625,
+    "pearson": 3.78125,
+    "rmse": 3.84375
+  },
+  "Symbolism_2_car": {
+    "cosine": 4.0625,
+    "pearson": 4.125,
+    "rmse": 4.03125
+  },
+  "Symbolism_2_carrot": {
+    "cosine": 4.4375,
+    "pearson": 4.53125,
+    "rmse": 4.34375
+  },
+  "Symbolism_2_cow": {
+    "cosine": 3.78125,
+    "pearson": 3.90625,
+    "rmse": 3.96875
+  },
+  "Symbolism_2_hair-drier": {
+    "cosine": 5.25,
+    "pearson": 5.25,
+    "rmse": 5.40625
+  },
+  "Symbolism_2_kite": {
+    "cosine": 4.1875,
+    "pearson": 4.3125,
+    "rmse": 4.375
+  },
+  "Symbolism_2_orange": {
+    "cosine": 4.46875,
+    "pearson": 4.25,
+    "rmse": 4.03125
+  },
+  "Symbolism_2_person": {
+    "cosine": 4.75,
+    "pearson": 4.71875,
+    "rmse": 4.75
+  },
+  "Symbolism_2_potted-plant": {
+    "cosine": 4.5,
+    "pearson": 4.53125,
+    "rmse": 4.5625
+  },
+  "Symbolism_2_sheep": {
+    "cosine": 3.9375,
+    "pearson": 3.921875,
+    "rmse": 3.65625
+  },
+  "Symbolism_2_skis": {
+    "cosine": 4.5625,
+    "pearson": 4.4375,
+    "rmse": 4.59375
+  },
+  "Symbolism_2_surfboard": {
+    "cosine": 4.09375,
+    "pearson": 4.25,
+    "rmse": 4.46875
+  },
+  "Symbolism_2_traffic-light": {
+    "cosine": 3.71875,
+    "pearson": 3.671875,
+    "rmse": 3.890625
+  },
+  "Symbolism_2_truck": {
+    "cosine": 4.625,
+    "pearson": 4.5625,
+    "rmse": 4.6875
+  },
+  "Symbolism_2_umbrella": {
+    "cosine": 4.34375,
+    "pearson": 4.46875,
+    "rmse": 4.34375
+  },
+  "Symbolism_2_zebra": {
+    "cosine": 4.5,
+    "pearson": 4.375,
+    "rmse": 4.5
+  }
+}
