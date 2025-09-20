@@ -4,7 +4,7 @@ from losses import GramMSELoss
 
 style_layers = ['r11','r21','r31','r41', 'r51']
 content_layers = ['r42']
-max_iter = 500 
+max_iter = 500
 img_size = 512
 
 max_iter_alt = 350
@@ -21,7 +21,6 @@ prs_content_weights = [1e-3]
 cos_style_weights = [5e7/n**2 for n in [64,128,256,512,512]]
 cos_content_weights = [1e-3]
 
-
 def compute_ratio_style_weights(vgg, 
                                 content_img, 
                                 style_img, 
@@ -30,7 +29,7 @@ def compute_ratio_style_weights(vgg,
                                 style_loss_fn,
                                 style_loss_weight = 1/3,  # Peso relativo della style loss rispetto alla content loss
                                 verbose = False,
-                                individual_layer_weights_by_loss = False):  
+                                weight_channel_aware=True):  
     """
     Calcola i pesi relativi per ciascun livello di stile in una rete di style transfer.
 
@@ -71,8 +70,8 @@ def compute_ratio_style_weights(vgg,
         mean_val = feat.mean()
         fake_feat = torch.full_like(feat, mean_val)
         content_loss += nn.MSELoss()(feat, fake_feat)
-    if verbose:
-        print(f"loss contenuto mse: {content_loss.item():.3e}")    
+    #if verbose:
+    #    print(f"loss contenuto mse: {content_loss.item():.3e}")    
 
     # Style loss per livello
     style_losses = []
@@ -102,32 +101,32 @@ def compute_ratio_style_weights(vgg,
 
         style_losses.append(loss.item())
 
-    if verbose:
-        print(f"loss stile per livello: {[f'{l:.3e}' for l in style_losses]}")
+    #if verbose:
+    #    print(f"loss stile per livello: {[f'{l:.3e}' for l in style_losses]}")
 
     # Calcolo dei pesi finali per ciascun livello
     scaled_style_weights = []
-    tot_style_loss = sum(style_losses)
-
-    if individual_layer_weights_by_loss:
-        alt_layer_w = [l/tot_style_loss for l in style_losses]
-    else:
+    if weight_channel_aware:
         squared_channels = [n**2 for n in layer_channels]
-        # Step 2: Sum of all squared channels
-        total_ch = sum(squared_channels)
-
+        tot_squared_channels = sum(squared_channels)
+        tmp_l = [val/tot_squared_channels for val in squared_channels]
+        l_bar_l = [style_losses[l]/tmp_l[l] for l in range(len(tmp_l))]
+    else: 
+        #Ts = sum(style_losses)
+        #tmp_l = [loss/Ts for loss in style_losses]
+        tmp_l = style_losses
+        l_bar_l = tmp_l*len(style_losses)
+    
 
     for i in range(len(style_losses)):
-        if individual_layer_weights_by_loss:
-            style_loss_i = tot_style_loss*alt_layer_w[i]
-        else:
-            #peso basato sulla dimensione della feature map rappostato alla loss totale
-            style_loss_i = tot_style_loss*(squared_channels[i])/total_ch
-
-        weight_i = (style_loss_weight * content_loss.item()) / (style_loss_i + eps)
+        #peso bsato sulla dimensione della feature map rappostato alla loss totale
+        ###style_loss_i = tot_style_loss*(squared_channels[i])/total_ch
+        #style_loss_i = tot_style_loss*alt_layer_w[i]
+        #alt_layer_w
+        weight_i = (style_loss_weight * content_loss.item()) / (l_bar_l[i])
         #scaled_weight_i = weight_i * (1 / (n_i**2 + eps))
-        scaled_weight_i = weight_i
-        scaled_style_weights.append(scaled_weight_i)
+        #scaled_weight_i = weight_i
+        scaled_style_weights.append(weight_i)
 
     if verbose:
         print(f"scaled_style_weights: {[f'{w:.3e}' for w in scaled_style_weights]}")
