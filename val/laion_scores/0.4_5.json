@@ -1,0 +1,252 @@
+{
+  "Abstract_Expressionism_bus": {
+    "cosine": 3.0625,
+    "pearson": 3.296875,
+    "rmse": 3.015625
+  },
+  "Abstract_Expressionism_hair-drier": {
+    "cosine": 4.625,
+    "pearson": 4.5625,
+    "rmse": 4.625
+  },
+  "Abstract_Expressionism_kite": {
+    "cosine": 3.1875,
+    "pearson": 3.5625,
+    "rmse": 3.1875
+  },
+  "Abstract_Expressionism_person": {
+    "cosine": 4.375,
+    "pearson": 4.4375,
+    "rmse": 4.15625
+  },
+  "Abstract_Expressionism_umbrella": {
+    "cosine": 3.890625,
+    "pearson": 4.09375,
+    "rmse": 4.0625
+  },
+  "Art_Nouveau_bus": {
+    "cosine": 3.828125,
+    "pearson": 3.703125,
+    "rmse": 3.75
+  },
+  "Art_Nouveau_hair-drier": {
+    "cosine": 5.25,
+    "pearson": 5.0625,
+    "rmse": 5.1875
+  },
+  "Art_Nouveau_kite": {
+    "cosine": 3.8125,
+    "pearson": 4.09375,
+    "rmse": 4.09375
+  },
+  "Art_Nouveau_person": {
+    "cosine": 4.84375,
+    "pearson": 4.59375,
+    "rmse": 4.625
+  },
+  "Art_Nouveau_umbrella": {
+    "cosine": 4.46875,
+    "pearson": 4.5,
+    "rmse": 4.65625
+  },
+  "Baroque_bus": {
+    "cosine": 3.140625,
+    "pearson": 3.328125,
+    "rmse": 3.078125
+  },
+  "Baroque_hair-drier": {
+    "cosine": 4.875,
+    "pearson": 4.8125,
+    "rmse": 4.90625
+  },
+  "Baroque_kite": {
+    "cosine": 3.40625,
+    "pearson": 3.40625,
+    "rmse": 3.71875
+  },
+  "Baroque_person": {
+    "cosine": 4.09375,
+    "pearson": 4.03125,
+    "rmse": 3.890625
+  },
+  "Baroque_umbrella": {
+    "cosine": 4.25,
+    "pearson": 4.1875,
+    "rmse": 4.5
+  },
+  "Cubism_bus": {
+    "cosine": 3.203125,
+    "pearson": 3.375,
+    "rmse": 3.296875
+  },
+  "Cubism_hair-drier": {
+    "cosine": 4.625,
+    "pearson": 4.875,
+    "rmse": 4.75
+  },
+  "Cubism_kite": {
+    "cosine": 3.40625,
+    "pearson": 3.453125,
+    "rmse": 3.421875
+  },
+  "Cubism_person": {
+    "cosine": 4.15625,
+    "pearson": 4.3125,
+    "rmse": 4.46875
+  },
+  "Cubism_umbrella": {
+    "cosine": 4.03125,
+    "pearson": 4.34375,
+    "rmse": 4.09375
+  },
+  "Expressionism_bus": {
+    "cosine": 3.640625,
+    "pearson": 3.671875,
+    "rmse": 3.734375
+  },
+  "Expressionism_hair-drier": {
+    "cosine": 4.78125,
+    "pearson": 5.03125,
+    "rmse": 4.90625
+  },
+  "Expressionism_kite": {
+    "cosine": 3.171875,
+    "pearson": 3.8125,
+    "rmse": 3.640625
+  },
+  "Expressionism_person": {
+    "cosine": 4.53125,
+    "pearson": 4.5625,
+    "rmse": 3.625
+  },
+  "Expressionism_umbrella": {
+    "cosine": 4.625,
+    "pearson": 4.71875,
+    "rmse": 4.71875
+  },
+  "Impressionism_bus": {
+    "cosine": 3.15625,
+    "pearson": 3.203125,
+    "rmse": 3.0
+  },
+  "Impressionism_hair-drier": {
+    "cosine": 4.46875,
+    "pearson": 4.53125,
+    "rmse": 4.6875
+  },
+  "Impressionism_kite": {
+    "cosine": 2.96875,
+    "pearson": 3.421875,
+    "rmse": 3.109375
+  },
+  "Impressionism_person": {
+    "cosine": 3.96875,
+    "pearson": 4.03125,
+    "rmse": 3.375
+  },
+  "Impressionism_umbrella": {
+    "cosine": 3.671875,
+    "pearson": 3.796875,
+    "rmse": 4.0625
+  },
+  "Post_Impressionism_bus": {
+    "cosine": 3.59375,
+    "pearson": 3.578125,
+    "rmse": 3.5625
+  },
+  "Post_Impressionism_hair-drier": {
+    "cosine": 4.8125,
+    "pearson": 5.0,
+    "rmse": 4.9375
+  },
+  "Post_Impressionism_kite": {
+    "cosine": 4.0625,
+    "pearson": 3.9375,
+    "rmse": 4.03125
+  },
+  "Post_Impressionism_person": {
+    "cosine": 4.3125,
+    "pearson": 4.53125,
+    "rmse": 4.40625
+  },
+  "Post_Impressionism_umbrella": {
+    "cosine": 4.53125,
+    "pearson": 4.6875,
+    "rmse": 4.71875
+  },
+  "Realism_bus": {
+    "cosine": 2.828125,
+    "pearson": 3.125,
+    "rmse": 3.328125
+  },
+  "Realism_hair-drier": {
+    "cosine": 4.40625,
+    "pearson": 4.5625,
+    "rmse": 4.5625
+  },
+  "Realism_kite": {
+    "cosine": 3.03125,
+    "pearson": 2.984375,
+    "rmse": 3.375
+  },
+  "Realism_person": {
+    "cosine": 4.0,
+    "pearson": 4.0625,
+    "rmse": 3.84375
+  },
+  "Realism_umbrella": {
+    "cosine": 3.734375,
+    "pearson": 3.9375,
+    "rmse": 3.984375
+  },
+  "Romanticism_bus": {
+    "cosine": 3.078125,
+    "pearson": 3.203125,
+    "rmse": 3.03125
+  },
+  "Romanticism_hair-drier": {
+    "cosine": 4.40625,
+    "pearson": 4.46875,
+    "rmse": 4.40625
+  },
+  "Romanticism_kite": {
+    "cosine": 3.515625,
+    "pearson": 3.421875,
+    "rmse": 3.375
+  },
+  "Romanticism_person": {
+    "cosine": 4.375,
+    "pearson": 4.21875,
+    "rmse": 4.3125
+  },
+  "Romanticism_umbrella": {
+    "cosine": 3.96875,
+    "pearson": 3.671875,
+    "rmse": 3.75
+  },
+  "Symbolism_bus": {
+    "cosine": 2.921875,
+    "pearson": 3.046875,
+    "rmse": 2.9375
+  },
+  "Symbolism_hair-drier": {
+    "cosine": 4.8125,
+    "pearson": 4.75,
+    "rmse": 4.6875
+  },
+  "Symbolism_kite": {
+    "cosine": 3.234375,
+    "pearson": 3.59375,
+    "rmse": 3.578125
+  },
+  "Symbolism_person": {
+    "cosine": 4.21875,
+    "pearson": 4.28125,
+    "rmse": 4.34375
+  },
+  "Symbolism_umbrella": {
+    "cosine": 3.5,
+    "pearson": 3.78125,
+    "rmse": 3.796875
+  }
+}

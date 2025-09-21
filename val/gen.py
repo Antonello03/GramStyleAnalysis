@@ -79,7 +79,7 @@ losses_list = [
    ("cos",  CosineSimilarityLoss)
 ]
 
-methods = [suffix for suffix, _, _ in losses_list]
+methods = [suffix for suffix, _ in losses_list]
 
 method_times = {method: 0.0 for method in methods}
 
@@ -89,12 +89,12 @@ for threshold in thresholds:
         gc.collect()
         torch.cuda.empty_cache()
 
-        for idx_c, content_img in enumerate(content_imgs[:2]):
-            for idx_s, style_img in enumerate(style_imgs[:2]):
+        for idx_c, content_img in enumerate(content_imgs):
+            for idx_s, style_img in enumerate(style_imgs):
                 i += 1
                 c_name, s_name = content_names[idx_c], style_names[idx_s]
 
-                for suffix, loss_cls, lr in losses_list:
+                for suffix, loss_cls in losses_list:
                     reset_seeds()
                     start_loss = time.perf_counter()
 
